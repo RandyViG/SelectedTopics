@@ -221,8 +221,8 @@ if __name__ == "__main__":
     tagSent=getPKL('Sentences4.pkl')
 
     #word1='grande aq0cs0'
-    #word1='abastecer V'
-    word1='nacional aq0cs0'
+    word1='abastecer V'
+    #word1='nacional aq0cs0'
 
     ##pruebas aqui deberia de ir la funcion para hacer la mega formula, llamando a getProbability y getProbability2
     ##el 2 hace lo de dos palabras y el normal el de 1 palabra, recuerda que el de la palabra 1 solo se calcula una vez :3 
@@ -241,5 +241,5 @@ if __name__ == "__main__":
 
     fv=open('similitudEntropy_'+ word1.split(' ')[0] +'.txt','w')
     for e in entropy:
-        fv.write(e[0] + ' ' + str(e[1]) + '\n')
+        fv.write( '{:30}{:30}\n'.format(e[0],e[1]) )
     #print(Pword1)
