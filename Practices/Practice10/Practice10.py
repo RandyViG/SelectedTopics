@@ -76,15 +76,18 @@ def getProbability(word,sentences):
     for s in sentences:
         if(bool(s.count(word))):
             suma=suma+1
-
-    return suma/len(sentences)
+    #print('1 Palabra')
+    #print(suma)
+    return (suma+0.5) / ( len(sentences) + 1 )
 
 def getProbability2(word1,word2,sentences):
     suma=0
     for s in sentences:
         if(bool(s.count(word1) and bool(s.count(word2)))):
             suma=suma+1
-    return suma/len(sentences)
+    #print('dos Palabra')
+    #print(suma)
+    return (suma + 0.25) / ( len(sentences) + 1 )
 
 '''
 -----------------------------------------------------------
@@ -107,31 +110,11 @@ def getTableProbability( pWord1 , pWord2 , pW1AndpW2 ):
     return table  
 
 def getEntropy( table ):
-    try:
-        x1 = table[6] * math.log2(table[3]/table[0]) + table[6] * math.log2(table[6]/table[0])
-    except ValueError:
-        aux1 = table[3]/table[0]
-        aux2 = table[6]/table[0]
-        if (aux1 == 0 and aux2 > 0 ):
-            x1 = table[6] * math.log2( aux2 )
-        elif ( aux2 == 0 and aux1 > 0 ):
-            x1 = table[6] * math.log2( aux1 ) 
-        else:
-            x1 = 0       
-    try:
-        x2 = table[7] * math.log2(table[4]/table[1]) + table[7] * math.log2(table[4]/table[1])
-    except ValueError:
-        aux1 = table[4]/table[1]
-        aux2 = table[4]/table[1]
-        if (aux1 == 0 and aux2 > 0 ):
-            x2 = table[7] * math.log2( aux2 )
-        elif ( aux2 == 0 and aux1 > 0 ):
-            x2 = table[7] * math.log2( aux1 ) 
-        else:
-            x2 = 0
-        
-        
-    H = -1*( x1 + x2 )
+    
+    x1 = table[3] * math.log2( table[3] / table[0] ) + table[6] * math.log2( table[6] / table[0] )
+    x2 = table[4] * math.log2( table[4] / table[1] ) + table[7] * math.log2( table[7] / table[1] )
+
+    H = ( x1 + x2 )
 
     return H 
 
@@ -142,6 +125,7 @@ def lemmetization(tokens,lemmas):
             newTokens.append(lemmas[token])
         else:
             newTokens.append(token)
+
     return newTokens
 
 def getGenerate():
@@ -151,6 +135,7 @@ def getGenerate():
     for linea in archivo.readlines(): 
         lemmas[linea.split(' ')[0].replace("#","")]=linea.split(' ')[-1][:-1]
     archivo.close()
+
     return lemmas
 
 def generateTagger():      
@@ -171,6 +156,7 @@ def cleanTagger(s_tagged):
     vocabulary=[]
     for i in range(len(s_tagged)):
         vocabulary.append(s_tagged[i][0]+" "+s_tagged[i][1])
+    
     return vocabulary
 
 def pkl(f,info):
@@ -221,12 +207,10 @@ if __name__ == "__main__":
     tagSent=getPKL('Sentences4.pkl')
 
     #word1='grande aq0cs0'
-    word1='abastecer V'
+    #word1='abastecer V'
+    word1 = 'economía ncfs000'
     #word1='nacional aq0cs0'
 
-    ##pruebas aqui deberia de ir la funcion para hacer la mega formula, llamando a getProbability y getProbability2
-    ##el 2 hace lo de dos palabras y el normal el de 1 palabra, recuerda que el de la palabra 1 solo se calcula una vez :3 
-    
     entropy = [ ]
 
     pWord1= getProbability( word1,tagSent )
@@ -237,9 +221,8 @@ if __name__ == "__main__":
         H = getEntropy( table )
         entropy.append( (termn,H) )
 
-    entropy = sorted(entropy,key=operator.itemgetter(1))
+    entropy = sorted(entropy,key=operator.itemgetter(1),reverse=True)
 
-    fv=open('similitudEntropy_'+ word1.split(' ')[0] +'.txt','w')
+    fv=open('InfoMutua_'+ word1.split(' ')[0] +'.txt','w')
     for e in entropy:
         fv.write( '{:30}{:30}\n'.format(e[0],e[1]) )
-    #print(Pword1)
