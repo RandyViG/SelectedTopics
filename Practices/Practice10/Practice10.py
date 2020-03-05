@@ -110,11 +110,10 @@ def getTableProbability( pWord1 , pWord2 , pW1AndpW2 ):
     return table  
 
 def getEntropy( table ):
-    
     x1 = table[3] * math.log2( table[3] / table[0] ) + table[6] * math.log2( table[6] / table[0] )
     x2 = table[4] * math.log2( table[4] / table[1] ) + table[7] * math.log2( table[7] / table[1] )
 
-    H = ( x1 + x2 )
+    H = -1 * ( x1 + x2 )
 
     return H 
 
@@ -221,8 +220,8 @@ if __name__ == "__main__":
         H = getEntropy( table )
         entropy.append( (termn,H) )
 
-    entropy = sorted(entropy,key=operator.itemgetter(1),reverse=True)
+    entropy = sorted(entropy,key=operator.itemgetter(1))
 
-    fv=open('InfoMutua_'+ word1.split(' ')[0] +'.txt','w')
+    fv=open('Entropy_'+ word1.split(' ')[0] +'.txt','w')
     for e in entropy:
         fv.write( '{:30}{:30}\n'.format(e[0],e[1]) )
