@@ -67,21 +67,19 @@ def costFunction( m , y , h_x  ):
     return sumCost
 
 def gradientDescent( theta, h_x , y , alpha , matrixT , m ):
-    temp = list()
+    auxTheta = list()
     for j in range(0, len(matrixT)):
-        ans = 0
+        summatory = 0
         for i in range(0, len(matrixT[j])):
             res = ((h_x[0][i] - y[i])) * matrixT[j][i]
-            ans = ans + res
-        ans = ans / m
-        aux =  theta[j][0] - (alpha * ans)
+            summatory = summatory + res
+        summatory = summatory / m
+        aux =  theta[j][0] - (alpha * summatory)
         listAux = list()
         listAux.append(aux)
-        temp.append(listAux)
-
-    tempNum = np.array(temp)
-
-    return tempNum
+        auxTheta.append(listAux)
+    newTheta = np.array(auxTheta)
+    return newTheta
 
 
 if __name__ == '__main__':
@@ -91,6 +89,7 @@ if __name__ == '__main__':
     mTraining , vTraining , mTest , vTest = mixup( matrix , vectorY )
     for row in mTraining:
         row.insert(0,1)
+
     theta = np.zeros( shape = ( len(mTraining[0]), 1) )
     thetaT = theta.T
 
@@ -102,6 +101,10 @@ if __name__ == '__main__':
 
     y = np.array(vTraining)
     yT = y.T
+
+    print('''\t***********************************************
+                             Training 
+    \t***********************************************''')
 
     h_x = hyphotesis( matrixT , thetaT )
     cost = costFunction( m , yT , h_x )
@@ -118,15 +121,16 @@ if __name__ == '__main__':
             print('Iteracion numero: {}'.format(i))
             print('Cost Function: {}'.format(cost))
 
+    print('''\t***********************************************
+                             Testing 
+    \t***********************************************''')
+
+    auxY = np.array(vTest)
+    vT = auxY.T
     thetaT = thetaT.T
-    matrixTest = np.array(mTest)
-    testT = matrixTest.T
+
     for row in mTest:
         h_x = hyphotesis( thetaT , row )
-        cost = costFunction( m, yt , h_x )
-        
+        cost = costFunction( m, vT , h_x )
+        print('Cost: {}'.format(cost))
 
-
-
-
-    
