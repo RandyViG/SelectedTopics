@@ -54,7 +54,21 @@ def mixup( matrix , vectorY ):
     mixMatrix = list(mixMatrix)
     mixVector = list(mixVector)
     lenTraining = int( len(mixMatrix) * 0.7)
-    return mixMatrix[:lenTraining] , mixVector[:lenTraining] , mixMatrix[-lenTraining:] , mixVector[-lenTraining:]
+    lenTest = len(mixMatrix) - lenTraining
+
+    mTraining = mixMatrix[:lenTraining]
+    vTraining = mixVector[:lenTraining]
+
+    mTest = mixMatrix[-lenTest:]
+    vTest = mixVector[-lenTest:]
+
+    for row in mTraining:
+        row.insert(0,1)
+    
+    for row in mTest:
+        row.insert(0,1)
+
+    return  mTraining , vTraining , mTest , vTest
     
 def hyphotesis( matrix , theta ): 
     h_x = np.dot( theta,matrix )
@@ -67,15 +81,15 @@ def costFunction( m , y , h_x  ):
     return sumCost
 
 def gradientDescent( theta, h_x , y , alpha , matrixT , m ):
-    auxTheta = list()
-    for j in range(0, len(matrixT)):
+    auxTheta = [ ]
+    for j in range( len(matrixT) ):
         summatory = 0
-        for i in range(0, len(matrixT[j])):
+        for i in range( len(matrixT[j]) ):
             res = ((h_x[0][i] - y[i])) * matrixT[j][i]
             summatory = summatory + res
         summatory = summatory / m
         aux =  theta[j][0] - (alpha * summatory)
-        listAux = list()
+        listAux = []
         listAux.append(aux)
         auxTheta.append(listAux)
     newTheta = np.array(auxTheta)
@@ -87,29 +101,30 @@ if __name__ == '__main__':
     matrix,vectorY = makeMatrix( data )
     matrix = normalize( matrix )
     mTraining , vTraining , mTest , vTest = mixup( matrix , vectorY )
-    for row in mTraining:
-        row.insert(0,1)
 
-    theta = np.zeros( shape = ( len(mTraining[0]), 1) )
-    thetaT = theta.T
-
+    test = np.array(mTest)
     matrix = np.array( mTraining )
     matrixT = matrix.T
 
-    alpha = 0.1
-    m = len(mTraining)
-
     y = np.array(vTraining)
     yT = y.T
+    auxY = np.array(vTest)
+    vT = auxY.T
 
-    print('''\t***********************************************
-                             Training 
-    \t***********************************************''')
+    theta = np.zeros( (len(mTraining[0]), 1) )
+    thetaT = theta.T
+
+    alpha = 0.1
+    m = len(mTraining)
+    print('''
+    \t**************************************************
+                            Training 
+    \t**************************************************''')
 
     h_x = hyphotesis( matrixT , thetaT )
     cost = costFunction( m , yT , h_x )
 
-    print('Cost Function: {}'.format(cost))
+    print('\tCost Function Initial: {}'.format(cost))
 
     for i in range(1000):
         auxTheta = gradientDescent( theta, h_x , yT , alpha , matrixT , m)
@@ -118,19 +133,17 @@ if __name__ == '__main__':
         h_x = hyphotesis( matrixT , thetaT )
         cost = costFunction( m , yT , h_x )
         if i % 50 == 0:
-            print('Iteracion numero: {}'.format(i))
-            print('Cost Function: {}'.format(cost))
+            print('\tIteracion numero: {}'.format(i))
+            print('\tCost Function: {}'.format(cost))
 
-    print('''\t***********************************************
-                             Testing 
-    \t***********************************************''')
+    print('''
+    \t**************************************************
+                            Testing 
+    \t**************************************************''')
 
-    auxY = np.array(vTest)
-    vT = auxY.T
-    thetaT = thetaT.T
+    thetaT = theta.T
 
-    for row in mTest:
-        h_x = hyphotesis( thetaT , row )
-        cost = costFunction( m, vT , h_x )
-        print('Cost: {}'.format(cost))
+    for i,row in enumerate(test):
+        h_x = float(hyphotesis( row , thetaT ))
+        print( '\tPrediction: {:20}  Real: {:10}'.format( h_x , vT[i] ) )
 
