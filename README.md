@@ -11,5 +11,7 @@ __Requerimientos__
 - ***Matplotlib***
 `Para Arch Linux`
 `sudo pacman -S python-matplotlib`
+- ***scikit-learn***
+`pip install -U scikit-learn`
 
 [Libro: Natural Language Processing with Python](http://www.nltk.org/book_1ed/)
