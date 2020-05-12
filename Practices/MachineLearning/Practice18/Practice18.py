@@ -1,5 +1,5 @@
 import nltk
-import random
+from random import randrange, seed
 import numpy as np
 from math import sqrt
 from random import randrange
@@ -85,88 +85,85 @@ def getProbability( vectors ):
         probabilities.append(proba)
     return probabilities
 
-def getCentroids( matrix ):
-    random.seed()   
-    c1 = randrange( 0 , len(matrix) )
-    c2 = randrange( 0 , len(matrix) )
-    return matrix[c1],matrix[c2]
+def getCentroids(vectors):
+    seed( None )
+    centroid1 = randrange( len(vectors) )
+    centroid2 = randrange( len(vectors) )
+    centroid1 = vectors[ centroid1 ]
+    centroid2 = vectors[ centroid2 ]
 
-def k_means( centroid1 , centroid2 , vectors , y ):
+    return centroid1,centroid2
 
-    for i in range( 50 ):
-        #Cluster assigment
-        cluster1 = [ ]
-        cluster2 = [ ]
-        y1 = [ ]
-        y2 = [ ]
+def kmeans( centroid1 , centroid2 , vectors ,y):
+    for i in range(50):
+        #Cluster assignment
+        cluster1=[]
+        cluster2=[]
+        y1=[]
+        y2=[]
         for j,vector in enumerate(vectors):
-            distance_C1 = sqrt ( np.sum( (vector - centroid1) ** 2 ) )
-            distance_C2 = sqrt ( np.sum( (vector - centroid2) ** 2 ) )
-            if distance_C1 < distance_C2:
-                cluster1.append( vector )
-                y1.append( y[j] )
+            distance1 = sqrt(np.sum( (vector-centroid1) ** 2) )
+            distance2 = sqrt(np.sum( (vector-centroid2) ** 2) )
+            if distance1 < distance2:
+                cluster1.append(vector)
+                y1.append(y[j])
             else:
-                cluster2.append( vector )
-                y2.append( y[j] )
+                cluster2.append(vector)
+                y2.append(y[j])
         
-        cluster1 = np.array( cluster1 )
-        cluster2 = np.array( cluster2 )
-
-        #move centroid
-        aux = np.zeros( (len(cluster1[0]) ) )
+        cluster1 = np.array(cluster1)
+        cluster2 = np.array(cluster2)
+        
+        #Move centroid
+        aux = np.zeros( ( len( cluster1[0]) ) )
         for vector in cluster1:
             aux = aux + vector
-        centroid1 = aux * ( 1 / len( cluster1 ) )
-
-        aux2 = np.zeros( (len(cluster2[0]) ) )
+        centroid1 = aux * (1/len(cluster1))
+        aux2 = np.zeros( ( len( cluster2[0]) ) )
         for vector in cluster2:
             aux2 = aux2 + vector
-        centroid2 = aux2 * ( 1 / len( cluster2 ) )
+        centroid2 = aux2 * ( 1/len(cluster2) )
 
-    return centroid1 , centroid2 , cluster1 , cluster2, y1 , y2
+    return centroid1,centroid2,cluster1,cluster2,y1,y2
 
-def costFunction( centroid1 , centroid2 , cluster1 , cluster2 , m):
-    distance_C1 = 0
-    distance_C2 = 0
+
+def costFunction(centroid1,centroid2,cluster1,cluster2,m):
+    suma1=0
+    suma2=0
     for vector in cluster1:
-        distance_C1 = distance_C1 + sqrt ( np.sum( (vector - centroid1) ** 2 ) )
+        distance1 = sqrt ( np.sum( (vector-centroid1) ** 2 ) )
+        suma1=suma1+distance1
     for vector in cluster2:
-        distance_C2 = distance_C2 + sqrt ( np.sum( (vector - centroid2) ** 2 ) )
-
-    return ( ( distance_C1 + distance_C2 ) / m )
-
+        distance2 = sqrt ( np.sum( (vector-centroid2) **2 ) )
+        suma2=suma2+distance2
+    suma=suma1+suma2
+    cost=suma/m
+    
+    return cost
+    
 if __name__ == '__main__':
-    messages = readText( 'spam.txt' )
-    vectors , vectorY = makeMatrix( messages )
-    vocabulary , tokenMessage  = normalization( vectors )
-    vectors = getVector( vocabulary , tokenMessage )
-    proba_vectors = getProbability( vectors )
-    vectors = np.array( proba_vectors )
+    messages = readText('../../Corpus/SMS_Spam_Corpus_big.txt')
+    vectors,vector_y = makeMatrix( messages )
+    vocabulary,tokens = normalization( vectors )
+    vectors = getVector( vocabulary , tokens )
+    probabilities_vectors = getProbability( vectors )
+    vectors = np.array( probabilities_vectors )
+
     m = len( vectors )
     costs = [ ]
-    values_y1 = [ ]
-    values_y2 = [ ]
-    for i in range( 50 ):
-        print('Iteration {}'.format(i) , end="\r")
-        centroid1,centroid2 = getCentroids( vectors )
-        centroid1,centroid2,cluster1,cluster1,y1,y2 = k_means( centroid1 , centroid2 , vectors , vectorY )
-        cost = costFunction( centroid1 , centroid2 , cluster1 , cluster1 , m )
-        costs.append( ( cost,centroid1,centroid2 ) )
-        values_y1.append( y1 )
-        values_y2.append( y2 )
-    print("\n\r",end="")
-    order = sorted( costs , key=lambda tup:tup[0] )
-    i = costs.index( order[0] )
+    tables = [ ]
+    for i in range(50):
+        table = PrettyTable()
+        table.field_names = ['  ', 'Numero de spam' , 'Numero de ham']
+        centroid1,centroid2 = getCentroids(vectors)
+        centroid1,centroid2,cluster1,cluster2,y1,y2 = kmeans( centroid1 , centroid2 , vectors , vector_y )
+        cost = costFunction( centroid1 , centroid2 , cluster1 , cluster2 , m)
+        costs.append( cost )
+        table.add_row(['Cluster1',y1.count(1),y1.count(0)])
+        table.add_row(['Cluster2',y2.count(1),y2.count(0)])
+        tables.append(table)
 
-    vector_y1 = values_y1[i]
-    vector_y2 = values_y2[i]
-    print(len(vector_y1))
-    print(len(vector_y2))
-
-    print('Cost: {}'.format(order[0][0]))
-    print('Spam Cluster 1 {}'.format( vector_y1.count(1) ) )
-    print('Ham Cluster 1 {}'.format( vector_y1.count(0) ) )
-    print('Spam Cluster 2 {}'.format( vector_y2.count(1) ) )
-    print('Ham Cluster 2 {}'.format( vector_y2.count(0) ) )
-
-
+    min_cost = min( costs )
+    i = costs.index( min_cost )
+    print( 'Costo Minimo: {} '.format(min_cost) )
+    print(tables[i])
