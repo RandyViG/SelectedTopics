@@ -75,3 +75,6 @@ if __name__ == "__main__":
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
     print('Accuracy of prediction is', clf.score(x_test, y_test))
+
+    confused_matrix = confusion_matrix( y_test , y_pred )
+    print( confused_matrix )
