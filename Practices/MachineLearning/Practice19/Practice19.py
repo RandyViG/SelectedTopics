@@ -9,8 +9,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 '''
 +---------------------------------------------------------------+
-|                      Logistic Regression                      |
-|                            Ordinal                            |
+|                        Ordinal Logistic                       |
+|                           Regression                          |
 +---------------------------------------------------------------+
 '''
 lenSet = 4380

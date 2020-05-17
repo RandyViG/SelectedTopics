@@ -3,6 +3,7 @@ import numpy as np
 from sklearn.linear_model import LogisticRegression
 from sklearn.feature_extraction.text import TfidfVectorizer
 
+
 def readText( nameFile ):
     messages = [ ]
     with open( nameFile, encoding='iso-8859-1') as f:

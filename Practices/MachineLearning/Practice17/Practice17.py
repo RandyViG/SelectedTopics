@@ -108,7 +108,7 @@ def mixup( matrix , vectorY ):
 def hypothesis( theta, matrix ):
     z = np.dot( theta , matrix )
     z = z.T
-    h_x = 1 / ( 1 + np.exp(-z) )
+    h_x = 1 / ( 1 + np.exp(-1*z) )
     return h_x
 
 def costFunction( h_x , y , m ):
