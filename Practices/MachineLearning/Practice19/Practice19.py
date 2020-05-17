@@ -2,10 +2,11 @@ import numpy as np
 from mord import LogisticIT
 from nltk import word_tokenize
 from nltk.corpus import stopwords
-from sklearn import metrics
+from prettytable import PrettyTable
 from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import precision_score, recall_score , f1_score
 
 '''
 +---------------------------------------------------------------+
@@ -13,7 +14,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 |                           Regression                          |
 +---------------------------------------------------------------+
 '''
-lenSet = 4380
+lenSet = 3380
 
 def read_texts( path ):
     comments = [ ]
@@ -60,7 +61,6 @@ def tfidf_extractor( corpus ):
     return features 
 
 if __name__ == "__main__":
-    print(' Logistic Regression Ordinal ')
     comments = read_texts( '/home/randy/Descargas/corpusCine/corpusCriticasCine/' )
     print('\n')
     comments = clean_comments( comments )
@@ -74,7 +74,26 @@ if __name__ == "__main__":
     clf = LogisticIT()
     clf.fit(x_train, y_train)
     y_pred = clf.predict(x_test)
-    print('Accuracy of prediction is', clf.score(x_test, y_test))
-
     confused_matrix = confusion_matrix( y_test , y_pred )
-    print( confused_matrix )
+    table = PrettyTable()
+    table.field_names = [' ', '1' , '2','3','4','5']
+    for i,row in enumerate(confused_matrix):
+        aux = list( row )
+        aux.insert(0,i+1)
+        table.add_row( aux )
+    print('''
+    \t**************************************************
+                      Matriz de confusion 
+    \t**************************************************''')
+    print( table )
+    p = precision_score( y_test , y_pred , average='micro' )
+    r = recall_score( y_test , y_pred , average='micro' )
+    f1 = f1_score( y_test , y_pred , average='micro')
+    metricas = PrettyTable()
+    metricas.field_names = ['Precision','Recall','F1']
+    metricas.add_row( [p,r,f1] )
+    print('''
+    \t**************************************************
+                           Metricas 
+    \t**************************************************''')
+    print(metricas)
