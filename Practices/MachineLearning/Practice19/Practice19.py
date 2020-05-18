@@ -3,10 +3,9 @@ from mord import LogisticIT
 from nltk import word_tokenize
 from nltk.corpus import stopwords
 from prettytable import PrettyTable
-from sklearn.metrics import confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics import precision_score, recall_score , f1_score
+from sklearn.metrics import classification_report, confusion_matrix
 
 '''
 +---------------------------------------------------------------+
@@ -86,14 +85,9 @@ if __name__ == "__main__":
                       Matriz de confusion 
     \t**************************************************''')
     print( table )
-    p = precision_score( y_test , y_pred , average='micro' )
-    r = recall_score( y_test , y_pred , average='micro' )
-    f1 = f1_score( y_test , y_pred , average='micro')
-    metricas = PrettyTable()
-    metricas.field_names = ['Precision','Recall','F1']
-    metricas.add_row( [p,r,f1] )
+    metrics = classification_report( y_test , y_pred , zero_division=1 )
     print('''
     \t**************************************************
                            Metricas 
     \t**************************************************''')
-    print(metricas)
+    print( metrics )
