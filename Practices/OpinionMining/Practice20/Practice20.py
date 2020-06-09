@@ -97,6 +97,7 @@ def get_polarities_comments( comments,polarities,sentiCons ):
             normalized_polarities.append( sum_p/total )
         except ZeroDivisionError:
             normalized_polarities.append(0.0)
+    
     return normalized_polarities
 
 def get_polarities_class( normalized_polarities,ranks ):
