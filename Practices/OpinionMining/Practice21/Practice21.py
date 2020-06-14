@@ -108,8 +108,8 @@ def read_polarities( path ):
 
 if __name__ == '__main__':
     lemmas = openGenerate()
-    opinions_no , tokens_no = read_texts( 'peliculas/no' , lemmas )
-    opinions_yes , tokens_yes = read_texts( 'peliculas/yes' , lemmas)
+    opinions_no , tokens_no = read_texts( '../../Corpus/peliculas/no' , lemmas )
+    opinions_yes , tokens_yes = read_texts( '../../Corpus/peliculas/yes' , lemmas)
 
     tokens_opinions = tokens_no + tokens_yes
 
