@@ -117,7 +117,7 @@ if __name__ == '__main__':
     opinions = sent_tokenize( aux_opinions , "spanish" )
 
     ngrams = get_top_ngrams( tokens_opinions , 1 , 20 )
-    print( ngrams )
+    print('Unigrams:\n {} \n'.format(ngrams) )
     
     words = [ 'película','personaje','historia','gustar','cine','creer','querer' ]
 
@@ -141,7 +141,7 @@ if __name__ == '__main__':
                 else:
                     sentences[6].append( word_tokenize( opinion ) )
 
-    sentiCons , polarities = read_polarities('/home/randy/Descargas/ML-SentiCon/senticon.es.xml')
+    sentiCons , polarities = read_polarities('../../Corpus/senticon.es.xml')
     
     sum_polarities = [ 0 , 0 , 0 , 0 , 0 , 0 ,0 ]
     num_polarities = [ 0 , 0 , 0 , 0 , 0 , 0 ,0 ]
