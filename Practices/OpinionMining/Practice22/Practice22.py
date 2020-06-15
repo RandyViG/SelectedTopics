@@ -211,26 +211,13 @@ if __name__ == '__main__':
     words = [ 'película','personaje','historia','gustar','cine','creer','querer' ]
     sentences_yes = opinion_clasification( opinions_yes , words )
     sentences_no = opinion_clasification( opinions_no , words )
-
     lexicon = read_lexicon( '../../Corpus/Spanish_sentiment_lexicon/' )
-
     yes,w_positive_yes,w_negative_yes,positive_yes,negative_yes = get_words_polarities( sentences_yes , lexicon )
-
     no,w_positive_no,w_negative_no,positive_no,negative_no = get_words_polarities( sentences_no , lexicon )
-
     w_sort_pos_yes,w_sort_neg_yes = get_probabilities( yes,w_positive_yes,w_negative_yes ) 
-
     w_sort_pos_no,w_sort_neg_no = get_probabilities( no,w_positive_no,w_negative_no ) 
 
-    table = PrettyTable()
-    table.field_names = ['Caracteristicas','Polaridad en opiniones yes','Polaridad en opiniones no',
-                        '5 Palabras de polaridad positiva con la probabilidad mas alta en opniones yes',
-                        '5 Palabras de polaridad negativa con la probabilidad mas alta en opniones yes',
-                        '5 Palabras de polaridad positiva con la probabilidad mas alta en opniones no',
-                        '5 Palabras de polaridad negativa con la probabilidad mas alta en opniones no']
-    
-    print(w_sort_pos_yes[0][-5:])
-
+    print( '{:^20} {:30} {:30}\n'.format('Caracteristicas','Polaridad en opiniones yes','Polaridad en opiniones no'))
     for i,word in enumerate( words ):
         value1 = ''
         if positive_yes[i] > negative_yes[i]:
@@ -239,7 +226,6 @@ if __name__ == '__main__':
             value1 = 'neg'
         else:
             value1 = 'neutro'
-
         value2 = ''
         if positive_no[i] > negative_no[i]:
             value2 = 'pos'
@@ -247,7 +233,36 @@ if __name__ == '__main__':
             value2 = 'neg'
         else:
             value2 = 'neutro'
-        table.add_row( [ word,value1,value2, w_sort_pos_yes[i][-5:],w_sort_neg_yes[i][-5:],w_sort_pos_no[i][-5:],w_sort_neg_no[i][-5:] ] )
+        print( '{:^20} {:^30} {:^30}'.format(word,value1,value2) )
     
-    print(table)
-    
+    print('\n')
+    print( '{:^20} {:65}      {:65}\n'
+            .format('Caracteristicas',
+            '5 Palabras positivas con la probabilidad mas alta en opniones yes',
+            '5 Palabras negativas con la probabilidad mas alta en opniones yes') )
+    for i,word in enumerate( words ):
+        for j in range(1,6):
+            pos1 = len(w_sort_pos_yes[i])-j
+            pos2 = len(w_sort_neg_yes[i])-j
+            if j == 3:
+                print( '{:^20} {:^30} {:^35}      {:^30} {:^35}'.format(word,w_sort_pos_yes[i][pos1][1],w_sort_pos_yes[i][pos1][0],w_sort_neg_yes[i][pos2][1], w_sort_neg_yes[i][pos2][0] ) )
+            else:
+                print( '{:^20} {:^30} {:^35}      {:^30} {:^35}'.format('',w_sort_pos_yes[i][pos1][1],w_sort_pos_yes[i][pos1][0],w_sort_neg_yes[i][pos2][1], w_sort_neg_yes[i][pos2][0] ) )
+        print('\n')
+
+
+    print('\n')
+    print( '{:^20} {:65}      {:65}\n'
+            .format('Caracteristicas',
+            '5 Palabras positivas con la probabilidad mas alta en opniones no',
+            '5 Palabras negativas con la probabilidad mas alta en opniones no') )
+    for i,word in enumerate( words ):
+        for j in range(1,6):
+            pos1 = len(w_sort_pos_no[i])-j
+            pos2 = len(w_sort_neg_no[i])-j
+            if j == 3:
+                print( '{:^20} {:^30} {:^35}      {:^30} {:^35}'.format(word,w_sort_pos_no[i][pos1][1],w_sort_pos_no[i][pos1][0],w_sort_neg_no[i][pos2][1], w_sort_neg_no[i][pos2][0] ) )
+            else:
+                print( '{:^20} {:^30} {:^35}      {:^30} {:^35}'.format('',w_sort_pos_no[i][pos1][1],w_sort_pos_no[i][pos1][0],w_sort_neg_no[i][pos2][1], w_sort_neg_no[i][pos2][0] ) )
+        print('\n')
+
