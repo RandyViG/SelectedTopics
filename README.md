@@ -3,6 +3,18 @@
 ### Escuela Superior de Cómputo|Escom 
 *Profesora: Olga Kolesnikova*
 
+**Prácticas**
+
+*Palabras Similares - Similarity Words*
+1. Manejo de funciones NLTK
+2. Similitud de palabras a partir del contexto.
+3. Similitud de palabras usando Lemmas.
+4. Similitud de palabras usando Stems.
+5. Similitud de palabras usando SnowballStemmer.
+6. Similitud de palabras usando SnowballStemmer mediante probabilidad.
+7. Similitud de palabras usando SnowballStemmer mediante TF-IDF.
+8. Similitud de palabras usando Lemmas mediante BM25.
+
 __Requerimientos__
 - ***NLTK***
 `pip install --user -U nltk`
