@@ -25,5 +25,11 @@ __Requerimientos__
 `sudo pacman -S python-matplotlib`
 - ***scikit-learn***
 `pip install -U scikit-learn`
+- ***gensim***
+`pip install gensim`
+- ***scipy***
+`pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose`
+- ***networkx***
+`pip install networkx`
 
 [Libro: Natural Language Processing with Python](http://www.nltk.org/book_1ed/)
