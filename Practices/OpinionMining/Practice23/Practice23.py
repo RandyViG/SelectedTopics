@@ -131,11 +131,8 @@ def opinion_clasification( opinions_, words ):
 def summary_gensim( words , sentences ):
     for i,word in enumerate(words):
         print('Resumen para: {}\n'.format(word) )
-        if i == len(words)-1 :
-            summary_ratio = 0.01
-        else:
-            summary_ratio = 0.03     
-        print( summarize( sentences_yes[i] , ratio=summary_ratio , split=True ) )
+        summary_ratio = 0.05   
+        print( summarize( sentences[i] , ratio=summary_ratio , split=True ) )
         print('\n\t********************************************************************\n')
 
 def summary_LSA( words , sentences ):
@@ -227,7 +224,7 @@ if __name__ == '__main__':
     opinions_yes = sent_tokenize( op_yes , 'spanish' )
     ngrams = get_top_ngrams( tokens_opinions , 1 , 30 )
     print( 'Unigrams:\n{}\n' .format(ngrams) )
-    words = [ 'serie','personaje','historia','gustar','cine','escena','querer' ]
+    words = [ 'serie','personaje','historia','gustar','cine','bien','querer' ]
     sentences_yes = opinion_clasification( opinions_yes , words )
     sentences_no = opinion_clasification( opinions_no , words )
     print('\n\t************************ G E N S I M *******************************')
