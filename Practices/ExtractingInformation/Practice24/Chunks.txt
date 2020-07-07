@@ -1,0 +1,3622 @@
+(NP los/da0mp0 niños/ncmp000 les/pp3cpd00 gustara/NFS)
+(NP robot/ncms000 que/pr0cn000 se/p0300000 dedica/vmip3s0)
+(NP robot/ncms000 que/pr0cn000 viene/vmip3s0)
+(NP nave/ncfs000 donde/pr000000 estan/V)
+(NP historia/ncfs000 con/sps00 supuesto/vmp00sm mensaje/ncms000)
+(NP razones/ncfp000 para/sps00 advertiros/NMP)
+(NP los/da0mp0 amantes/nccp000 del/spcms cine/ncms000)
+(NP director/ncms000 ''/V)
+(NP la/da0fs0 película/ncfs000 sea/vssp3s0)
+(NP ejemplo/ncms000 a/sps00 Elsa/NFS Pataky/V)
+(NP punto/ncms000 de/sps00 vista/ncfs000 )/V)
+(NP parte/ncfs000 de/sps00 por/sps00 colaborar/vmn0000)
+(NP años/ncmp000 con/sps00 Emilio/np0000p Aragón/np0000l)
+(NP aparición/ncfs000 en/sps00 series/ncfp000)
+(NP la/da0fs0 mano/ncfs000 de/sps00 Amenábar/V)
+(NP la/da0fs0 película/ncfs000 ``/V Mar/V)
+(NP el/da0ms0 papel/ncms000 de/sps00 madre/ncfs000)
+(NP director/ncms000 que/pr0cn000 se/p0300000 estrena/NFS)
+(NP
+  tiempo/ncms000
+  que/pr0cn000
+  espero/vmip1s0
+  ansiosa/NFS
+  poder/ncms000
+  ver/vmn0000)
+(NP la/da0fs0 mitad/ncfs000 transcurre/V)
+(NP La/da0fs0 banda/ncfs000 sonora/NFS)
+(NP película/ncfs000 que/pr0cn000 pretende/vmip3s0 ser/vsn0000)
+(NP miedo/ncms000 ''/V)
+(NP El/da0ms0 papel/ncms000 de/sps00 Belén/V Rueda/NFS)
+(NP intentos/ncmp000 de/sps00 ver/vmn0000 ``/V Mar/V)
+(NP vez/ncfs000 he/vaip1s0 descubierto/vmp00sm)
+(NP madre/ncfs000 que/pr0cn000 acaba/vmip3s0)
+(NP niño/ncms000 enfermo/NMS)
+(NP la/da0fs0 serie/ncfs000 ``/V)
+(NP papel/ncms000 en/sps00 ``/V)
+(NP padre/ncms000 del/spcms niño/ncms000)
+(NP hombre/ncms000 vive/vmip3s0)
+(NP casa/ncfs000 son/vsip3p0)
+(NP película/ncfs000 es/vsip3s0 Geraldine/V Chaplin/V)
+(NP papel/ncms000 de/sps00 médium/V)
+(NP la/da0fs0 película/ncfs000 ``/V Darkness/V)
+(NP la/da0fs0 oscuridad/ncfs000 ''/V)
+(NP casa/ncfs000 encantada/NFS)
+(NP las/da0fp0 películas/ncfp000 de/sps00 terror/ncms000)
+(NP película/ncfs000 del/spcms director/ncms000)
+(NP los/da0mp0 personajes/ncmp000 hay/vaip3s0)
+(NP tonta/ncfs000 caída/ncfs000)
+(NP
+  silla/ncfs000
+  de/sps00
+  ruedas/ncfp000
+  cosas/ncfp000
+  incomprensibles/V)
+(NP cosa/ncfs000 que/pr0cn000 me/pp1cs000 chocó/vmis3s0 son/vsip3p0)
+(NP la/da0fs0 mujer/ncfs000 tendría/vmic3s0)
+(NP polvo/ncms000 resulta/vmip3s0)
+(NP la/da0fs0 interpretación/ncfs000 de/sps00 Belén/V Rueda/NFS)
+(NP hora/ncfs000 sin/sps00 que/pr0cn000 suceda/vmsp3s0)
+(NP la/da0fs0 serie/ncfs000 de/sps00 ``/V)
+(NP
+  la/da0fs0
+  protagonista/nccs000
+  se/p0300000
+  llame/V
+  Belén/V
+  Rueda/NFS)
+(NP ganas/ncfp000 al/spcms asunto/ncms000)
+(NP
+  fin/ncms000
+  algo/pi0cs000
+  que/pr0cn000
+  me/pp1cs000
+  hubiera/vasi3s0
+  hecho/vmp00sm
+  saltar/vmn0000)
+(NP
+  favor/ncms000
+  directores/ncmp000
+  españoles/ncmp000
+  hagan/vmsp3p0
+  cine/ncms000)
+(NP
+  los/da0mp0
+  americanos/ncmp000
+  que/pr0cn000
+  por/sps00
+  historias/ncfp000)
+(NP idea/ncfs000 preconcebida/NFS)
+(NP
+  la/da0fs0
+  sensación/ncfs000
+  de/sps00
+  que/pr0cn000
+  me/pp1cs000
+  habían/vaii3p0
+  timado/NMS)
+(NP situación/ncfs000 creo/vmip1s0)
+(NP los/da0mp0 programas/ncmp000 del/spcms corazón/ncms000 )/V)
+(NP
+  los/da0mp0
+  programas/ncmp000
+  de/sps00
+  reportajes/V
+  grabados/ncmp000)
+(NP plan/ncms000 dogma/NFS)
+(NP cámara/ncfs000 en/sps00 mano/ncfs000)
+(NP Las/da0fp0 imágenes/ncfp000 toman/vmip3p0)
+(NP plano/ncms000 a/sps00 reporteros/NMP inexpertos/NMP)
+(NP movimientos/ncmp000 bruscos/NMP)
+(NP espectador/ncms000 meterse/V)
+(NP el/da0ms0 nombre/ncms000 del/spcms programa/ncms000)
+(NP misión/ncfs000 del/spcms día/ncms000 es/vsip3s0 hacer/vmn0000)
+(NP parque/ncms000 de/sps00 bomberos/ncmp000)
+(NP La/da0fs0 noche/ncfs000 está/vmip3s0)
+(NP fin/ncms000 reciben/vmip3p0)
+(NP aviso/ncms000 para/sps00 salir/vmn0000)
+(NP misión/ncfs000 de/sps00 rescate/ncms000)
+(NP señora/ncfs000 que/pr0cn000 se/p0300000 ha/vaip3s0 caído/vmp00sm)
+(NP edificio/ncms000 céntrico/NMS)
+(NP mordisco/ncms000 de/sps00 impresión/ncfs000)
+(NP poder/ncms000 abandonar/vmn0000)
+(NP interés/ncms000 es/vsip3s0 obtener/vmn0000)
+(NP las/da0fp0 órdenes/ncfp000 de/sps00 Ángela/NFS)
+(NP la/da0fs0 niña/ncfs000 en/sps00 brazos.-/V)
+(NP la/da0fs0 madre/ncfs000 coraje-quejica-rebelde/V)
+(NP cría/ncfs000 en/sps00 brazos/ncmp000)
+(NP chinos/ncmp000 con/sps00 niño/ncms000 incluído.-/V)
+(NP personas/ncfp000 mayores.-/V encantados/NMP)
+(NP ayuda/ncfs000 debido/vmp00sm)
+(NP conocimientos/ncmp000 médicos/ncmp000)
+(NP película/ncfs000 DE/sps00 MIEDO/V)
+(NP parte/ncfs000 del/spcms tiempo/ncms000)
+(NP grito/ncms000 limpio/NMS)
+(NP los/da0mp0 gritos/ncmp000 va/vmip3s0)
+(NP modo/ncms000 de/sps00 dar/vmn0000 terror/ncms000)
+(NP vez/ncfs000 de/sps00 utilizar/vmn0000)
+(NP artífice/nccs000 para/sps00 conseguir/vmn0000 intrigar/vmn0000)
+(NP espectador/ncms000 con/sps00 ``/V)
+(NP los/da0mp0 personajes/ncmp000 dando/vmg0000)
+(NP grito/ncms000 de/sps00 impresión/ncfs000)
+(NP hora/ncfs000 viendo/vmg0000)
+(NP gente/ncfs000 gritando/vmg0000)
+(NP parte/ncfs000 me/pp1cs000 parece/vmip3s0 patética/NFS)
+(NP la/da0fs0 parte/ncfs000 en/sps00 que/pr0cn000 entran/vmip3p0)
+(NP las/da0fp0 personas/ncfp000 utilizan/vmip3p0)
+(NP forma/ncfs000 de/sps00 imponer/vmn0000 autoridad/ncfs000)
+(NP cargo/ncms000 en/sps00 situaciones/ncfp000)
+(NP la/da0fs0 película/ncfs000 se/p0300000 presenta/vmip3s0)
+(NP los/da0mp0 cuerpos/ncmp000 de/sps00 Bomberos/NMP)
+(NP dolor/ncms000 de/sps00 cabeza/ncfs000)
+(NP las/da0fp0 personas/ncfp000 hablando/vmg0000)
+(NP personas/ncfp000 en/sps00 desacuerdo/ncms000)
+(NP tipo/ncms000 de/sps00 afrentas/NFP es/vsip3s0)
+(NP forma/ncfs000 de/sps00 cine/ncms000 ''/V)
+(NP gente/ncfs000 que/pr0cn000 quiera/vmsp3s0 dedicarse/vmn0000)
+(NP La/da0fs0 solución/ncfs000 ``/V perfecta/NFS ''/V (/V)
+(NP la/da0fs0 impresión/ncfs000 de/sps00 que/pr0cn000 ``/V)
+(NP miedo/ncms000 (/V)
+(NP gente/ncfs000 dice/vmip3s0)
+(NP
+  las/da0fp0
+  cosas/ncfp000
+  que/pr0cn000
+  ``/V
+  parecen/vmip3p0
+  cutres/V
+  ``/V)
+(NP nombre/ncms000 ''/V)
+(NP especie/ncfs000 de/sps00 ``/V grito/ncms000 ''/V)
+(NP deseo/ncms000 de/sps00 experimentar/vmn0000)
+(NP tipo/ncms000 de/sps00 cine/ncms000)
+(NP el/da0ms0 deseo/ncms000 de/sps00 experimentar/vmn0000)
+(NP director/ncms000 hubiera/vasi3s0 hecho/vmp00sm)
+(NP época/ncfs000 de/sps00 proliferación/ncfs000)
+(NP partes/ncfp000 fueron/vsis3p0)
+(NP vuelta/ncfs000 de/sps00 tuerca/NFS)
+(NP película/ncfs000 de/sps00 terror/ncms000)
+(NP miedo/ncms000 Bush/np0000p)
+(NP vez/ncfs000 que/pr0cn000 habla/vmip3s0)
+(NP la/da0fs0 película/ncfs000 pasa/vmip3s0)
+(NP el/da0ms0 cine/ncms000 de/sps00 terror/ncms000)
+(NP fortuna/ncfs000 puedo/vmip1s0 hablar/vmn0000)
+(NP necesidad/ncfs000 de/sps00 haber/van0000 pagado/vmp00sm)
+(NP cantidad/ncfs000 de/sps00 pasta/ncfs000)
+(NP las/da0fp0 películas/ncfp000 de/sps00 internet/nccn000 )/V)
+(NP poder/ncms000 decir/vmn0000)
+(NP gusto/ncms000 (/V)
+(NP saga/ncfs000 que/pr0cn000 lleva/vmip3s0 recaudada/NFS)
+(NP la/da0fs0 pregunta/ncfs000 es/vsip3s0)
+(NP puta/ncfs000 bazofia/NFS)
+(NP cantidad/ncfs000 de/sps00 aficionados/ncmp000)
+(NP la/da0fs0 imagen/ncfs000 del/spcms hombre-araña/NFS)
+(NP bombazo/ncms000 taquillero/NMS)
+(NP éxito/ncms000 le/pp3csd00 dio/vmis3s0)
+(NP la/da0fs0 madurez/ncfs000 del/spcms superhéroe/V)
+(NP éxito/ncms000 taquillero/NMS)
+(NP parte/ncfs000 ha/vaip3s0 sido/vsp00sm)
+(NP afán/ncms000 al/spcms hacer/vmn0000)
+(NP película/ncfs000 es/vsip3s0 entretener/V)
+(NP el/da0ms0 resultado/ncms000 sea/vssp3s0)
+(NP el/da0ms0 hombre/ncms000 es/vsip3s0)
+(NP animal/ncms000 que/pr0cn000 tropieza/NFS)
+(NP vida/ncfs000 le/pp3csd00 sonríe/vmip3s0)
+(NP el/da0ms0 secreto/ncms000 debe/vmip3s0 ser/vsn0000)
+(NP las/da0fp0 escenas/ncfp000 de/sps00 acción/ncfs000)
+(NP
+  los/da0mp0
+  personajes/ncmp000
+  que/pr0cn000
+  en/sps00
+  ella/pp3fs000
+  aparecen/vmip3p0)
+(NP La/da0fs0 balanza/ncfs000 está/vmip3s0)
+(NP El/da0ms0 tiempo/ncms000 que/pr0cn000 ha/vaip3s0)
+(NP parte/ncfs000 ha/vaip3s0 servido/vmp00sm (/V)
+(NP la/da0fs0 película/ncfs000 son/vsip3p0)
+(NP la/da0fs0 transformación/ncfs000 del/spcms Hombre/V)
+(NP escenas/ncfp000 (/V)
+(NP acción/ncfs000 )/V)
+(NP ocasiones/ncfp000 resulta/vmip3s0)
+(NP estado/ncms000 de/sps00 sueño/ncms000)
+(NP la/da0fs0 cámara/ncfs000 se/p0300000 mueve/vmip3s0)
+(NP escenas/ncfp000 de/sps00 acción/ncfs000)
+(NP modo/ncms000 de/sps00 ver/vmn0000)
+(NP la/da0fs0 basura/ncfs000 de/sps00 película/ncfs000)
+(NP cantidad/ncfs000 de/sps00 tramas/NFP)
+(NP Los/da0mp0 problemas/ncmp000 amorosos/NMP)
+(NP la/da0fs0 transformación/ncfs000 de/sps00 Spider-man/V)
+(NP la/da0fs0 ciudad/ncfs000 hacen/vmip3p0 gracia/ncfs000)
+(NP la/da0fs0 evolución/ncfs000 del/spcms personaje/ncms000)
+(NP odio/ncms000 que/pr0cn000 Eddie/V Brock/V siente/vmip3s0)
+(NP las/da0fp0 escenas/ncfp000 de/sps00 acción/ncfs000)
+(NP El/da0ms0 resultado/ncms000 es/vsip3s0)
+(NP el/da0ms0 recurso/ncms000 del/spcms sentido/ncms000)
+(NP las/da0fp0 ocasiones/ncfp000 es/vsip3s0)
+(NP tipo/ncms000 de/sps00 humor/ncms000)
+(NP mundo/ncms000 de/sps00 Spider-man/V)
+(NP el/da0ms0 efecto/ncms000 opuesto/NMS)
+(NP tiempo/ncms000 de/sps00 pulir/V)
+(NP fallos/ncmp000 de/sps00 interpretación/ncfs000)
+(NP actuación/ncfs000 sin/sps00 altibajos/ncmp000)
+(NP estilo/ncms000 de/sps00 actuación/ncfs000)
+(NP novia/ncfs000 del/spcms lado/ncms000 oscuro-/V está/vmip3s0)
+(NP personaje/ncms000 que/pr0cn000 está/vmip3s0)
+(NP exceso/ncms000 de/sps00 tramas/NFP)
+(NP el/da0ms0 personaje/ncms000 tuviera/vmsi3s0)
+(NP la/da0fs0 saga/ncfs000 (/V)
+(NP número/ncms000 de/sps00 personajes/ncmp000)
+(NP cantidad/ncfs000 de/sps00 tramas/NFP)
+(NP películas/ncfp000 independientes/nccp000)
+(NP la/da0fs0 oportunidad/ncfs000 de/sps00 ver/vmn0000)
+(NP la/da0fs0 película/ncfs000 de/sps00 Transformers/V)
+(NP campaña/ncfs000 de/sps00 publicidad/ncfs000)
+(NP el/da0ms0 producto/ncms000 que/pr0cn000 me/pp1cs000 iba/vmii3s0)
+(NP
+  el/da0ms0
+  cine/ncms000
+  se/p0300000
+  ha/vaip3s0
+  transformado/vmp00sm)
+(NP bromas/ncfp000 se/p0300000 fusilan/V)
+(NP película/ncfs000 que/pr0cn000 te/pp2cs000 anime/vmsp3s0)
+(NP la/da0fs0 película/ncfs000 gira/ncfs000 entorno/ncms000)
+(NP personajes/ncmp000 de/sps00 dibujos/ncmp000)
+(NP la/da0fs0 mente/ncfs000 del/spcms espectador/ncms000)
+(NP programas/ncmp000 de/sps00 corazón/ncms000)
+(NP personajes/ncmp000 eran/vsii3p0)
+(NP tipos/ncmp000 de/sps00 dispositivos/ncmp000)
+(NP robots/ncmp000 de/sps00 combate/ncms000)
+(NP películas/ncfp000 de/sps00 dibujos/ncmp000)
+(NP raza/ncfs000 de/sps00 guerreros/ncmp000)
+(NP cara/ncfs000 de/sps00 perro/ncms000)
+(NP película/ncfs000 que/pr0cn000 recupera/vmip3s0)
+(NP lo/da0ns0 miras/ncfp000 con/sps00 cara/ncfs000)
+(NP los/da0mp0 mandos/ncmp000 de/sps00 Michael/V Bay/V)
+(NP la/da0fs0 cartera/ncfs000 de/sps00 Steven/V Spielberg/np0000p)
+(NP película/ncfs000 sin/sps00 sentido/ncms000)
+(NP diálogos/ncmp000 ''/V)
+(NP mundo/ncms000 del/spcms cine/ncms000)
+(NP afirmación/ncfs000 son/vsip3p0 películas/ncfp000)
+(NP serie/ncfs000 de/sps00 dibujos/ncmp000)
+(NP personas/ncfp000 huérfanas/NFP)
+(NP
+  la/da0fs0
+  película/ncfs000
+  se/p0300000
+  inicia/vmip3s0
+  lanzando/vmg0000)
+(NP historias/ncfp000 en/sps00 paralelo/NMS)
+(NP tipo/ncms000 de/sps00 armas/ncfp000)
+(NP explosivos/ncmp000 sin/sps00 hacerle/vmn0000)
+(NP concentración/ncfs000 de/sps00 cerebrines/V)
+(NP personajes/ncmp000 desaparecen/vmip3p0)
+(NP muchacho/ncms000 superhéroe/V)
+(NP coche/ncms000 cutre/V)
+(NP robot/ncms000 con/sps00 inteligencia/ncfs000)
+(NP la/da0fs0 película/ncfs000 iremos/NMP viendo/vmg0000)
+(NP ira/ncfs000 presentando/vmg0000)
+(NP momento/ncms000 del/spcms tiempo/ncms000)
+(NP espacio/ncms000 ``/V)
+(NP la/da0fs0 vida/ncfs000 ''/V)
+(NP
+  muerte/ncfs000
+  por/sps00
+  ellos/pp3mp000
+  para/sps00
+  lograr/vmn0000
+  dominar/vmn0000)
+(NP la/da0fs0 humanidad/ncfs000 ¿Qué/V pasara/vmsi3s0)
+(NP diálogos/ncmp000 absurdos/ncmp000)
+(NP robot/ncms000 barrio/ncms000)
+(NP tratamiento/ncms000 de/sps00 ondas/ncfp000)
+(NP ideas/ncfp000 erróneas/NFP)
+(NP los/da0mp0 robots/ncmp000 es/vsip3s0 ``/V mas/NFP)
+(NP dibujos/ncmp000 de/sps00 pequeñito/NMS)
+(NP la/da0fs0 transformación/ncfs000 de/sps00 dispositivo/ncms000)
+(NP las/da0fp0 cuentas/ncfp000 del/spcms ayuntamiento/ncms000)
+(NP situaciones/ncfp000 melodramáticas/NFP)
+(NP vez/ncfs000 mas/NFP verle/V)
+(NP tipo/ncms000 que/pr0cn000 sea/vssp3s0 tambien/V resulta/vmip3s0)
+(NP vez/ncfs000 tambien/V va/vmip3s0)
+(NP poderes/ncmp000 sobrenaturales/V)
+(NP borde/nccs000 que/pr0cn000 treata/NFS)
+(NP sufrimiento/ncms000 yuque/V)
+(NP la/da0fs0 vez/ncfs000 piensa/vmip3s0)
+(NP
+  poderes/ncmp000
+  que/pr0cn000
+  le/pp3csd00
+  han/vaip3p0
+  sido/vsp00sm)
+(NP castigo/ncms000 Asi/V)
+(NP la/da0fs0 humanidad/ncfs000 bla/NFS bla/NFS bla/NFS)
+(NP mundo/ncms000 cde/V)
+(NP la/da0fs0 vida/ncfs000 ''/V)
+(NP palabras/ncfp000 es/vsip3s0)
+(NP la/da0fs0 película/ncfs000 nos/pp1cp000 introduce/V)
+(NP boda/ncfs000 en/sps00 boda/ncfs000)
+(NP bodas/ncfp000 que/pr0cn000 organiza/vmip3s0)
+(NP vestidos/ncmp000 de/sps00 dama/ncfs000)
+(NP película/ncfs000 de/sps00 bodas/ncfp000)
+(NP las/da0fp0 conversaciones/ncfp000 que/pr0cn000 tiene/vmip3s0)
+(NP Os/ncms000 dejo/vmip1s0)
+(NP la/da0fs0 música/ncfs000 espantosa/NFS)
+(NP El/da0ms0 amor/ncms000 es/vsip3s0)
+(NP el/da0ms0 amor/ncms000 es/vsip3s0)
+(NP el/da0ms0 amor/ncms000 significa/vmip3s0 perder/vmn0000)
+(NP probabilidades/ncfp000 de/sps00 éxito/ncms000)
+(NP parte/ncfs000 ¿también/V vas/vmip2s0)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP par/ncms000 de/sps00 cervezas/NFP fresquitas/NFP)
+(NP grupo/ncms000 de/sps00 amigos/ncmp000)
+(NP la/da0fs0 mitad/ncfs000 quieren/vmip3p0 ver/vmn0000)
+(NP plan/ncms000 tonto/ncms000)
+(NP tema/ncms000 de/sps00 conversación/ncfs000)
+(NP la/da0fs0 verdad/ncfs000 sea/vssp3s0)
+(NP colaboración/ncfs000 a/sps00 ``/V)
+(NP la/da0fs0 butaca/ncfs000 ''/V)
+(NP ficha/ncfs000 técnica/ncfs000)
+(NP
+  el/da0ms0
+  caso/ncms000
+  de/sps00
+  que/pr0cn000
+  nos/pp1cp000
+  decidamos/NMP)
+(NP la/da0fs0 decisión/ncfs000 de/sps00 verla/NFS)
+(NP personaje/ncms000 que/pr0cn000 supongo/vmip1s0)
+(NP
+  el/da0ms0
+  ganador/ncms000
+  para/sps00
+  visitar/vmn0000
+  Francia/np0000l)
+(NP duda/ncfs000 en/sps00 emprender/vmn0000)
+(NP viaje/ncms000 podemos/vmip1p0 ver/vmn0000)
+(NP lengua/ncfs000 materna/NFS)
+(NP medida/ncfs000 a/sps00 enfrentarse/vmn0000)
+(NP
+  los/da0mp0
+  acontecimientos/ncmp000
+  que/pr0cn000
+  se/p0300000
+  le/pp3csd00
+  presentan/vmip3p0)
+(NP serie/ncfs000 de/sps00 TV/V)
+(NP abuelo/ncms000 le/pp3csd00 gusta/vmip3s0)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP comicidad/ncfs000 de/sps00 cosas/ncfp000)
+(NP golpes/ncmp000 tiene/vmip3s0)
+(NP película/ncfs000 que/pr0cn000 pasó/vmis3s0)
+(NP vida/ncfs000 sin/sps00 pena/ncfs000)
+(NP intención/ncfs000 de/sps00 que/pr0cn000 sea/vssp3s0)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP La/da0fs0 historia/ncfs000 se/p0300000 basa/vmip3s0)
+(NP chica/ncfs000 que/pr0cn000 se/p0300000 conocen/vmip3p0)
+(NP poder/ncms000 imaginativo/NMS)
+(NP trozo/ncms000 del/spcms bosque/ncms000)
+(NP animales/ncmp000 fantásticos/NMP)
+(NP seres/ncmp000 mitológicos/NMP)
+(NP experiencias/ncfp000 de/sps00 clase/ncfs000)
+(NP las/da0fp0 ganas/ncfp000 de/sps00 que/pr0cn000 pase/ncms000)
+(NP duda/ncfs000 se/p0300000 trata/vmip3s0)
+(NP cosas/ncfp000 )/V)
+(NP la/da0fs0 película/ncfs000 se/p0300000 va/vmip3s0 volviendo/NMS)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP palabras/ncfp000 explico/NMS)
+(NP niños/ncmp000 juegan/vmip3p0)
+(NP el/da0ms0 bosque/ncms000 ''/V)
+(NP la/da0fs0 puesta/ncfs000 en/sps00 escena/ncfs000)
+(NP la/da0fs0 banda/ncfs000 sonora/NFS)
+(NP cosa/ncfs000 hay/vaip3s0)
+(NP gracias/ncfp000 por/sps00 leerme/V)
+(NP ídolos/ncmp000 (/V junto/NMS)
+(NP
+  el/da0ms0
+  sentimiento/ncms000
+  de/sps00
+  que/pr0cn000
+  Spielberg/np0000p)
+(NP niño/ncms000 soñaba/NFS)
+(NP sombrero/ncms000 que/pr0cn000 corría/vmii3s0)
+(NP roca/ncfs000 gigante/nccs000)
+(NP pregunta/ncfs000 es/vsip3s0 ¿Spielberg/V)
+(NP
+  aventura/ncfs000
+  de/sps00
+  Indiana/NFS
+  Jones/np0000p
+  (/V
+  Harrison/V
+  Ford/np0000o
+  )/V
+  empieza/vmip3s0)
+(NP el/da0ms0 desierto/ncms000 del/spcms suroeste/ncms000)
+(NP Estados/ncmp000 Unidos/NMP)
+(NP amigo/ncms000 Mac/V (/V Ray/V Winstone/V )/V acaban/vmip3p0)
+(NP agentes/nccp000 soviéticos/NMP)
+(NP El/da0ms0 profesor/ncms000 Jones/np0000p regresa/vmip3s0)
+(NP las/da0fp0 cosas/ncfp000 van/vmip3p0)
+(NP actuaciones/ncfp000 de/sps00 Indy/V)
+(NP el/da0ms0 gobierno/ncms000 presiona/vmip3s0)
+(NP punto/ncms000 de/sps00 irse/vmn0000)
+(NP ayuda/ncfs000 a/sps00 resolver/vmn0000)
+(NP ciudad/ncfs000 de/sps00 oro/ncms000)
+(NP la/da0fs0 calidad/ncfs000 interpretativa/NFS)
+(NP película/ncfs000 (/V)
+(NP El/da0ms0 resto/ncms000 del/spcms plantel/V)
+(NP actores/ncmp000 me/pp1cs000 ha/vaip3s0)
+(NP papel/ncms000 de/sps00 villana/NFS es/vsip3s0 pésimo/NMS)
+(NP papel/ncms000 tonto/ncms000)
+(NP chico/ncms000 va/vmip3s0)
+(NP fin/ncms000 sin/sps00 comentarios/ncmp000)
+(NP dudas/ncfp000 asaltaban/V)
+(NP cristal/ncms000 tiene/vmip3s0)
+(NP el/da0ms0 carisma/ncms000 del/spcms arca/NFS)
+(NP
+  ciudades/ncfp000
+  que/pr0cn000
+  darían/vmic3p0
+  mas/NFP
+  juego/ncms000
+  debido/vmp00sm)
+(NP El/da0ms0 señor/ncms000 director/ncms000 va/vmip3s0)
+(NP fracaso/ncms000 en/sps00 fracaso/ncms000)
+(NP cine/ncms000 (/V)
+(NP los/da0mp0 mundos/ncmp000 )/V son/vsip3p0)
+(NP
+  la/da0fs0
+  ilusión/ncfs000
+  de/sps00
+  miles/pn0cp000
+  de/sps00
+  seguidores/ncmp000)
+(NP la/da0fs0 renuncia/ncfs000 de/sps00 Sean/V Connery/V)
+(NP papel/ncms000 de/sps00 Henry/V Jones/np0000p)
+(NP foto/ncfs000 cobro/ncms000)
+(NP espectáculo/ncms000 OPINIÓN/V Sinceramente/V)
+(NP los/da0mp0 usuarios/ncmp000 de/sps00 Ciao/NMS hacía/vmii3s0)
+(NP reto/ncms000 a/sps00 que/pr0cn000 vean/vmm03p0)
+(NP calidad/ncfs000 interpretativa/NFS)
+(NP compañía/ncfs000 se/p0300000 pasen/V)
+(NP vacaciones/ncfp000 riéndose/V)
+(NP favor/ncms000 déjenla/NFS)
+(NP capacidad/ncfs000 de/sps00 sorprender/V)
+(NP películas/ncfp000 (/V)
+(NP película/ncfs000 tiene/vmip3s0 escenas/ncfp000 irreconocibles/V)
+(NP película/ncfs000 que/pr0cn000 se/p0300000 presume/vmip3s0)
+(NP La/da0fs0 escena/ncfs000 del/spcms frigorífico/ncms000)
+(NP el/da0ms0 cine/ncms000 ¿como/NMS es/vsip3s0)
+(NP aparato/ncms000 se/p0300000 resista/NFS)
+(NP la/da0fs0 escena/ncfs000 de/sps00 Port/V aventura/ncfs000)
+(NP los/da0mp0 árboles/ncmp000 amortiguan/V)
+(NP la/da0fs0 fama/ncfs000 (/V E.T/V )/V)
+(NP la/da0fs0 gente/ncfs000 puede/vmip3s0 decir/vmn0000)
+(NP película/ncfs000 estará/vmif3s0)
+(NP películas/ncfp000 favoritas/ncfp000)
+(NP tarde/ncfs000 de/sps00 verano/ncms000)
+(NP serie/ncfs000 ``/V)
+(NP adultos/ncmp000 ''/V)
+(NP episodio/ncms000 me/pp1cs000 gustó/V)
+(NP tiempo/ncms000 mantenga/vmsp3s0)
+(NP historias/ncfp000 cortas/NFP ''/V)
+(NP par/ncms000 de/sps00 ejemplos/ncmp000)
+(NP vez/ncfs000 que/pr0cn000 entrevistaban/V)
+(NP pregunta/ncfs000 acerca/vmip3s0)
+(NP la/da0fs0 dificultad/ncfs000 radicaba/NFS)
+(NP la/da0fs0 historia/ncfs000 se/p0300000 resentiría/NFS)
+(NP camión/ncms000 de/sps00 dinero/ncms000 ''/V ..../V)
+(NP rincón/ncms000 de/sps00 Springfield/V)
+(NP la/da0fs0 mayoría/ncfs000 de/sps00 personajes/ncmp000 (/V)
+(NP héroes/ncmp000 enfrentandose/V)
+(NP jefe/ncms000 del/spcms servicio/ncms000)
+(NP ojos/ncmp000 (/V Bautizado/NMS)
+(NP la/da0fs0 cabeza/ncfs000 de/sps00 Jebediah/V Springfield/V )/V)
+(NP los/da0mp0 niños/ncmp000 Simpsons/V)
+(NP chiste/ncms000 a/sps00 refrito/NMS)
+(NP serie/ncfs000 de/sps00 historias/ncfp000 refritas/NFP)
+(NP familia/ncfs000 desestructurada/NFS)
+(NP niño/ncms000 le/pp3csd00 pega/vmip3s0)
+(NP problema/ncms000 matrimoniales/V)
+(NP charla/ncfs000 del/spcms reverendo/ncms000)
+(NP compañera/ncfs000 que/pr0cn000 le/pp3csd00 hace/vmip3s0)
+(NP compañera/ncfs000 de/sps00 trabajo/ncms000)
+(NP respuestas/ncfp000 graciosas/NFP)
+(NP manera/ncfs000 graciosa/NFS)
+(NP veces/ncfp000 surrealista/NFS)
+(NP el/da0ms0 abuelo/ncms000 Simpson/np0000p)
+(NP pelea/ncfs000 de/sps00 globos/ncmp000)
+(NP la/da0fs0 película/ncfs000 nos/pp1cp000 encontramos/vmip1p0)
+(NP días/ncmp000 para/sps00 mantener/vmn0000)
+(NP hijo/ncms000 viera/vmsi3s0)
+(NP peligro/ncms000 estúpidamente/V)
+(NP serie/ncfs000 animada/NFS)
+(NP capítulo/ncms000 veíamos/vmii1p0)
+(NP alma/ncfs000 reflejada/NFS)
+(NP serie/ncfs000 de/sps00 disparates/V inconexos/NMP)
+(NP parte/ncfs000 (/V)
+(NP punto/ncms000 irreverente/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP Los/da0mp0 años/ncmp000 han/vaip3p0)
+(NP el/da0ms0 fondo/ncms000 es/vsip3s0)
+(NP serie/ncfs000 que/pr0cn000 trataba/vmii3s0)
+(NP niñas/ncfp000 ñoñas/NFP)
+(NP la/da0fs0 felicidad/ncfs000 para/sps00 tí/V)
+(NP sueños/ncmp000 eróticos/NMP)
+(NP verdad/ncfs000 queremos/vmip1p0)
+(NP vez/ncfs000 de/sps00 Nueva/NFS York/V)
+(NP vez/ncfs000 de/sps00 marcas/ncfp000)
+(NP la/da0fs0 tarde/ncfs000 curioseando/vmg0000)
+(NP
+  día/ncms000
+  alguien/pi0cs000
+  en/sps00
+  Hollywood/np0000l
+  lea/NFS
+  ``/V
+  Casa/NFS)
+(NP verdad/ncfs000 que/pr0cn000 está/vmip3s0)
+(NP punto/ncms000 de/sps00 vista/ncfs000 entretenido/vmp00sm)
+(NP
+  lección/ncfs000
+  que/pr0cn000
+  disney/V
+  quiere/vmip3s0
+  lanzar/vmn0000)
+(NP películas/ncfp000 me/pp1cs000 parece/vmip3s0)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP momentos/ncmp000 de/sps00 risas/NFP)
+(NP la/da0fs0 película/ncfs000 te/pp2cs000 da/vmip3s0)
+(NP la/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP punto/ncms000 de/sps00 dormirme/V)
+(NP las/da0fp0 opiniones/ncfp000 son/vsip3p0 positivas/NFP)
+(NP nota/ncfs000 discordante/V)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP películas/ncfp000 de/sps00 Shrek/V)
+(NP humor/ncms000 era/vsii3s0 chispeante/V)
+(NP lo/da0ns0 contrario/ncms000 que/pr0cn000 encuentro/ncms000)
+(NP ogro/ncms000 se/p0300000 enfrenta/vmip3s0)
+(NP deseo/ncms000 )/V)
+(NP el/da0ms0 rey/ncms000 le/pp3csd00 comunica/vmip3s0)
+(NP la/da0fs0 manera/ncfs000 de/sps00 derrotar/vmn0000)
+(NP paso/ncms000 a/sps00 dar/vmn0000)
+(NP marido/ncms000 vuelva/vmsp3s0)
+(NP viaje/ncms000 hablando/vmg0000)
+(NP futuro/ncms000 retoño/NMS)
+(NP El/da0ms0 gato/ncms000 pasa/vmip3s0)
+(NP par/ncms000 de/sps00 puntos/ncmp000)
+(NP las/da0fp0 escenas/ncfp000 son/vsip3p0)
+(NP par/ncms000 de/sps00 puntos/ncmp000 graciosos/NMP)
+(NP
+  las/da0fp0
+  canciones/ncfp000
+  que/pr0cn000
+  han/vaip3p0
+  elegido/vmp00sm)
+(NP vez/ncfs000 son/vsip3p0 originales/V)
+(NP vez/ncfs000 me/pp1cs000 criticaron/vmis3p0)
+(NP Las/da0fp0 princesas/ncfp000 se/p0300000 escapan/V)
+(NP papeles/ncmp000 de/sps00 defensor/V)
+(NP toque/ncms000 de/sps00 dramatismo/NMS)
+(NP la/da0fs0 viruela/ncfs000 pasa/vmip3s0)
+(NP la/da0fs0 cosa/ncfs000 se/p0300000 tuerce/V (/V)
+(NP la/da0fs0 naturaleza/ncfs000 se/p0300000 revela/NFS)
+(NP el/da0ms0 virus/ncmn000 muta/NFS)
+(NP simios/ncmp000 calvos/NMP)
+(NP la/da0fs0 luz/ncfs000 del/spcms sol/ncms000)
+(NP
+  El/da0ms0
+  virus/ncmn000
+  se/p0300000
+  transmite/vmip3s0
+  via/NFS
+  aire/ncms000)
+(NP teniente/nccs000 coronel/nccs000)
+(NP la/da0fs0 madre/ncfs000 que/pr0cn000 nos/pp1cp000 pario/NMS)
+(NP la/da0fs0 cosa/ncfs000 se/p0300000 tuerce/V)
+(NP puente/ncms000 de/sps00 Brooklyn/V es/vsip3s0)
+(NP la/da0fs0 escena/ncfs000 mas/NFP cara/ncfs000)
+(NP la/da0fs0 historia/ncfs000 ..../V)
+(NP cara/ncfs000 que/pr0cn000 fue/vsis3s0)
+(NP el/da0ms0 presupuesto/ncms000 para/sps00 hacer/vmn0000)
+(NP la/da0fs0 escena/ncfs000 que/pr0cn000 se/p0300000 aporrea/NFS)
+(NP muñeco/ncms000 de/sps00 plastilina/NFS)
+(NP escena/ncfs000 te/pp2cs000 mantiene/vmip3s0)
+(NP el/da0ms0 libro/ncms000 es/vsip3s0)
+(NP el/da0ms0 universo/ncms000 que/pr0cn000 creas/vmip2s0)
+(NP Los/da0mp0 personajes/ncmp000 son/vsip3p0 mas/NFP)
+(NP el/da0ms0 papel/ncms000 de/sps00 ..../V estoy/vmip1s0 mas/NFP)
+(NP toque/ncms000 magico/NMS)
+(NP Los/da0mp0 crímenes/ncmp000 de/sps00 Oxford/np0000l Año/ncms000)
+(NP la/da0fs0 novela/ncfs000 de/sps00 Guillermo/NMS Martínez/V ``/V)
+(NP Los/da0mp0 crímenes/ncmp000 de/sps00 Oxford/np0000l ''/V)
+(NP director/ncms000 de/sps00 culto/ncms000)
+(NP país/ncms000 gracias/ncfp000)
+(NP inicios/ncmp000 (/V)
+(NP La/da0fs0 comunidad/ncfs000 )/V)
+(NP
+  Los/da0mp0
+  crímenes/ncmp000
+  de/sps00
+  Oxford/np0000l
+  ''/V
+  plantea/vmip3s0)
+(NP invitado/ncms000 a/sps00 reflexionar/vmn0000)
+(NP lógica/ncfs000 oculta/NFS)
+(NP el/da0ms0 reparto/ncms000 Alex/V)
+(NP estrellas/ncfp000 de/sps00 corte/ncms000)
+(NP la/da0fs0 talla/ncfs000 de/sps00 Elijah/V Wood/V)
+(NP imagen/ncfs000 de/sps00 Frodo/NMS)
+(NP producciones/ncfp000 de/sps00 corte/ncms000)
+(NP profesor/ncms000 es/vsip3s0 John/np0000p Hurt/V (/V)
+(NP pastor/ncms000 )/V)
+(NP entrega/ncfs000 de/sps00 ``/V Indiana/NFS Jones/np0000p ''/V)
+(NP las/da0fp0 afueras/ncfp000 de/sps00 Oxford/np0000l)
+(NP cuerpo/ncms000 es/vsip3s0 descubierto/vmp00sm)
+(NP momento/ncms000 se/p0300000 encuentran/vmip3p0)
+(NP profesor/ncms000 de/sps00 Lógica/NFS)
+(NP profesor/ncms000 dirija/NFS)
+(NP tesis/ncfn000 doctoral/V)
+(NP serie/ncfs000 de/sps00 asesinatos/ncmp000)
+(NP muerte/ncfs000 a/sps00 muerte/ncfs000)
+(NP
+  serie/ncfs000
+  cuya/pr0fs000
+  lógica/ncfs000
+  deberán/vmif3p0
+  descifrar/V)
+(NP camino/ncms000 supondrá/vmif3s0 poner/vmn0000)
+(NP forma/ncfs000 de/sps00 entender/vmn0000)
+(NP el/da0ms0 mundo/ncms000 del/spcms profesor/ncms000)
+(NP cine/ncms000 a/sps00 ver/vmn0000)
+(NP la/da0fs0 verdad/ncfs000 esque/V)
+(NP película/ncfs000 fui/vsis1s0)
+(NP la/da0fs0 verdad/ncfs000 esque/V)
+(NP el/da0ms0 tiempo/ncms000 aburrida/NFS)
+(NP la/da0fs0 hora/ncfs000 de/sps00 ponerle/vmn0000 titulo/NMS)
+(NP
+  opinión/ncfs000
+  sobre/sps00
+  sí/pp3cno00
+  debía/vmii3s0
+  poner/vmn0000)
+(NP la/da0fs0 película/ncfs000 está/vmip3s0 rodada/NFS)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP La/da0fs0 película/ncfs000 se/p0300000 basa/vmip3s0)
+(NP misterios/ncmp000 matemáticos/ncmp000)
+(NP veces/ncfp000 es/vsip3s0)
+(NP la/da0fs0 diferencia/ncfs000 de/sps00 visión/ncfs000)
+(NP
+  los/da0mp0
+  personajes/ncmp000
+  para/sps00
+  haber/van0000
+  tenido/vmp00sm)
+(NP días/ncmp000 de/sps00 llegar/vmn0000)
+(NP muerte/ncfs000 que/pr0cn000 se/p0300000 revela/NFS)
+(NP personaje/ncms000 decide/V investigar/vmn0000)
+(NP profesor/ncms000 de/sps00 lógica/ncfs000)
+(NP El/da0ms0 actor/ncms000 que/pr0cn000 interpreta/NFS)
+(NP profesor/ncms000 Arthur/V Seldom/V)
+(NP la/da0fs0 película/ncfs000 se/p0300000 condensa/NFS)
+(NP el/da0ms0 rostro/ncms000 del/spcms actor/ncms000)
+(NP capacidad/ncfs000 de/sps00 comunicarnos/NMP)
+(NP verdad/ncfs000 es/vsip3s0)
+(NP papel/ncms000 tiene/vmip3s0)
+(NP director/ncms000 podía/vmii3s0 haber/van0000 dado/vmp00sm)
+(NP puesto/ncms000 mas/NFP emoción/ncfs000)
+(NP par/ncms000 de/sps00 conversaciones/ncfp000)
+(NP
+  imitación/ncfs000
+  del/spcms
+  ``/V
+  Codigo/NMS
+  da/vmip3s0
+  Vinci/V
+  ''/V
+  Aún/V)
+(NP amos/ncmp000 en/sps00 pantalla/ncfs000)
+(NP tiempo/ncms000 lanzandome/V)
+(NP opiniones/ncfp000 sobre/sps00 productos/ncmp000 cósmeticos/NMP)
+(NP veces/ncfp000 tb/V)
+(NP honor/ncms000 de/sps00 ser/vsn0000 galarnonada/NFS)
+(NP
+  los/da0mp0
+  motivos/ncmp000
+  que/pr0cn000
+  me/pp1cs000
+  llevaron/vmis3p0)
+(NP idea/ncfs000 sobre/sps00 ella/pp3fs000 era/vsii3s0)
+(NP curiosidad/ncfs000 es/vsip3s0)
+(NP punto/ncms000 de/sps00 partida/ncfs000)
+(NP el/da0ms0 padre/ncms000 de/sps00 criatura/ncfs000)
+(NP adopción/ncfs000 al/spcms nacer/vmn0000)
+(NP misterio/ncms000 ../V)
+(NP
+  la/da0fs0
+  hilaridad/ncfs000
+  que/pr0cn000
+  yo/pp1csn00
+  pensaba/vmii3s0
+  ../V)
+(NP el/da0ms0 personaje/ncms000 princioal/V Juno/NMS)
+(NP chica/ncfs000 descarada/NFS)
+(NP humor/ncms000 ácido/ncms000)
+(NP la/da0fs0 película/ncfs000 )/V madurez/ncfs000 impropia/NFS)
+(NP la/da0fs0 mayoría/ncfs000 de/sps00 personas/ncfp000)
+(NP padres/ncmp000 adoptantes/V)
+(NP lectura/ncfs000 se/p0300000 le/pp3csd00 saca/ncfs000)
+(NP el/da0ms0 futuro/ncms000 aspirante/nccs000)
+(NP la/da0fs0 industria/ncfs000 cinematografica/NFS)
+(NP tiempos/ncmp000 ../V)
+(NP la/da0fs0 vuelta/ncfs000 al/spcms ruedo/NMS)
+(NP tiempo/ncms000 idolo/NMS)
+(NP la/da0fs0 interpretación/ncfs000 de/sps00 Ellen/V Page/V)
+(NP papel/ncms000 se/p0300000 le/pp3csd00 queda/vmip3s0)
+(NP personajes/ncmp000 a/sps00 jóvenes/nccp000 inteligentísimos/NMP)
+(NP el/da0ms0 talento/ncms000 de/sps00 Kevin/V Spacey/V)
+(NP el/da0ms0 director/ncms000 es/vsip3s0)
+(NP madre/ncfs000 del/spcms novio/NMS)
+(NP el/da0ms0 despropósito/ncms000 que/pr0cn000 supone/vmip3s0)
+(NP irregularidad/ncfs000 preocupante/V)
+(NP momento/ncms000 conseguí/V enterarme/vmn0000)
+(NP el/da0ms0 juego/ncms000 de/sps00 cartas/ncfp000)
+(NP modo/ncms000 escritura/ncfs000 ''/V)
+(NP opiniones/ncfp000 para/sps00 alertar/V)
+(NP El/da0ms0 incidente/nccs000 es/vsip3s0)
+(NP película/ncfs000 de/sps00 Shyamalan/V)
+(NP El/da0ms0 bosque/ncms000 (/V)
+(NP la/da0fs0 película/ncfs000 (/V)
+(NP regla/ncfs000 )/V)
+(NP forma/ncfs000 descarada/NFS)
+(NP las/da0fp0 escenas/ncfp000 clave/ncfs000)
+(NP EL/da0ms0 problema/ncms000 es/vsip3s0)
+(NP las/da0fp0 personas/ncfp000 entran/vmip3p0)
+(NP estado/ncms000 de/sps00 confusión/ncfs000)
+(NP las/da0fp0 autoridades/ncfp000 piensan/vmip3p0)
+(NP los/da0mp0 mecanismos/ncmp000 de/sps00 protección/ncfs000)
+(NP cerebro/ncms000 que/pr0cn000 impiden/vmip3p0)
+(NP rollo/ncms000 que/pr0cn000 hemos/vaip1p0 visto/vmp00sm)
+(NP profesor/ncms000 de/sps00 ciencias/ncfp000)
+(NP familia/ncfs000 de/sps00 Philadelphia/NFS)
+(NP el/da0ms0 camino/ncms000 se/p0300000 da/vmip3s0 cuenta/vmip3s0)
+(NP música/ncfs000 sensacionalista/NFS)
+(NP ciudades/ncfp000 pasa/vmip3s0)
+(NP crisis/ncfn000 de/sps00 pareja/ncfs000)
+(NP los/da0mp0 cuernos/ncmp000 es/vsip3s0)
+(NP comentarios/ncmp000 Podría/NFS resumirlo/NMS)
+(NP lado/ncms000 juega/vmip3s0)
+(NP voces/ncfp000 críticas/ncfp000)
+(NP la/da0fs0 administración/ncfs000 Bush/np0000p)
+(NP vez/ncfs000 de/sps00 calmar/vmn0000)
+(NP la/da0fs0 población/ncfs000 alimenta/NFS)
+(NP el/da0ms0 clima/ncms000 de/sps00 paranoia/NFS)
+(NP El/da0ms0 problema/ncms000 es/vsip3s0)
+(NP sucesión/ncfs000 de/sps00 escenas/ncfp000)
+(NP historia/ncfs000 típica/NFS)
+(NP el/da0ms0 peligro/ncms000 que/pr0cn000 corresponda/vmsp3s0 ''/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP la/da0fs0 historia/ncfs000 hasta/sps00 conducir/vmn0000)
+(NP los/da0mp0 científicos/ncmp000 puedan/vmsp3p0 encontrar/vmn0000)
+(NP las/da0fp0 autoridades/ncfp000 puedan/vmsp3p0 dar/vmn0000)
+(NP los/da0mp0 médicos/ncmp000 pueden/vmip3p0 hacer/vmn0000)
+(NP tiempo/ncms000 remite/V)
+(NP actor/ncms000 me/pp1cs000 dice/vmip3s0)
+(NP El/da0ms0 problema/ncms000 es/vsip3s0)
+(NP los/da0mp0 personajes/ncmp000 están/vmip3p0 dibujados/NMP)
+(NP historias/ncfp000 te/pp2cs000 importan/V)
+(NP la/da0fs0 escena/ncfs000 del/spcms climax/V)
+(NP conclusión/ncfs000 que/pr0cn000 parece/vmip3s0)
+(NP fin/ncms000 veía/vmii3s0)
+(NP serie/ncfs000 B/np0000a)
+(NP el/da0ms0 director/ncms000 dijo/vmis3s0)
+(NP realidad/ncfs000 quería/vmii3s0 hacer/vmn0000)
+(NP historia/ncfs000 de/sps00 serie/ncfs000 B/np0000a)
+(NP serie/ncfs000 B/np0000a)
+(NP serie/ncfs000 Z/V)
+(NP el/da0ms0 título/ncms000 está/vmip3s0)
+(NP aviones/ncmp000 de/sps00 pasajeros/ncmp000)
+(NP complejo/ncms000 World/V Trade/V Center/V)
+(NP
+  el/da0ms0
+  sargento/ncms000
+  John/np0000p
+  McLoughlin/V
+  (/V
+  Nicolas/NFP
+  Cage/V
+  )/V)
+(NP la/da0fs0 película/ncfs000 me/pp1cs000 decepcionó/V)
+(NP la/da0fs0 visión/ncfs000 del/spcms 11-S/V)
+(NP forma/ncfs000 de/sps00 mega/NFS trailer/V)
+(NP el/da0ms0 punto/ncms000 de/sps00 vista/ncfs000)
+(NP emociones/ncfp000 baratas/NFP)
+(NP catástrofes/ncfp000 en/sps00 forma/ncfs000)
+(NP drama/ncms000 coral/ncfs000)
+(NP momentos/ncmp000 sensibleros/NMP)
+(NP película/ncfs000 post/V 11-S/V)
+(NP secuencia/ncfs000 bochornosa/NFS)
+(NP la/da0fs0 historia/ncfs000 del/spcms marine/V)
+(NP las/da0fp0 cumbres/ncfp000 del/spcms patriotismo/ncms000)
+(NP historia/ncfs000 que/pr0cn000 puede/vmip3s0 dar/vmn0000)
+(NP obsesión/ncfs000 de/sps00 anteponer/V)
+(NP El/da0ms0 señor/ncms000 Stone/V esperó/vmis3s0)
+(NP años/ncmp000 para/sps00 tratar/vmn0000)
+(NP La/da0fs0 película/ncfs000 es/vsip3s0 irrealista/NFS)
+(NP familiares/ncmp000 que/pr0cn000 perdieron/vmis3p0)
+(NP gracia/ncfs000 ver/vmn0000)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP accidente/ncms000 )/V)
+(NP película/ncfs000 que/pr0cn000 trate/vmsp3s0)
+(NP las/da0fp0 familias/ncfp000 rotas/vmp00pf)
+(NP terrorismo/ncms000 fanático/ncms000)
+(NP la/da0fs0 índole/ncfs000 que/pr0cn000 sea/vssp3s0)
+(NP ridículo/ncms000 intento/ncms000)
+(NP director/ncms000 de/sps00 tratar/vmn0000)
+(NP vehemencia/ncfs000 lacrimógena/NFS)
+(NP aires/ncmp000 de/sps00 telefilm/V)
+(NP protagonistas/nccp000 (/V Cage/V)
+(NP la/da0fs0 cosa/ncfs000 (/V recuerdos/ncmp000)
+(NP santo/ncms000 de/sps00 qué/pt0cs000 )/V)
+(NP el/da0ms0 tío/ncms000 cree/vmip3s0)
+(NP torre/ncfs000 gemela/NFS)
+(NP televisor/ncms000 se/p0300000 veía/vmii3s0)
+(NP grupo/ncms000 de/sps00 polis/V)
+(NP la/da0fs0 unidad/ncfs000 portuaria/NFS)
+(NP
+  Estados/ncmp000
+  Unidos/NMP
+  DIRECTOR/V
+  Oliver/V
+  Stone/V
+  GUIÓN/V
+  Andrea/NFS
+  Berloff/V
+  (/V
+  Historia/np0000a)
+(NP fin/ncms000 llegó/vmis3s0)
+(NP La/da0fs0 gente/ncfs000 esperaba/vmii3s0)
+(NP la/da0fs0 película/ncfs000 estaba/vmii3s0 coja/NFS )/V)
+(NP Las/da0fp0 luces/ncfp000 se/p0300000 apagaron/V)
+(NP la/da0fs0 película/ncfs000 continúa/vmip3s0)
+(NP el/da0ms0 mundo/ncms000 tenebroso/NMS)
+(NP aventura/ncfs000 para/sps00 rescatarlo/NMS)
+(NP vez/ncfs000 rescatado/vmp00sm (/V)
+(NP batalla/ncfs000 que/pr0cn000 decidirá/vmif3s0)
+(NP La/da0fs0 película/ncfs000 se/p0300000 desarrolla/vmip3s0)
+(NP humor/ncms000 (/V)
+(NP los/da0mp0 golpes/ncmp000 del/spcms querido/vmp00sm Jacky/V )/V)
+(NP dosis/ncfn000 de/sps00 aventuras/ncfp000 mezcladas/NFP)
+(NP punto/ncms000 de/sps00 vista/ncfs000)
+(NP la/da0fs0 película/ncfs000 gana/vmip3s0)
+(NP la/da0fs0 reincorporación/ncfs000 de/sps00 Geoffrey/V Rush/V)
+(NP parte/ncfs000 )/V)
+(NP
+  el/da0ms0
+  papel/ncms000
+  de/sps00
+  Barbosa/NFS
+  hubiera/vasi3s0
+  estado/ncms000
+  reservado/NMS)
+(NP la/da0fs0 actuación/ncfs000 de/sps00 Johnny/V Deep/V es/vsip3s0)
+(NP el/da0ms0 efecto/ncms000 explosivo/NMS)
+(NP
+  el/da0ms0
+  espectador/ncms000
+  que/pr0cn000
+  se/p0300000
+  levantó/vmis3s0)
+(NP el/da0ms0 mono/ncms000 de/sps00 Barbosa/NFS)
+(NP toques/ncmp000 de/sps00 humor/ncms000)
+(NP La/da0fs0 banda/ncfs000 sonora/NFS es/vsip3s0)
+(NP independientes/nccp000 extraordinarias/NFP)
+(NP las/da0fp0 partes/ncfp000 del/spcms Señor/ncms000)
+(NP juegos/ncmp000 de/sps00 cámara/ncfs000)
+(NP la/da0fs0 película/ncfs000 carece/vmip3s0)
+(NP nivel/ncms000 que/pr0cn000 exigía/vmii3s0)
+(NP entrega/ncfs000 )/V)
+(NP
+  los/da0mp0
+  defectos/ncmp000
+  que/pr0cn000
+  he/vaip1s0
+  observado/NMS)
+(NP La/da0fs0 historia/ncfs000 de/sps00 Will/V)
+(NP par/ncms000 de/sps00 novedades/ncfp000)
+(NP estado/ncms000 al/spcms alcance/ncms000)
+(NP la/da0fs0 historia/ncfs000 del/spcms cine/ncms000)
+(NP cambios/ncmp000 de/sps00 bando/ncms000)
+(NP vez/ncfs000 han/vaip3p0 querido/vmp00sm mostrárnoslo/NMS)
+(NP lujo/ncms000 de/sps00 detalles/ncmp000)
+(NP espectador/ncms000 del/spcms argumento/NMS)
+(NP historia/ncfs000 de/sps00 amor/ncms000)
+(NP parte/ncfs000 entre/sps00 Davy/V Jones/np0000p)
+(NP mujer/ncfs000 (/V)
+(NP tiempo/ncms000 para/sps00 desarrollarla/vmn0000)
+(NP acierto/ncms000 por/sps00 parte/ncfs000)
+(NP
+  las/da0fp0
+  razones/ncfp000
+  que/pr0cn000
+  han/vaip3p0
+  terminado/vmp00sm)
+(NP tipo/ncms000 de/sps00 espectador/ncms000)
+(NP categoría/ncfs000 de/sps00 espectador/ncms000)
+(NP cine/ncms000 a/sps00 pasar/vmn0000)
+(NP rato/ncms000 ameno/NMS)
+(NP la/da0fs0 película/ncfs000 tiene/vmip3s0 efectos/ncmp000)
+(NP dinero/ncms000 para/sps00 ver/vmn0000)
+(NP la/da0fs0 película/ncfs000 está/vmip3s0)
+(NP nivel/ncms000 de/sps00 efectos/ncmp000)
+(NP persona/ncfs000 que/pr0cn000 admira/NFS)
+(NP los/da0mp0 hermanos/ncmp000 Marx/np0000p)
+(NP la/da0fs0 película/ncfs000 ofrece/vmip3s0)
+(NP persona/ncfs000 que/pr0cn000 va/vmip3s0)
+(NP
+  saga/ncfs000
+  que/pr0cn000
+  estás/V
+  deseando/NMS
+  ver/vmn0000
+  concluir/vmn0000)
+(NP el/da0ms0 espectador/ncms000 va/vmip3s0)
+(NP carencia/ncfs000 de/sps00 profundidad/ncfs000)
+(NP la/da0fs0 memoria/ncfs000 de/sps00 Jack/V Sparrow/V)
+(NP actor/ncms000 de/sps00 éxito/ncms000)
+(NP fama/ncfs000 se/p0300000 presta/vmip3s0)
+(NP director/ncms000 Joel/V Schumaser/V)
+(NP cosa/ncfs000 estoy/vmip1s0)
+(NP obras/ncfp000 son/vsip3p0)
+(NP la/da0fs0 banda/ncfs000 sonora/NFS)
+(NP pérdida/ncfs000 de/sps00 tiempo/ncms000)
+(NP hijo/ncms000 adolescente/V)
+(NP
+  perro/ncms000
+  (/V
+  trabaja/vmip3s0
+  recogiendo/vmg0000
+  perros/ncmp000)
+(NP momento/ncms000 que/pr0cn000 aprovecha/vmip3s0 Agata/NFS)
+(NP capítulo/ncms000 se/p0300000 engancha/NFS)
+(NP mujer/ncfs000 que/pr0cn000 ha/vaip3s0 leído/vmp00sm)
+(NP el/da0ms0 libro/ncms000 con/sps00 anterioridad/V intenta/vmip3s0)
+(NP manías/ncfp000 suyas/NFP)
+(NP vida/ncfs000 impresa/NFS)
+(NP La/da0fs0 historia/ncfs000 es/vsip3s0)
+(NP
+  tipo/ncms000
+  de/sps00
+  películas/ncfp000
+  deberían/vmic3p0
+  estar/vmn0000)
+(NP alturas/ncfp000 supongo/vmip1s0)
+(NP noche/ncfs000 he/vaip1s0 ido/vmp00sm)
+(NP director/ncms000 Christopher/V Notan/V)
+(NP película/ncfs000 de/sps00 superhéroes/V)
+(NP embargo/ncms000 me/pp1cs000 he/vaip1s0 encontrado/vmp00sm)
+(NP
+  personajes/ncmp000
+  que/pr0cn000
+  les/pp3cpd00
+  hacen/vmip3p0
+  sombra/ncfs000)
+(NP el/da0ms0 teniente/nccs000 Gordon-/V)
+(NP el/da0ms0 héroe/ncms000 sea/vssp3s0)
+(NP
+  el/da0ms0
+  personaje/ncms000
+  que/pr0cn000
+  interpreta/NFS
+  Heath/V
+  Ledger/V
+  hace/vmip3s0)
+(NP la/da0fs0 película/ncfs000 se/p0300000 salve/V)
+(NP película/ncfs000 sería/vsic3s0)
+(NP resultado/ncms000 simpático/NMS)
+(NP características/ncfp000 de/sps00 superhéroe/V)
+(NP serie/ncfs000 de/sps00 artilugios/NMP)
+(NP los/da0mp0 orígenes/ncmp000 del/spcms héroe/ncms000)
+(NP el/da0ms0 director/ncms000 decide/V lanzarse/V)
+(NP la/da0fs0 oscuridad/ncfs000 del/spcms cómic/V)
+(NP ambiente/ncms000 gótico/NMS)
+(NP ciudad/ncfs000 del/spcms mundo/ncms000)
+(NP las/da0fp0 oficinas/ncfp000 de/sps00 Wayne/V ofrecen/vmip3p0)
+(NP el/da0ms0 resto/ncms000 de/sps00 personajes/ncmp000 es/vsip3s0)
+(NP voz/ncfs000 de/sps00 Batman/V da/vmip3s0 grima/NFS)
+(NP la/da0fs0 versión/ncfs000 doblada/NFS)
+(NP el/da0ms0 amor/ncms000 de/sps00 juventud/ncfs000)
+(NP el/da0ms0 fiscal/nccs000 Dent/V)
+(NP la/da0fs0 película/ncfs000 resulta/vmip3s0 anodina/NFS)
+(NP desastre/ncms000 de/sps00 cásting/V)
+(NP la/da0fs0 serie/ncfs000 de/sps00 televisión/ncfs000)
+(NP elementos/ncmp000 novedosos/NMP)
+(NP truco/ncms000 de/sps00 salir/vmn0000)
+(NP las/da0fp0 sombras/ncfp000 es/vsip3s0)
+(NP
+  las/da0fp0
+  escenas/ncfp000
+  de/sps00
+  acción/ncfs000
+  provocan/vmip3p0)
+(NP vez/ncfs000 de/sps00 Batman/V)
+(NP película/ncfs000 construida/NFS)
+(NP interpretación/ncfs000 prodigiosa/NFS)
+(NP ojos/ncmp000 llenos/NMP)
+(NP castellano/ncms000 del/spcms Jóker/V)
+(NP
+  La/da0fs0
+  muerte/ncfs000
+  del/spcms
+  actor/ncms000
+  ha/vaip3s0
+  servido/vmp00sm)
+(NP sociedad/ncfs000 que/pr0cn000 idolatra/NFS)
+(NP el/da0ms0 legado/ncms000 de/sps00 Ledger/V quedará/vmif3s0)
+(NP maquillaje/ncms000 imperfecto/NMS)
+(NP
+  el/da0ms0
+  personaje/ncms000
+  que/pr0cn000
+  encarnó/V
+  Jack/V
+  Nicholson/np0000p)
+(NP el/da0ms0 personaje/ncms000 que/pr0cn000 lucha/ncfs000)
+(NP
+  La/da0fs0
+  interpretación/ncfs000
+  de/sps00
+  Aaron/V
+  Eckhart/V
+  es/vsip3s0)
+(NP pareja/ncfs000 con/sps00 Rachel/V chirría/vmip3s0)
+(NP papeles/ncmp000 sin/sps00 haberse/van0000 leído/vmp00sm)
+(NP papel/ncms000 de/sps00 teniente/nccs000 Gordon/V)
+(NP papel/ncms000 que/pr0cn000 le/pp3csd00 hace/vmip3s0)
+(NP La/da0fs0 música/ncfs000 es/vsip3s0)
+(NP película/ncfs000 de/sps00 acción/ncfs000)
+(NP la/da0fs0 continuación/ncfs000 será/vsif3s0)
+(NP la/da0fs0 pena/ncfs000 por/sps00 ver/vmn0000)
+(NP estado/ncms000 de/sps00 gracia/ncfs000)
+(NP espíritu/ncms000 del/spcms personaje/ncms000)
+(NP hombre/ncms000 murciélago/ncms000 atormentado/NMS)
+(NP la/da0fs0 opinión/ncfs000 de/sps00 Bedizu/V)
+(NP película/ncfs000 que/pr0cn000 vi/vmis1s0 hace/vmip3s0)
+(NP la/da0fs0 película/ncfs000 ''/V)
+(NP serie/ncfs000 de/sps00 televisión/ncfs000)
+(NP
+  el/da0ms0
+  espectador/ncms000
+  que/pr0cn000
+  te/pp2cs000
+  saca/ncfs000)
+(NP serie/ncfs000 de/sps00 dibujos/ncmp000)
+(NP Os/ncms000 podéis/V imaginar/vmn0000)
+(NP cine/ncms000 Llena/NFS)
+(NP pesar/ncms000 de/sps00 que/pr0cn000 yo/pp1csn00 prefiero/vmip1s0)
+(NP el/da0ms0 ambiente/ncms000 es/vsip3s0)
+(NP rato/ncms000 viendo/vmg0000)
+(NP paso/ncms000 a/sps00 comentaros/NMP)
+(NP personajes/ncmp000 que/pr0cn000 aparecen/vmip3p0)
+(NP el/da0ms0 cabeza/ncfs000 de/sps00 familia/ncfs000)
+(NP hombre/ncms000 barrigudo/NMS)
+(NP la/da0fs0 mujer/ncfs000 de/sps00 Homer/V)
+(NP fondo/ncms000 a/sps00 pesar/ncms000)
+(NP ama/ncfs000 de/sps00 casa/ncfs000)
+(NP hermano/ncms000 Bart/V)
+(NP la/da0fs0 edad/ncfs000 que/pr0cn000 tiene/vmip3s0)
+(NP el/da0ms0 bebé/ncms000 Simpson/np0000p)
+(NP acciones/ncfp000 son/vsip3p0 providenciales/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP los/da0mp0 habitantes/nccp000 del/spcms pueblo/ncms000)
+(NP el/da0ms0 papel/ncms000 del/spcms abuelo/ncms000)
+(NP señor/ncms000 Burns/V)
+(NP vez/ncfs000 son/vsip3p0)
+(NP amigo/ncms000 de/sps00 Lisa/NFS)
+(NP El/da0ms0 presidente/ncms000 es/vsip3s0)
+(NP hombre/ncms000 ambicioso/NMS)
+(NP El/da0ms0 amigo/ncms000 de/sps00 Lisa/NFS es/vsip3s0)
+(NP edad/ncfs000 con/sps00 aficiones/V)
+(NP el/da0ms0 tipo/ncms000 de/sps00 relación/ncfs000)
+(NP la/da0fs0 familia/ncfs000 tiene/vmip3s0)
+(NP la/da0fs0 película/ncfs000 se/p0300000 añade/vmip3s0)
+(NP la/da0fs0 serie/ncfs000 llame/V)
+(NP la/da0fs0 atención/ncfs000 son/vsip3p0)
+(NP las/da0fp0 apariciones/ncfp000 estelares/V)
+(NP la/da0fs0 serie/ncfs000 en/sps00 forma/ncfs000)
+(NP la/da0fs0 banda/ncfs000 Green/V Day/np0000p tocando/vmg0000)
+(NP página/ncfs000 donde/pr000000 se/p0300000 informe/ncms000)
+(NP la/da0fs0 película/ncfs000 pensaréis/V)
+(NP cerdo/ncms000 )/V)
+(NP desastre/ncms000 hecho/vmp00sm)
+(NP el/da0ms0 abuelo/ncms000 tiene/vmip3s0)
+(NP
+  ataque/ncms000
+  que/pr0cn000
+  le/pp3csd00
+  hace/vmip3s0
+  decir/vmn0000
+  cosas/ncfp000)
+(NP escenas/ncfp000 tenemos/vmip1p0)
+(NP especie/ncfs000 de/sps00 apuesta/ncfs000)
+(NP la/da0fs0 vergüenza/ncfs000 que/pr0cn000 siente/vmip3s0)
+(NP
+  las/da0fp0
+  conclusiones/ncfp000
+  que/pr0cn000
+  esto/pd0ns000
+  puede/vmip3s0
+  tener/vmn0000)
+(NP amigo/ncms000 consiguen/vmip3p0 convencer/vmn0000)
+(NP alcalde/ncms000 de/sps00 Springfield/V)
+(NP tipo/ncms000 de/sps00 protección/ncfs000)
+(NP nombres/ncmp000 (/V)
+(NP hijo/ncms000 se/p0300000 tratase/vmsi3s0)
+(NP culpa/ncfs000 del/spcms cerdo/ncms000)
+(NP
+  la/da0fs0
+  ciudad/ncfs000
+  Todo/pi0ms000
+  Springfield/V
+  está/vmip3s0)
+(NP
+  La/da0fs0
+  familia/ncfs000
+  Simpson/np0000p
+  logra/vmip3s0
+  escapar/vmn0000)
+(NP
+  la/da0fs0
+  cúpula/ncfs000
+  que/pr0cn000
+  le/pp3csd00
+  han/vaip3p0
+  puesto/ncms000)
+(NP circunstancias/ncfp000 les/pp3cpd00 harán/vmif3p0 volver/vmn0000)
+(NP incidente/nccs000 del/spcms principio/ncms000)
+(NP vecino/ncms000 Flanders/V)
+(NP padre/ncms000 fuese/vssi3s0)
+(NP minutos/ncmp000 de/sps00 gloria/ncfs000)
+(NP serie/ncfs000 de/sps00 televisión/ncfs000)
+(NP toques/ncmp000 de/sps00 ingenio/ncms000)
+(NP referencias/ncfp000 a/sps00 hechos/personajes/V)
+(NP atención/ncfs000 que/pr0cn000 le/pp3csd00 prestes/V)
+(NP apartado/ncms000 es/vsip3s0)
+(NP
+  la/da0fs0
+  película/ncfs000
+  se/p0300000
+  pueden/vmip3p0
+  ver/vmn0000)
+(NP estilo/ncms000 Simpson/np0000p)
+(NP Os/ncms000 comento/vmip1s0)
+(NP la/da0fs0 película/ncfs000 os/pp2cp000 daréis/V cuenta/vmip3s0)
+(NP la/da0fs0 película/ncfs000 tendréis/V tiempo/ncms000)
+(NP escena/ncfs000 que/pr0cn000 se/p0300000 ve/vmip3s0)
+(NP la/da0fs0 película/ncfs000 muestra/vmip3s0 escenas/ncfp000)
+(NP la/da0fs0 serie/ncfs000 favorita/ncfs000)
+(NP gente/ncfs000 que/pr0cn000 al/spcms acabar/vmn0000)
+(NP
+  la/da0fs0
+  película/ncfs000
+  sí/pp3cno00
+  que/pr0cn000
+  se/p0300000
+  habrá/vaif3s0
+  sentido/ncms000)
+(NP película/ncfs000 se/p0300000 ve/vmip3s0)
+(NP
+  la/da0fs0
+  sintonía/ncfs000
+  que/pr0cn000
+  da/vmip3s0
+  entrada/ncfs000)
+(NP
+  momento/ncms000
+  en/sps00
+  que/pr0cn000
+  aparece/vmip3s0
+  Bart/V
+  castigado/vmp00sm)
+(NP directores/ncmp000 se/p0300000 atreverían/V)
+(NP referencias/ncfp000 a/sps00 películas/ncfp000)
+(NP escena/ncfs000 de/sps00 Titanic/V)
+(NP los/da0mp0 músicos/ncmp000 del/spcms barco/ncms000 saben/vmip3p0)
+(NP frase/ncfs000 ``/V compañeros/ncmp000)
+(NP placer/ncms000 tocar/vmn0000)
+(NP continuación/ncfs000 siguen/vmip3p0 tocando/vmg0000)
+(NP escena/ncfs000 está/vmip3s0)
+(NP humor/ncms000 que/pr0cn000 dista/NFS)
+(NP cerdo/ncms000 son/vsip3p0)
+(NP
+  los/da0mp0
+  nombres/ncmp000
+  que/pr0cn000
+  le/pp3csd00
+  pone/vmip3s0
+  Homer/V)
+(NP referencia/ncfs000 a/sps00 películas/ncfp000)
+(NP el/da0ms0 nombre/ncms000 de/sps00 ``/V Spider-Cerdo/NMS ''/V)
+(NP momento/ncms000 clave/ncfs000)
+(NP película/ncfs000 jeje/V (/V)
+(NP animal/ncms000 que/pr0cn000 intenta/vmip3s0 trepar/V)
+(NP el/da0ms0 techo/ncms000 )/V)
+(NP aire/ncms000 al/spcms animal/ncms000)
+(NP
+  el/da0ms0
+  momento/ncms000
+  Spider-Cerdo/NMS
+  es/vsip3s0
+  inigualable/V
+  creo/vmip1s0)
+(NP películas/ncfp000 (/V Spiderman/V)
+(NP películas/ncfp000 que/pr0cn000 se/p0300000 hacen/vmip3p0)
+(NP nombre/ncms000 ponerle/vmn0000)
+(NP futuro/ncms000 aparece/vmip3s0)
+(NP el/da0ms0 papel/ncms000 de/sps00 Homer/V)
+(NP pena/ncfs000 al/spcms perder/vmn0000)
+(NP niño/ncms000 que/pr0cn000 se/p0300000 parece/vmip3s0)
+(NP vez/ncfs000 que/pr0cn000 Lisa/NFS hace/vmip3s0)
+(NP amigo/ncms000 ``/V)
+(NP personaje/ncms000 podría/vmic3s0 continuar/vmn0000)
+(NP la/da0fs0 vida/ncfs000 de/sps00 Lisa/NFS)
+(NP momentos/ncmp000 críticos/ncmp000)
+(NP relación/ncfs000 de/sps00 pareja/ncfs000)
+(NP puntos/ncmp000 de/sps00 vista/ncfs000)
+(NP
+  el/da0ms0
+  punto/ncms000
+  de/sps00
+  que/pr0cn000
+  uno/pi0ms000
+  de/sps00
+  ellos/pp3mp000
+  se/p0300000
+  plantea/vmip3s0)
+(NP
+  la/da0fs0
+  amenaza/ncfs000
+  que/pr0cn000
+  vive/vmip3s0
+  Springfield/V)
+(NP la/da0fs0 familia/ncfs000 viaja/vmip3s0)
+(NP la/da0fs0 serie/ncfs000 se/p0300000 trasladase/vmsi3s0)
+(NP
+  situaciones/ncfp000
+  me/pp1cs000
+  parecen/vmip3p0
+  piezas/ncfp000
+  clave/ncfs000)
+(NP
+  situaciones/ncfp000
+  que/pr0cn000
+  os/pp2cp000
+  he/vaip1s0
+  comentado/vmp00sm
+  es/vsip3s0)
+(NP la/da0fs0 pena/ncfs000 ver/vmn0000)
+(NP la/da0fs0 película/ncfs000 para/sps00 ver/vmn0000)
+(NP verdad/ncfs000 que/pr0cn000 son/vsip3p0)
+(NP fama/ncfs000 suelen/vmip3p0 sacar/vmn0000)
+(NP vistazo/ncms000 a/sps00 www.simpsonsmovie.com/V)
+(NP
+  la/da0fs0
+  película/ncfs000
+  que/pr0cn000
+  podemos/vmip1p0
+  encontrar/vmn0000)
+(NP el/da0ms0 espacio/ncms000 para/sps00 crear/vmn0000)
+(NP imagen/ncfs000 en/sps00 Simpson/np0000p)
+(NP atracción/ncfs000 de/sps00 feria/ncfs000)
+(NP la/da0fs0 posibilidad/ncfs000 de/sps00 realizar/vmn0000)
+(NP la/da0fs0 taberna/ncfs000 de/sps00 Moe/V)
+(NP la/da0fs0 familia/ncfs000 Simpson/np0000p)
+(NP las/da0fp0 imágenes/ncfp000 que/pr0cn000 aparecen/vmip3p0)
+(NP la/da0fs0 posibilidad/ncfs000 de/sps00 descargar/V iconos/NMP)
+(NP fondos/ncmp000 de/sps00 pantalla/ncfs000)
+(NP las/da0fp0 imágenes/ncfp000 son/vsip3p0)
+(NP Os/ncms000 dejo/vmip1s0)
+(NP la/da0fs0 ficha/ncfs000 técnica/ncfs000)
+(NP L./nc00000 Brooks/V)
+(NP L./nc00000 Brooks/V)
+(NP canciones/ncfp000 )/V)
+(NP Estados/ncmp000 Unidos/NMP Año/ncms000)
+(NP
+  La/da0fs0
+  película/ncfs000
+  me/pp1cs000
+  ha/vaip3s0
+  gustado/vmp00sm)
+(NP
+  los/da0mp0
+  detalles/ncmp000
+  que/pr0cn000
+  os/pp2cp000
+  he/vaip1s0
+  explicado/vmp00sm)
+(NP gente/ncfs000 seguidora/NFS)
+(NP tiempo/ncms000 para/sps00 que/pr0cn000 suceda/vmsp3s0)
+(NP la/da0fs0 familia/ncfs000 que/pr0cn000 quedan/vmip3p0)
+(NP tiempo/ncms000 de/sps00 sobra/vmip3s0)
+(NP serie/ncfs000 de/sps00 acciones/ncfp000)
+(NP detalle/ncms000 a/sps00 priori/V tiene/vmip3s0 relación/ncfs000)
+(NP la/da0fs0 serie/ncfs000 de/sps00 vez/ncfs000)
+(NP tipo/ncms000 que/pr0cn000 hacen/vmip3p0)
+(NP la/da0fs0 definición/ncfs000 de/sps00 ``/V)
+(NP capítulo/ncms000 tiene/vmip3s0)
+(NP el/da0ms0 resto/ncms000 de/sps00 personajes/ncmp000)
+(NP la/da0fs0 esencia/ncfs000 Simpson/np0000p)
+(NP la/da0fs0 película/ncfs000 se/p0300000 juntan/V)
+(NP apariciones/ncfp000 estelares/V)
+(NP las/da0fp0 películas/ncfp000 preferidas/NFP)
+(NP queridos/ncmp000 Simpson/np0000p perdieran/vmsi3p0)
+(NP película/ncfs000 vista/ncfs000)
+(NP escenas/ncfp000 que/pr0cn000 están/vmip3p0)
+(NP la/da0fs0 escena/ncfs000 de/sps00 entrada/ncfs000)
+(NP la/da0fs0 atracción/ncfs000 de/sps00 feria/ncfs000)
+(NP rato/ncms000 de/sps00 Simpson/np0000p apetece/V)
+(NP gracias/ncfp000 por/sps00 vuestras/NFP lecturas/NFP)
+(NP los/da0mp0 personajes/ncmp000 vuelven/vmip3p0)
+(NP duda/ncfs000 ha/vaip3s0 sido/vsp00sm)
+(NP la/da0fs0 película/ncfs000 estrella/ncfs000)
+(NP puente/ncms000 del/spcms Pilar.Primero/NMS)
+(NP año/ncms000 Recuerdo/vmip1s0)
+(NP vez/ncfs000 que/pr0cn000 vi/vmis1s0)
+(NP millones/ncmp000 de/sps00 recaudación/ncfs000)
+(NP vista/ncfs000 del/spcms año/ncms000 -esto/NMS)
+(NP estreno/ncms000 -en/V)
+(NP vez/ncfs000 que/pr0cn000 veo/vmip1s0)
+(NP película/ncfs000 de/sps00 miedo/ncms000)
+(NP casa/ncfs000 cierro/vmip1s0)
+(NP la/da0fs0 sesión/ncfs000 golfa/NFS -00:00-/V)
+(NP la/da0fs0 cabeza/ncfs000 viendo/vmg0000 ``/V cositas/NFP)
+(NP personaje/ncms000 ../V )/V)
+(NP vez/ncfs000 que/pr0cn000 cerraba/NFS)
+(NP La/da0fs0 historia/ncfs000 Nos/pp1cp000 encontramos/vmip1p0)
+(NP localidad/ncfs000 asturiana/NFS)
+(NP casa/ncfs000 que/pr0cn000 antaño/NMS fue/vsis3s0)
+(NP familia/ncfs000 se/p0300000 han/vaip3p0 traslado/ncms000)
+(NP residencia/ncfs000 para/sps00 atender/vmn0000)
+(NP niños/ncmp000 discapacitados/ncmp000)
+(NP hijo/ncms000 Simón/V)
+(NP personaje/ncms000 con/sps00 información/ncfs000)
+(NP la/da0fs0 fiesta/ncfs000 de/sps00 bienvenida/ncfs000)
+(NP madre/ncfs000 visite/V)
+(NP gente/ncfs000 en/sps00 casa/ncfs000)
+(NP el/da0ms0 niño/ncms000 se/p0300000 enfada/NFS)
+(NP la/da0fs0 habitación/ncfs000 de/sps00 Simón/V)
+(NP rastro/ncms000 de/sps00 Simón/V Simón/V)
+(NP cosas/ncfp000 extrañas/NFP)
+(NP años/ncmp000 fue/vsis3s0)
+(NP residencia/ncfs000 para/sps00 discapacitados/ncmp000)
+(NP el/da0ms0 marido/ncms000 de/sps00 Laura/NFS)
+(NP La/da0fs0 desaparición/ncfs000 de/sps00 Simón/V)
+(NP el/da0ms0 hijo/ncms000 de/sps00 Laura/NFS)
+(NP amigos/ncmp000 invisibles/V)
+(NP amigos/ncmp000 invisibles/V parece/vmip3s0)
+(NP principio/ncms000 pueden/vmip3p0 parecer/vmn0000)
+(NP
+  la/da0fs0
+  gente/ncfs000
+  que/pr0cn000
+  confunde/vmip3s0
+  comentar/vmn0000)
+(NP película/ncfs000 con/sps00 desmenuzarla/NFS)
+(NP consecuencia/ncfs000 del/spcms desarrollo/ncms000)
+(NP visita/ncfs000 misteriosa/NFS)
+(NP la/da0fs0 desaparición/ncfs000 de/sps00 Simón/V)
+(NP opinión/ncfs000 Tenía/vmii3s0)
+(NP ganas/ncfp000 de/sps00 ver/vmn0000)
+(NP pesar/ncms000 de/sps00 que/pr0cn000 sabía/vmii3s0)
+(NP La/da0fs0 película/ncfs000 comienza/vmip3s0)
+(NP las/da0fp0 luces/ncfp000 son/vsip3p0)
+(NP actualidad/ncfs000 ''/V)
+(NP los/da0mp0 juegos/ncmp000 de/sps00 luces/ncfp000)
+(NP Las/da0fp0 actuaciones/ncfp000 son/vsip3p0)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0 Belén/V Rueda/NFS)
+(NP película/ncfs000 era/vsii3s0)
+(NP sentimientos/ncmp000 que/pr0cn000 le/pp3csd00 afloran/V)
+(NP película/ncfs000 de/sps00 misterio/ncms000)
+(NP la/da0fs0 música/ncfs000 cobra/NFS)
+(NP veces/ncfp000 que/pr0cn000 os/pp2cp000 entra/vmip3s0)
+(NP la/da0fs0 tradición/ncfs000 se/p0300000 cumple/vmip3s0)
+(NP
+  película/ncfs000
+  de/sps00
+  terror/ncms000
+  excelentemente/V
+  ambientada/NFS)
+(NP el/da0ms0 tipo/ncms000 de/sps00 película/ncfs000)
+(NP las/da0fp0 personas/ncfp000 que/pr0cn000 van/vmip3p0)
+(NP pase/ncms000 miedo/ncms000 muuucho/NMS miedo/ncms000)
+(NP la/da0fs0 cara/ncfs000 viendo/vmg0000)
+(NP la/da0fs0 cosa/ncfs000 se/p0300000 ponía/vmii3s0)
+(NP madre/ncfs000 yo/pp1csn00 creo/vmip1s0)
+(NP el/da0ms0 cine/ncms000 estuvo/vmis3s0)
+(NP borde/nccs000 del/spcms infarto/NMS xD/V)
+(NP recurso/ncms000 -tan/V manido/NMS)
+(NP el/da0ms0 cine/ncms000 de/sps00 terror-/V)
+(NP veces/ncfp000 nos/pp1cp000 meten/V)
+(NP plan/ncms000 ``/V pos/NMP)
+(NP detalle/ncms000 del/spcms principio/ncms000)
+(NP manera/ncfs000 tenían/vmii3p0)
+(NP
+  La/da0fs0
+  película/ncfs000
+  me/pp1cs000
+  ha/vaip3s0
+  gustado/vmp00sm)
+(NP vez/ncfs000 sea/vssp3s0)
+(NP película/ncfs000 es/vsip3s0)
+(NP vista/ncfs000 hace/vmip3s0)
+(NP
+  la/da0fs0
+  película/ncfs000
+  que/pr0cn000
+  me/pp1cs000
+  recuerda/vmip3s0)
+(NP las/da0fp0 cosas/ncfp000 hay/vaip3s0)
+(NP ejercicio/ncms000 de/sps00 suspense/ncms000)
+(NP tensión/ncfs000 te/pp2cs000 hace/vmip3s0 dar/vmn0000)
+(NP escena/ncfs000 que/pr0cn000 de/sps00 surrealista/NFS)
+(NP gritos/ncmp000 Te/pp2cs000 cala/NFS)
+(NP amantes/nccp000 del/spcms género/NMS)
+(NP noche/ncfs000 que/pr0cn000 os/pp2cp000 he/vaip1s0 contado/NMS)
+(NP la/da0fs0 opinión/ncfs000 xD/V)
+(NP uñas/ncfp000 de/sps00 gato/ncms000)
+(NP los/da0mp0 efectos/ncmp000 secundarios/NMP)
+(NP opinión/ncfs000 os/pp2cp000 hablaré/V)
+(NP películas/ncfp000 en/sps00 DVD/np0000a)
+(NP tipo/ncms000 de/sps00 películas/ncfp000)
+(NP fin/ncms000 verla/NFS)
+(NP característica/ncfs000 aplicable/V)
+(NP las/da0fp0 películas/ncfp000 del/spcms género/NMS)
+(NP sabor/ncms000 de/sps00 boca/ncfs000)
+(NP minutos/ncmp000 País/V)
+(NP el/da0ms0 programa/ncms000 ``/V)
+(NP la/da0fs0 película/ncfs000 están/vmip3p0 junto/NMS)
+(NP turno/ncms000 de/sps00 noche/ncfs000)
+(NP estación/ncfs000 de/sps00 Barcelona/np0000l)
+(NP la/da0fs0 noche/ncfs000 comienza/vmip3s0)
+(NP el/da0ms0 día/ncms000 a/sps00 día/ncms000)
+(NP la/da0fs0 falta/ncfs000 de/sps00 acción/ncfs000)
+(NP marcha/ncfs000 para/sps00 atender/vmn0000)
+(NP cosa/ncfs000 Pronto/NMS llegan/vmip3p0)
+(NP edificio/ncms000 de/sps00 pisos/NMP)
+(NP par/ncms000 de/sps00 miembros/ncmp000)
+(NP vecinos/ncmp000 esperando/vmg0000)
+(NP el/da0ms0 problema/ncms000 parece/vmip3s0 ser/vsn0000)
+(NP
+  mujer/ncfs000
+  que/pr0cn000
+  se/p0300000
+  ha/vaip3s0
+  quedado/vmp00sm
+  encerrada/NFS)
+(NP cámara/ncfs000 al/spcms hombro/ncms000)
+(NP ataque/ncms000 se/p0300000 dan/vmip3p0 cuenta/vmip3s0)
+(NP el/da0ms0 edificio/ncms000 está/vmip3s0)
+(NP tipo/ncms000 de/sps00 infección/ncfs000)
+(NP la/da0fs0 cosa/ncfs000 se/p0300000 va/vmip3s0 complicando/NMS)
+(NP las/da0fp0 fuerzas/ncfp000 de/sps00 seguridad/ncfs000)
+(NP La/da0fs0 película/ncfs000 fue/vsis3s0 rodada/NFS)
+(NP casa/ncfs000 de/sps00 Rambla/NFS Cataluña/np0000l)
+(NP la/da0fs0 ciudad/ncfs000 de/sps00 Barcelona/np0000l)
+(NP la/da0fs0 elección/ncfs000 del/spcms edificio/ncms000)
+(NP grado/ncms000 de/sps00 conservación/ncfs000)
+(NP La/da0fs0 película/ncfs000 fue/vsis3s0)
+(NP película/ncfs000 que/pr0cn000 ha/vaip3s0 tenido/vmp00sm)
+(NP vez/ncfs000 coinciden/vmip3p0)
+(NP tipo/ncms000 de/sps00 películas/ncfp000)
+(NP el/da0ms0 éxito/ncms000 que/pr0cn000 ha/vaip3s0 obtenido/vmp00sm)
+(NP Estados/ncmp000 Unidos/NMP)
+(NP el/da0ms0 título/ncms000 de/sps00 ``/V Quarantine/V ''/V)
+(NP el/da0ms0 título/ncms000 [/V REC/V ]/V)
+(NP caso/ncms000 resulta/vmip3s0)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP actores/ncmp000 (/V)
+(NP imágenes/ncfp000 extraídas/NFP)
+(NP estilo/ncms000 para/sps00 ver/vmn0000)
+(NP infección/ncfs000 que/pr0cn000 transforma/NFS)
+(NP criaturas/ncfp000 sedientas/NFP)
+(NP el/da0ms0 tratamiento/ncms000 en/sps00 estilo/ncms000)
+(NP la/da0fs0 acción/ncfs000 a/sps00 través/V)
+(NP la/da0fs0 cámara/ncfs000 que/pr0cn000 llevan/vmip3p0)
+(NP puesto/ncms000 que/pr0cn000 Pablo/NMS)
+(NP el/da0ms0 cámara/ncfs000 es/vsip3s0 indiscutiblemente/V)
+(NP la/da0fs0 película/ncfs000 a/sps00 través/V)
+(NP la/da0fs0 cámara/ncfs000 que/pr0cn000 lleva/vmip3s0)
+(NP la/da0fs0 ausencia/ncfs000 de/sps00 pretensiones/V)
+(NP momento/ncms000 busca/vmip3s0)
+(NP los/da0mp0 personajes/ncmp000 resultan/vmip3p0)
+(NP
+  grupo/ncms000
+  de/sps00
+  personas/ncfp000
+  extremadamente/V
+  asustadas/NFP)
+(NP
+  la/da0fs0
+  situación/ncfs000
+  que/pr0cn000
+  se/p0300000
+  va/vmip3s0
+  tornando/NMS)
+(NP las/da0fp0 reacciones/ncfp000 son/vsip3p0)
+(NP deber/ncms000 intenta/vmip3s0 mantener/vmn0000)
+(NP los/da0mp0 vecinos/ncmp000 histéricos/NMP)
+(NP la/da0fs0 oportunidad/ncfs000 de/sps00 contar/vmn0000)
+(NP
+  historia/ncfs000
+  que/pr0cn000
+  le/pp3csd00
+  pueda/vmsp3s0
+  ayudar/vmn0000)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP momento/ncms000 eclipsan/V)
+(NP
+  la/da0fs0
+  historia/ncfs000
+  que/pr0cn000
+  se/p0300000
+  quiere/vmip3s0
+  narrar/V)
+(NP edificio/ncms000 (/V)
+(NP la/da0fs0 película/ncfs000 )/V)
+(NP la/da0fs0 historia/ncfs000 nos/pp1cp000 resulte/V)
+(NP serie/ncfs000 de/sps00 elementos/ncmp000 sencillos/NMP)
+(NP vez/ncfs000 acabada/NFS)
+(NP el/da0ms0 número/ncms000 de/sps00 personajes/ncmp000)
+(NP los/da0mp0 medios/ncmp000 son/vsip3p0)
+(NP sangre/ncfs000 al/spcms servicio/ncms000)
+(NP apartado/ncms000 dedicado/vmp00sm)
+(NP puesto/ncms000 que/pr0cn000 al/spcms narrarse/V)
+(NP la/da0fs0 historia/ncfs000 toma/ncfs000)
+(NP los/da0mp0 actores/ncmp000 es/vsip3s0)
+(NP papel/ncms000 de/sps00 reportera/NFS)
+(NP noticias/ncfp000 sensacionalistas/NFP)
+(NP el/da0ms0 porqué/ncms000 está/vmip3s0)
+(NP
+  la/da0fs0
+  historia/ncfs000
+  que/pr0cn000
+  pretendía/vmii3s0
+  relatar/V)
+(NP la/da0fs0 voz/ncfs000 del/spcms cámara/ncfs000)
+(NP momentos/ncmp000 aporta/vmip3s0)
+(NP grado/ncms000 de/sps00 realismo/NMS)
+(NP impresión/ncfs000 es/vsip3s0)
+(NP efectividad/ncfs000 al/spcms resultado/ncms000)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP duración/ncfs000 (/V)
+(NP el/da0ms0 ritmo/ncms000 es/vsip3s0)
+(NP la/da0fs0 impresión/ncfs000 de/sps00 ser/vsn0000)
+(NP la/da0fs0 historia/ncfs000 que/pr0cn000 resulta/vmip3s0)
+(NP la/da0fs0 vez/ncfs000 consigue/vmip3s0 mantener/vmn0000)
+(NP resumen/ncms000 se/p0300000 trata/vmip3s0)
+(NP directores/ncmp000 es/vsip3s0)
+(NP aficionados/ncmp000 al/spcms género/NMS)
+(NP aficionados/ncmp000 al/spcms género/NMS)
+(NP tipo/ncms000 de/sps00 películas/ncfp000)
+(NP comentarios/ncmp000 ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡HoLa/NFS)
+(NP parte/ncfs000 siga/vmsp3s0 habiendo/vag0000 tensión/ncfs000)
+(NP penas/ncfp000 hay/vaip3s0 cambios/ncmp000)
+(NP caso/ncms000 es/vsip3s0 pasable/V)
+(NP año/ncms000 ]/V xD/V Aparecen/V rostros/ncmp000)
+(NP personajes/ncmp000 son/vsip3p0)
+(NP los/da0mp0 actores/ncmp000 que/pr0cn000 considero/NMS)
+(NP persona/ncfs000 que/pr0cn000 está/vmip3s0 sufriendo/NMS)
+(NP punto/ncms000 de/sps00 morir/vmn0000)
+(NP ataques/ncmp000 comprensibles/V)
+(NP partes/ncfp000 [/V imperdonable/V ver/vmn0000)
+(NP personajes/ncmp000 queda/vmip3s0)
+(NP partes/ncfp000 es/vsip3s0)
+(NP enemigo/ncms000 le/pp3csd00 deseo/ncms000 estar/vmn0000)
+(NP escenarios/ncmp000 geniales/V)
+(NP el/da0ms0 tipo/ncms000 de/sps00 película/ncfs000)
+(NP juego/ncms000 a/sps00 vida/ncfs000)
+(NP
+  muerte/ncfs000
+  para/sps00
+  que/pr0cn000
+  sepan/vmsp3p0
+  apreciar/vmn0000)
+(NP el/da0ms0 fondo/ncms000 va/vmip3s0)
+(NP oído/ncms000 que/pr0cn000 habrá/vaif3s0)
+(NP la/da0fs0 manera/ncfs000 de/sps00 morir/vmn0000)
+(NP curiosidad/ncfs000 típica/NFS)
+(NP forma/ncfs000 magistral/V)
+(NP Juego/ncms000 ''/V)
+(NP la/da0fs0 cosa/ncfs000 esté/vmsp3s0)
+(NP veces/ncfp000 se/p0300000 nos/pp1cp000 haga/vmsp3s0)
+(NP dudas/ncfp000 que/pr0cn000 vamos/vmip1p0 resolviendo/vmg0000)
+(NP cosas/ncfp000 que/pr0cn000 te/pp2cs000 vas/vmip2s0)
+(NP pesar/ncms000 de/sps00 ser/vsn0000 YA/V)
+(NP encuentro/ncms000 demasiadas/NFP diferencias/ncfp000)
+(NP película/ncfs000 [/V)
+(NP éxito/ncms000 en/sps00 Saw/V I/V)
+(NP la/da0fs0 mayoría/ncfs000 al/spcms ver/vmn0000)
+(NP director/ncms000 Darren/V Lynn/V Bousman/V)
+(NP los/da0mp0 actores/ncmp000 Tobin/V Bell/np0000p)
+(NP hombre/ncms000 enfermo/NMS)
+(NP traje/ncms000 de/sps00 cerdo/ncms000)
+(NP juego/ncms000 de/sps00 vivir/vmn0000)
+(NP pantalla/ncfs000 cutre/V)
+(NP punto/ncms000 de/sps00 explotar/vmn0000)
+(NP tiempo/ncms000 límite/ncms000 es/vsip3s0)
+(NP El/da0ms0 fin/ncms000 de/sps00 Jigsaw/V es/vsip3s0)
+(NP gente/ncfs000 aprecie/V)
+(NP la/da0fs0 salud/ncfs000 que/pr0cn000 tienen/vmip3p0)
+(NP La/da0fs0 mayoría/ncfs000 mueren/vmip3p0)
+(NP entrega/ncfs000 aparece/vmip3s0 Amanda/NFS)
+(NP el/da0ms0 juego/ncms000 traerá/V)
+(NP cabeza/ncfs000 al/spcms departamento/ncms000)
+(NP
+  la/da0fs0
+  vida/ncfs000
+  del/spcms
+  que/pr0cn000
+  puede/vmip3s0
+  ser/vsn0000)
+(NP el/da0ms0 juego/ncms000 con/sps00 Jeff/V)
+(NP parte/ncfs000 para/sps00 hacernos/vmn0000 recordar/vmn0000)
+(NP personas/ncfp000 que/pr0cn000 disfrutaron/V)
+(NP niños/ncmp000 con/sps00 zapatos/ncmp000)
+(NP estómago/ncms000 a/sps00 prueba/ncfs000)
+(NP parte/ncfs000 os/pp2cp000 aclararéis/V)
+(NP gente/ncfs000 que/pr0cn000 detesta/NFS)
+(NP tipo/ncms000 de/sps00 películas/ncfp000 sangrientas/NFP)
+(NP opiniones/ncfp000 de/sps00 Ciao/NMS)
+(NP gente/ncfs000 que/pr0cn000 se/p0300000 ha/vaip3s0 vuelto/vmp00sm)
+(NP las/da0fp0 partes/ncfp000 de/sps00 Saw/V)
+(NP
+  el/da0ms0
+  norte/ncms000
+  de/sps00
+  España/np0000l
+  )/V
+  venga/vmsp3s0)
+(NP cine/ncms000 aprovechando/vmg0000)
+(NP el/da0ms0 día/ncms000 lluvioso/NMS)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP el/da0ms0 mundo/ncms000 me/pp1cs000 decía/vmii3s0)
+(NP pérdida/ncfs000 de/sps00 tiempo/ncms000)
+(NP maravillas/ncfp000 de/sps00 ella/pp3fs000 jeje/V)
+(NP bajas/ncfp000 puntuaciones/V)
+(NP El/da0ms0 caso/ncms000 es/vsip3s0)
+(NP amiga/ncfs000 Alicia/NFS)
+(NP cine/ncms000 a/sps00 ver/vmn0000)
+(NP el/da0ms0 hombre/ncms000 arañita/NFS enfundado/NMS)
+(NP la/da0fs0 gente/ncfs000 salió/vmis3s0 contenta/NFS)
+(NP la/da0fs0 historia/ncfs000 del/spcms cine/ncms000)
+(NP entrega/ncfs000 de/sps00 Spiderman/V)
+(NP el/da0ms0 amor/ncms000 de/sps00 Mary/V Jane/V)
+(NP vida/ncfs000 de/sps00 superhéroe/V)
+(NP estudiante/nccs000 que/pr0cn000 compagina/NFS)
+(NP trabajo/ncms000 de/sps00 fotógrafo/ncms000)
+(NP el/da0ms0 jefe/ncms000 de/sps00 policía/nccs000)
+(NP la/da0fs0 ciudad/ncfs000 por/sps00 salvar/vmn0000)
+(NP chica/ncfs000 )/V triunfa/vmip3s0)
+(NP amor/ncms000 Mary/V Jane/V)
+(NP entrega/ncfs000 de/sps00 Spiderman/V)
+(NP El/da0ms0 hombre/ncms000 arena/ncfs000)
+(NP personaje/ncms000 evoluciona/NFS)
+(NP causas/ncfp000 le/pp3csd00 llevan/vmip3p0)
+(NP secretos/ncmp000 oculta/NFS)
+(NP enemigo/ncms000 de/sps00 Spiderman/V)
+(NP El/da0ms0 hombre/ncms000 arena/ncfs000 es/vsip3s0)
+(NP
+  las/da0fp0
+  cosas/ncfp000
+  que/pr0cn000
+  le/pp3csd00
+  han/vaip3p0
+  sucedido/vmp00sm)
+(NP faceta/ncfs000 de/sps00 superhéroe/V)
+(NP los/da0mp0 niños/ncmp000 le/pp3csd00 adoran/V)
+(NP las/da0fp0 chicas/ncfp000 están/vmip3p0 loquitas/NFP)
+(NP héroe/ncms000 se/p0300000 le/pp3csd00 suba/NFS)
+(NP la/da0fs0 sed/ncfs000 de/sps00 venganza/ncfs000)
+(NP día/ncms000 va/vmip3s0)
+(NP puntos/ncmp000 de/sps00 humor/ncms000)
+(NP jefe/ncms000 del/spcms periódico/ncms000 tiene/vmip3s0)
+(NP faceta/ncfs000 de/sps00 superhéroe/V)
+(NP tela/ncfs000 de/sps00 araña/ncfs000 mirando/NMS)
+(NP las/da0fp0 estrellas/ncfp000 con/sps00 Mary/V Jane/V)
+(NP las/da0fp0 escenas/ncfp000 de/sps00 lucha/ncfs000)
+(NP el/da0ms0 hombre/ncms000 arena/ncfs000)
+(NP el/da0ms0 hombre/ncms000 arena/ncfs000)
+(NP la/da0fs0 escena/ncfs000 del/spcms campanario/NMS)
+(NP Estados/ncmp000 Unidos/NMP (/V)
+(NP opinión/ncfs000 número/ncms000)
+(NP gracias/ncfp000 a/sps00 tod/V @/V s/V)
+(NP opiniones/ncfp000 con/sps00 tods/V vosotros/NMP)
+(NP fin/ncms000 de/sps00 que/pr0cn000 os/pp2cp000 sirvan/V)
+(NP montón/ncms000 de/sps00 besitos/NMP)
+(NP gracias/ncfp000 por/sps00 vuestro/NMS cariño/ncms000)
+(NP la/da0fs0 película/ncfs000 resulta/vmip3s0)
+(NP La/da0fs0 película/ncfs000 comienza/vmip3s0)
+(NP imágenes/ncfp000 en/sps00 sepia/NFS)
+(NP la/da0fs0 guerra/ncfs000 de/sps00 Vietnam/np0000l)
+(NP hombre/ncms000 escribe/vmip3s0 notas/ncfp000)
+(NP la/da0fs0 razón/ncfs000 que/pr0cn000 lleva/vmip3s0)
+(NP hombre/ncms000 a/sps00 hacer/vmn0000)
+(NP
+  el/da0ms0
+  profesor/ncms000
+  Arhur/V
+  Seldom/V
+  (/V
+  John/np0000p
+  Hurt/V
+  )/V)
+(NP ejército/ncms000 austrohúngaro/NMS)
+(NP el/da0ms0 profesor/ncms000 Seldom/V explica/vmip3s0)
+(NP la/da0fs0 frase/ncfs000 que/pr0cn000 cierra/vmip3s0)
+(NP casa/ncfs000 era/vsii3s0)
+(NP la/da0fs0 visita/ncfs000 de/sps00 Brahms/V)
+(NP colegio/ncms000 de/sps00 Hitler/V)
+(NP discípulo/ncms000 de/sps00 Bertrand/V Russell/V)
+(NP la/da0fs0 guerra/ncfs000 reparte/vmip3s0)
+(NP grupo/ncms000 de/sps00 artistas/nccp000)
+(NP intelectuales/nccp000 (/V Rilke/V)
+(NP ayudante/nccs000 de/sps00 jardinero/NMS)
+(NP fin/ncms000 vuelve/vmip3s0)
+(NP época/ncfs000 se/p0300000 conocen/vmip3p0)
+(NP cáncer/nccn000 tras/sps00 negarse/V)
+(NP la/da0fs0 película/ncfs000 se/p0300000 repite/vmip3s0)
+(NP frase/ncfs000 con/sps00 que/pr0cn000 acaba/vmip3s0)
+(NP vida/ncfs000 atormentado/NMS)
+(NP el/da0ms0 lenguaje/ncms000 es/vsip3s0)
+(NP el/da0ms0 mapa/ncms000 del/spcms mundo/ncms000)
+(NP la/da0fs0 estructura/ncfs000 lógica/ncfs000)
+(NP
+  los/da0mp0
+  límites/ncmp000
+  del/spcms
+  lenguaje/ncms000
+  son/vsip3p0)
+(NP El/da0ms0 lenguaje/ncms000 puede/vmip3s0 decirnos/vmn0000)
+(NP el/da0ms0 sentido/ncms000 del/spcms mundo/ncms000 tiene/vmip3s0)
+(NP el/da0ms0 mundo/ncms000 pertenece/vmip3s0)
+(NP montón/ncms000 de/sps00 usuarios/ncmp000)
+(NP opiniones/ncfp000 xDD/V )/V)
+(NP profesor/ncms000 Seldom/V dirija/NFS)
+(NP
+  el/da0ms0
+  profesor/ncms000
+  que/pr0cn000
+  le/pp3csd00
+  recibe/vmip3s0)
+(NP compañero/ncms000 de/sps00 despacho/ncms000)
+(NP El/da0ms0 chico/ncms000 se/p0300000 aloja/NFS)
+(NP casa/ncfs000 de/sps00 Mrs/V)
+(NP viuda/ncfs000 del/spcms hombre/ncms000)
+(NP el/da0ms0 código/ncms000 Enigma/NFS)
+(NP personaje/ncms000 está/vmip3s0)
+(NP el/da0ms0 patrón/ncms000 del/spcms rotor/V)
+(NP la/da0fs0 máquina/ncfs000 Enigma/NFS (/V)
+(NP mensajes/ncmp000 )/V fijándose/V)
+(NP
+  la/da0fs0
+  forma/ncfs000
+  en/sps00
+  que/pr0cn000
+  éstas/pd0fp000
+  cambiaban/vmii3p0)
+(NP tiempo/ncms000 en/sps00 Gran/V Bretaña/NFS)
+(NP la/da0fs0 película/ncfs000 ha/vaip3s0)
+(NP accidente/ncms000 al/spcms chocar/vmn0000)
+(NP el/da0ms0 coche/ncms000 que/pr0cn000 conducía/vmii3s0)
+(NP el/da0ms0 profesor/ncms000 Seldom/V)
+(NP la/da0fs0 esposa/ncfs000 del/spcms profesor/ncms000)
+(NP el/da0ms0 momento/ncms000 del/spcms accidente/ncms000)
+(NP hija/ncfs000 Beth/V (/V Julie/V Cox/V )/V)
+(NP hija/ncfs000 llamándose/V ``/V perra/NFS)
+(NP
+  insulto/ncms000
+  que/pr0cn000
+  se/p0300000
+  dirigen/V
+  es/vsip3s0
+  ``/V
+  busybody/V
+  ''/V)
+(NP líneas/ncfp000 )/V es/vsip3s0)
+(NP posibilidades/ncfp000 de/sps00 trabajar/vmn0000)
+(NP oportunidad/ncfs000 de/sps00 contactar/V)
+(NP el/da0ms0 profesor/ncms000 explica/vmip3s0)
+(NP la/da0fs0 filosofía/ncfs000 de/sps00 Wittgenstein/V)
+(NP colofón/ncms000 del/spcms Tractatus/V)
+(NP pie/ncms000 para/sps00 preguntar/V)
+(NP intento/ncms000 de/sps00 llamar/vmn0000)
+(NP el/da0ms0 número/ncms000 ``/V pi/V ''/V)
+(NP la/da0fs0 posibilidad/ncfs000 de/sps00 encontrar/vmn0000)
+(NP las/da0fp0 claves/ncfp000 que/pr0cn000 subyacen/V)
+(NP el/da0ms0 sentido/ncms000 secreto/ncms000)
+(NP el/da0ms0 sentido/ncms000 secreto/ncms000)
+(NP la/da0fs0 realidad/ncfs000 ''/V)
+(NP claves/ncfp000 se/p0300000 encuentran/vmip3p0)
+(NP demostración/ncfs000 de/sps00 ello/pp3ns000 termina/vmip3s0)
+(NP
+  la/da0fs0
+  belleza/ncfs000
+  que/pr0cn000
+  podemos/vmip1p0
+  encontrar/vmn0000)
+(NP la/da0fs0 ocasión/ncfs000 de/sps00 mofarse/V)
+(NP certeza/ncfs000 que/pr0cn000 compartir/vmn0000)
+(NP acuerdo/ncms000 con/sps00 Wittgenstein/V ''/V es/vsip3s0)
+(NP forma/ncfs000 de/sps00 invitarle/V)
+(NP el/da0ms0 chico/ncms000 levanta/vmip3s0)
+(NP la/da0fs0 mano/ncfs000 para/sps00 intervenir/vmn0000)
+(NP
+  el/da0ms0
+  escepticismo/ncms000
+  del/spcms
+  que/pr0cn000
+  está/vmip3s0)
+(NP chico/ncms000 ridiculizando/NMS)
+(NP crecimiento/ncms000 desordenado/NMS)
+(NP célula/ncfs000 cancerígena/NFS)
+(NP modo/ncms000 de/sps00 ver/vmn0000)
+(NP escena/ncfs000 se/p0300000 encuentra/vmip3s0)
+(NP enfrentamiento/ncms000 dialéctico/NMS)
+(NP las/da0fp0 tesis/ncfn000 de/sps00 profesor/ncms000)
+(NP la/da0fs0 posibilidad/ncfs000 de/sps00 conocer/vmn0000)
+(NP decisiones/ncfp000 vienen/vmip3p0)
+(NP montón/ncms000 de/sps00 datos/ncmp000)
+(NP sentido/ncms000 es/vsip3s0)
+(NP el/da0ms0 despacho/ncms000 del/spcms profesor/ncms000 Seldom/V)
+(NP el/da0ms0 director/ncms000 aprovecha/vmip3s0)
+(NP condiciones/ncfp000 ''/V)
+(NP la/da0fs0 batalla/ncfs000 de/sps00 Austerlitz/V)
+(NP éxito/ncms000 a/sps00 Martin/np0000p )/V)
+(NP el/da0ms0 fracaso/ncms000 del/spcms proyecto/ncms000)
+(NP la/da0fs0 casa/ncfs000 donde/pr000000 se/p0300000 aloja/NFS)
+(NP La/da0fs0 amistad/ncfs000 entre/sps00 Martin/np0000p)
+(NP el/da0ms0 profesor/ncms000 se/p0300000 hará/vmif3s0)
+(NP muertes/ncfp000 ``/V imperceptibles/V ''/V)
+(NP El/da0ms0 profesor/ncms000 Seldom/V </V /h5/V >/V Hurt/V)
+(NP actuación/ncfs000 me/pp1cs000 recuerda/vmip3s0)
+(NP
+  libro/ncms000
+  de/sps00
+  Richard/V
+  Matheson/V
+  (/V
+  The/V
+  last/V
+  man/ncms000
+  on/V
+  earth/V
+  is/V
+  not/V
+  alone/V
+  )/V)
+(NP la/da0fs0 hora/ncfs000 de/sps00 cargar/V)
+(NP la/da0fs0 pena/ncfs000 destacar/vmn0000)
+(NP hombre/ncms000 que/pr0cn000 ha/vaip3s0 dedicado/vmp00sm)
+(NP la/da0fs0 duda/ncfs000 acerca/vmip3s0)
+(NP director/ncms000 reconoce/vmip3s0)
+(NP la/da0fs0 película/ncfs000 se/p0300000 desarrolla/vmip3s0)
+(NP el/da0ms0 rostro/ncms000 del/spcms actor/ncms000)
+(NP lucha/ncfs000 por/sps00 alcanzar/vmn0000)
+(NP capacidad/ncfs000 para/sps00 llegar/vmn0000)
+(NP actor/ncms000 habría/vaic3s0 podido/vmp00sm sacar/vmn0000)
+(NP
+  la/da0fs0
+  forma/ncfs000
+  en/sps00
+  que/pr0cn000
+  Julie/V
+  Cox/V
+  representa/vmip3s0)
+(NP refugio/ncms000 es/vsip3s0)
+(NP historia/ncfs000 requeriría/NFS haberle/V dedicado/vmp00sm)
+(NP la/da0fs0 vida/ncfs000 le/pp3csd00 ha/vaip3s0 negado/vmp00sm)
+(NP el/da0ms0 sentimiento/ncms000 de/sps00 culpabilidad/V)
+(NP tarea/ncfs000 que/pr0cn000 le/pp3csd00 ha/vaip3s0 tocado/vmp00sm)
+(NP las/da0fp0 novelas/ncfp000 de/sps00 misterio/ncms000)
+(NP duda/ncfs000 (/V)
+(NP altura/ncfs000 machistas/NFP)
+(NP actuación/ncfs000 es/vsip3s0 descubrir/vmn0000)
+(NP orígenes/ncmp000 anglófonos/ncmp000)
+(NP apellido/ncms000 es/vsip3s0 Ceballos/NMP)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP los/da0mp0 protagonistas/nccp000 (/V)
+(NP personaje/ncms000 le/pp3csd00 falta/ncfs000)
+(NP
+  La/da0fs0
+  señora/ncfs000
+  Eagleton/V
+  Interpretada/NFS
+  estupendamente/V)
+(NP profesor/ncms000 Seldom/V)
+(NP test/ncms000 a/sps00 niños/ncmp000)
+(NP
+  soluciones/ncfp000
+  que/pr0cn000
+  en/sps00
+  principio/ncms000
+  parecen/vmip3p0
+  erróneas/NFP)
+(NP test/ncms000 en/sps00 pacientes/nccp000 lobotomizados/NMP)
+(NP serie/ncfs000 lógica/ncfs000)
+(NP la/da0fs0 complejidad/ncfs000 del/spcms criterio/ncms000)
+(NP enfermedad/ncfs000 ósea/NFS degenerativa/NFS)
+(NP El/da0ms0 compañero/ncms000 de/sps00 despacho/ncms000)
+(NP
+  la/da0fs0
+  solución/ncfs000
+  que/pr0cn000
+  había/vaii3s0
+  encontrado/vmp00sm)
+(NP niño/ncms000 que/pr0cn000 padece/vmip3s0)
+(NP enfermedad/ncfs000 pulmonar/V incurable/V)
+(NP forma/ncfs000 de/sps00 salvar/vmn0000)
+(NP la/da0fs0 lógica/ncfs000 matemática/NFS)
+(NP las/da0fp0 series/ncfp000 lógicas/NFP)
+(NP la/da0fs0 posibilidad/ncfs000 de/sps00 llegar/vmn0000)
+(NP la/da0fs0 duda/ncfs000 acerca/vmip3s0)
+(NP
+  La/da0fs0
+  investigación/ncfs000
+  científico-filosófica/NFS
+  permite/vmip3s0
+  ir/vmn0000
+  buscando/vmg0000)
+(NP daño/ncms000 a/sps00 nadie/pi0cs000 son/vsip3p0)
+(NP
+  los/da0mp0
+  errores/ncmp000
+  sí/pp3cno00
+  tienen/vmip3p0
+  consecuencias/ncfp000)
+(NP
+  la/da0fs0
+  duda/ncfs000
+  de/sps00
+  hasta/sps00
+  qué/pt0cs000
+  punto/ncms000
+  podríamos/vmic1p0
+  haber/van0000
+  evitado/vmp00sm)
+(NP la/da0fs0 razón/ncfs000 que/pr0cn000 me/pp1cs000 llevó/vmis3s0)
+(NP poder/ncms000 contemplar/vmn0000)
+(NP el/da0ms0 nombre/ncms000 )/V)
+(NP graduación/ncfs000 )/V)
+(NP
+  la/da0fs0
+  realidad/ncfs000
+  que/pr0cn000
+  me/pp1cs000
+  provocó/vmis3s0)
+(NP sensación/ncfs000 extraña/vmip3s0)
+(NP la/da0fs0 zona/ncfs000 que/pr0cn000 rodea/vmip3s0 St/V)
+(NP zona/ncfs000 se/p0300000 encuentra/vmip3s0)
+(NP la/da0fs0 casa/ncfs000 Egleton/V)
+(NP el/da0ms0 profesor/ncms000 Seldon/V)
+(NP idea/ncfs000 de/sps00 volar/vmn0000)
+(NP película/ncfs000 sobre/sps00 lógica/ncfs000 matemática/NFS)
+(NP citas/ncfp000 filosóficas/NFP están/vmip3p0)
+(NP escena/ncfs000 )/V)
+(NP
+  las/da0fp0
+  opiniones/ncfp000
+  que/pr0cn000
+  he/vaip1s0
+  leído/vmp00sm)
+(NP la/da0fs0 película/ncfs000 confiesan/V)
+(NP el/da0ms0 consejo/ncms000 que/pr0cn000 Martin/np0000p da/vmip3s0)
+(NP amargura/ncfs000 ésta/pd0fs000 pregunta/ncfs000)
+(NP chico/ncms000 que/pr0cn000 cual/pr0cs000 es/vsip3s0)
+(NP secreto/ncms000 para/sps00 ser/vsn0000)
+(NP escena/ncfs000 de/sps00 Beth/V tocando/vmg0000)
+(NP las/da0fp0 escenas/ncfp000 de/sps00 sexo/ncms000)
+(NP exigencia/ncfs000 del/spcms guión/V ''/V)
+(NP la/da0fs0 verdad/ncfs000 sea/vssp3s0)
+(NP la/da0fs0 verdad/ncfs000 sí/pp3cno00 existe/vmip3s0)
+(NP La/da0fs0 escena/ncfs000 de/sps00 guerra/ncfs000)
+(NP la/da0fs0 película/ncfs000 se/p0300000 rodó/V)
+(NP la/da0fs0 sucesión/ncfs000 del/spcms idiota/NFS aparece/vmip3s0)
+(NP el/da0ms0 papel/ncms000 de/sps00 Seldom/V)
+(NP los/da0mp0 nombres/ncmp000 de/sps00 Michael/V Caine/V)
+(NP dudas/ncfp000 sobre/sps00 Frodo/NMS)
+(NP la/da0fs0 película/ncfs000 se/p0300000 cambia/vmip3s0)
+(NP el/da0ms0 nombre/ncms000 del/spcms matemático/NMS Bormat/V)
+(NP las/da0fp0 fechas/ncfp000 del/spcms rodaje/ncms000)
+(NP
+  la/da0fs0
+  disponibilidad/ncfs000
+  del/spcms
+  teatro/ncms000
+  Sheldonian/V)
+(NP el/da0ms0 director/ncms000 quería/vmii3s0 rodar/V)
+(NP el/da0ms0 director/ncms000 equivocado/vmp00sm)
+(NP película/ncfs000 ''/V cosa/ncfs000)
+(NP El/da0ms0 director/ncms000 acabó/vmis3s0)
+(NP la/da0fs0 experiencia/ncfs000 de/sps00 rodar/V)
+(NP la/da0fs0 película/ncfs000 están/vmip3p0)
+(NP Fuentes/ncfp000 http/V)
+(NP montón/ncms000 de/sps00 ganas/ncfp000)
+(NP película/ncfs000 desde/sps00 hace/vmip3s0 tiempo/ncms000)
+(NP el/da0ms0 tema/ncms000 que/pr0cn000 trata/vmip3s0 es/vsip3s0)
+(NP profesor/ncms000 del/spcms MIT/V)
+(NP alumnos/ncmp000 para/sps00 formar/vmn0000)
+(NP equipo/ncms000 de/sps00 jugadores/ncmp000)
+(NP medicina/ncfs000 en/sps00 Harvard/V)
+(NP formas/ncfp000 de/sps00 ser/vsn0000)
+(NP equipo/ncms000 de/sps00 blackjack/V)
+(NP experiencia/ncfs000 tiene/vmip3s0)
+(NP la/da0fs0 revista/ncfs000 Playboy/V)
+(NP manera/ncfs000 se/p0300000 interesó/vmis3s0)
+(NP la/da0fs0 gente/ncfs000 se/p0300000 compra/ncfs000)
+(NP película/ncfs000 hace/vmip3s0)
+(NP el/da0ms0 papel/ncms000 de/sps00 vigilante/V)
+(NP casinos/ncmp000 buscan/vmip3p0 contadores/V)
+(NP la/da0fs0 niña/ncfs000 que/pr0cn000 aparecía/vmii3s0)
+(NP El/da0ms0 hombre/ncms000 que/pr0cn000 susurraba/NFS)
+(NP los/da0mp0 caballos/ncmp000 junto/NMS)
+(NP chicas/ncfp000 del/spcms celuloide/V)
+(NP caso/ncms000 será/vsif3s0)
+(NP Los/da0mp0 casinos/ncmp000 hacen/vmip3p0)
+(NP banda/ncfs000 de/sps00 metal/ncms000)
+(NP cosas/ncfp000 se/p0300000 le/pp3csd00 hacen/vmip3p0)
+(NP miedo/ncms000 escénico/NMS)
+(NP la/da0fs0 película/ncfs000 Eurotrip/V)
+(NP la/da0fs0 mayoría/ncfs000 de/sps00 actores/ncmp000)
+(NP el/da0ms0 mundo/ncms000 del/spcms cine/ncms000)
+(NP juego/ncms000 surge/vmip3s0)
+(NP juego/ncms000 de/sps00 casino/ncms000)
+(NP Las/da0fp0 cartas/ncfp000 numéricas/NFP)
+(NP las/da0fp0 figuras/ncfp000 suman/vmip3p0)
+(NP la/da0fs0 hora/ncfs000 de/sps00 jugar/vmn0000)
+(NP estudiantes/nccp000 consiguieron/vmis3p0 hacerse/vmn0000)
+(NP cabo/ncms000 es/vsip3s0)
+(NP documentos/ncmp000 de/sps00 identidad/ncfs000)
+(NP la/da0fs0 frase/ncfs000 ``/V)
+(NP pollo/ncms000 para/sps00 cenar/V ''/V)
+(NP los/da0mp0 jugadores/ncmp000 sacan/V)
+(NP
+  el/da0ms0
+  libro/ncms000
+  Bringing/V
+  down/V
+  the/V
+  house/V
+  [/V
+  Ben/V
+  Mezrich/V
+  ]/V)
+(NP la/da0fs0 historia/ncfs000 de/sps00 personas/ncfp000)
+(NP el/da0ms0 resto/ncms000 de/sps00 alumnos/ncmp000)
+(NP repartidor/ncms000 de/sps00 cartas/ncfp000)
+(NP el/da0ms0 rodaje/ncms000 para/sps00 echar/vmn0000)
+(NP actores/ncmp000 que/pr0cn000 interpretan/V)
+(NP el/da0ms0 grupo/ncms000 de/sps00 jugadores/ncmp000)
+(NP idea/ncfs000 de/sps00 cómo/pt000000 jugar/vmn0000)
+(NP D/nc00000 Aprendieron/V)
+(NP el/da0ms0 tipo/ncms000 de/sps00 movimientos/ncmp000)
+(NP la/da0fs0 técnica/ncfs000 de/sps00 contar/vmn0000 cartas/ncfp000)
+(NP los/da0mp0 estudiantes/nccp000 que/pr0cn000 jugaban/vmii3p0)
+(NP silla/ncfs000 para/sps00 que/pr0cn000 apostase/V)
+(NP horas/ncfp000 del/spcms día/ncms000)
+(NP par/ncms000 de/sps00 mesas/ncfp000)
+(NP la/da0fs0 cantidad/ncfs000 de/sps00 gente/ncfs000)
+(NP juego/ncms000 de/sps00 cartas/ncfp000)
+(NP carrera/ncfs000 de/sps00 coches/ncmp000)
+(NP montón/ncms000 de/sps00 espectadores/ncmp000)
+(NP sentido/ncms000 se/p0300000 tuvieron/vmis3p0)
+(NP el/da0ms0 espectador/ncms000 pueda/vmsp3s0 seguir/vmn0000)
+(NP las/da0fp0 reglas/ncfp000 blackjack/V)
+(NP vez/ncfs000 al/spcms blackjack/V)
+(NP la/da0fs0 tranquilidad/ncfs000 de/sps00 Boston/np0000l)
+(NP
+  el/da0ms0
+  libro/ncms000
+  de/sps00
+  Beat/V
+  the/V
+  Dealer/V
+  (/V
+  1966/V
+  )/V)
+(NP la/da0fs0 técnica/ncfs000 del/spcms conteo/ncms000)
+(NP Los/da0mp0 estudiantes/nccp000 del/spcms MIT/V)
+(NP los/da0mp0 jefes/ncmp000 de/sps00 mesa/ncfs000)
+(NP mejoras/ncfp000 subieron/vmis3p0)
+(NP El/da0ms0 equipo/ncms000 estaba/vmii3s0 compuesto/vmp00sm)
+(NP cartas/ncfp000 les/pp3cpd00 llevaba/vmii3s0)
+(NP meses/ncmp000 de/sps00 aprendizaje/ncms000)
+(NP D/nc00000 Jeff/V era/vsii3s0)
+(NP Los/da0mp0 observadores/ncmp000 van/vmip3p0 jugando/vmg0000)
+(NP cantidades/ncfp000 de/sps00 dinero/ncms000)
+(NP mesa/ncfs000 se/p0300000 calienta/NFS)
+(NP gesto/ncms000 al/spcms jugador/ncms000)
+(NP palabra/ncfs000 clave/ncfs000)
+(NP los/da0mp0 observadores/ncmp000 subienen/V)
+(NP jugador/ncms000 tiene/vmip3s0)
+(NP los/da0mp0 casinos/ncmp000 localizaron/V)
+(NP fin/ncms000 de/sps00 semana/ncfs000 normalito/NMS)
+(NP El/da0ms0 problema/ncms000 era/vsii3s0)
+(NP el/da0ms0 dinero/ncms000 a/sps00 través/V)
+(NP controles/ncmp000 del/spcms aeropuerto/ncms000)
+(NP problema/ncms000 es/vsip3s0)
+(NP los/da0mp0 casinos/ncmp000 hacen/vmip3p0)
+(NP el/da0ms0 nivel/ncms000 de/sps00 oxígeno/ncms000)
+(NP chicas/ncfp000 guapas/ncfp000)
+(NP la/da0fs0 vida/ncfs000 de/sps00 Jeff/V)
+(NP empresa/ncfs000 de/sps00 deportes/ncmp000)
+(NP la/da0fs0 mayoría/ncfs000 de/sps00 casinos/ncmp000)
+(NP juegos/ncmp000 (/V)
+(NP
+  los/da0mp0
+  casinos/ncmp000
+  están/vmip3p0
+  instalando/NMS
+  máquinas/ncfp000)
+(NP superficie/ncfs000 es/vsip3s0)
+(NP actores/ncmp000 veteranos/ncmp000)
+(NP El/da0ms0 resto/ncms000 de/sps00 actores/ncmp000)
+(NP falta/ncfs000 experiencia/ncfs000)
+(NP El/da0ms0 tema/ncms000 elegido/vmp00sm)
+(NP
+  cosa/ncfs000
+  que/pr0cn000
+  yo/pp1csn00
+  habría/vaic3s0
+  cambiado/vmp00sm
+  es/vsip3s0)
+(NP
+  el/da0ms0
+  libro/ncms000
+  sí/pp3cno00
+  que/pr0cn000
+  se/p0300000
+  respeta/vmip3s0)
+(NP
+  película/ncfs000
+  que/pr0cn000
+  tenía/vmii3s0
+  opiniones/ncfp000
+  demasiadas/NFP
+  críticas/ncfp000)
+(NP puntuación/ncfs000 es/vsip3s0)
+(NP persona/ncfs000 para/sps00 puntuar/vmn0000)
+(NP crítica/ncfs000 es/vsip3s0)
+(NP cantidad/ncfs000 de/sps00 gente/ncfs000)
+(NP
+  el/da0ms0
+  escenario/ncms000
+  que/pr0cn000
+  es/vsip3s0
+  seguido/vmp00sm)
+(NP serie/ncfs000 de/sps00 muertes/ncfp000)
+(NP problemas/ncmp000 para/sps00 hablar/vmn0000)
+(NP puntos/ncmp000 de/sps00 New/V York/V)
+(NP manera/ncfs000 que/pr0cn000 invalida/NFS)
+(NP la/da0fs0 aptitud/ncfs000 de/sps00 preservación/ncfs000)
+(NP caos/ncmn000 se/p0300000 encuentra/vmip3s0)
+(NP profesor/ncms000 de/sps00 ciencias/ncfp000 junto/NMS)
+(NP hija/ncfs000 que/pr0cn000 optan/V)
+(NP ola/ncfs000 maligna/NFS)
+(NP Estados/ncmp000 Unidos/NMP)
+(NP la/da0fs0 alternativa/ncfs000 sea/vssp3s0 ocultarse/V)
+(NP película/ncfs000 que/pr0cn000 veo/vmip1s0)
+(NP sentido/ncms000 ''/V)
+(NP El/da0ms0 bosque/ncms000 ''/V)
+(NP El/da0ms0 incidente/nccs000 ''/V)
+(NP los/da0mp0 tiempos/ncmp000 ''/V)
+(NP La/da0fs0 dama/ncfs000 del/spcms agua/ncfs000 ''/V)
+(NP críticas/ncfp000 que/pr0cn000 me/pp1cs000 alejaba/NFS)
+(NP optimismo/ncms000 de/sps00 disfrutar/vmn0000)
+(NP los/da0mp0 sitios/ncmp000 en/sps00 internet/nccn000)
+(NP críticos/ncmp000 de/sps00 espectáculos/NMP manifestaban/V)
+(NP energía/ncfs000 negativa/ncfs000)
+(NP sonrisa/ncfs000 se/p0300000 dibuja/NFS)
+(NP instantes/ncmp000 de/sps00 incertidumbre/ncfs000)
+(NP error/ncms000 aseverar/V)
+(NP las/da0fp0 escenas/ncfp000 brutales/V son/vsip3p0)
+(NP película/ncfs000 de/sps00 ése/V género/NMS)
+(NP método/ncms000 de/sps00 expresar/vmn0000 cine/ncms000)
+(NP el/da0ms0 relato/ncms000 es/vsip3s0)
+(NP los/da0mp0 protagonistas/nccp000 sí/pp3cno00 son/vsip3p0)
+(NP acierto/ncms000 de/sps00 Shyamalan/V)
+(NP momento/ncms000 de/sps00 sumergir/V)
+(NP historia/ncfs000 que/pr0cn000 propala/NFS stress/V)
+(NP suceso/ncms000 calamitoso/NMS)
+(NP la/da0fs0 escena/ncfs000 del/spcms invernadero/NMS)
+(NP la/da0fs0 manera/ncfs000 de/sps00 vida/ncfs000)
+(NP puesta/ncfs000 en/sps00 escena/ncfs000)
+(NP la/da0fs0 música/ncfs000 acompaña/NFS)
+(NP páginas/ncfp000 del/spcms libro/ncms000)
+(NP curiosidad/ncfs000 por/sps00 conocer/vmn0000)
+(NP la/da0fs0 historia/ncfs000 de/sps00 Hannibal/V Lecter/V)
+(NP parte/ncfs000 del/spcms libro/ncms000)
+(NP mención/ncfs000 a/sps00 Mischa/NFS)
+(NP páginas/ncfp000 que/pr0cn000 leí/vmis1s0)
+(NP orden/ncms000 cronológico/NMS)
+(NP la/da0fs0 vida/ncfs000 del/spcms doctor/ncms000 Lecter/V)
+(NP la/da0fs0 ficha/ncfs000 técnica/ncfs000)
+(NP
+  curiosidad/ncfs000
+  ^^/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V
+  --/V)
+(NP La/da0fs0 película/ncfs000 es/vsip3s0 adaptación/ncfs000)
+(NP la/da0fs0 novela/ncfs000 homónima/NFS)
+(NP creador/ncms000 del/spcms célebre/V personaje/ncms000)
+(NP
+  los/da0mp0
+  orígenes/ncmp000
+  para/sps00
+  dar/vmn0000
+  respuesta/ncfs000)
+(NP El/da0ms0 director/ncms000 es/vsip3s0)
+(NP adaptación/ncfs000 de/sps00 'La/NFS)
+(NP metros/ncmp000 bajo/sps00 tierra/ncfs000)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0 Gaspard/V Ulliel/V)
+(NP el/da0ms0 estreno/ncms000 de/sps00 'Paris/V)
+(NP películas/ncfp000 era/vsii3s0)
+(NP interpretación/ncfs000 os/pp2cp000 hablaré/V)
+(NP novela/ncfs000 de/sps00 Harris/V)
+(NP parte/ncfs000 que/pr0cn000 Gaspard/V Ulliel/V preparó/vmis3s0)
+(NP personaje/ncms000 trabajando/vmg0000)
+(NP temporada/ncfs000 junto/NMS)
+(NP fin/ncms000 nos/pp1cp000 enteraremos/NMP)
+(NP el/da0ms0 gusto/ncms000 del/spcms doctor/ncms000 Lecter/V)
+(NP escenas/ncfp000 aparece/vmip3s0)
+(NP la/da0fs0 familia/ncfs000 Lecter/V)
+(NP especie/ncfs000 de/sps00 casita/ncfs000)
+(NP campo/ncms000 que/pr0cn000 ellos/pp3mp000 llaman/vmip3p0)
+(NP la/da0fs0 creencia/ncfs000 de/sps00 que/pr0cn000 estarán/vmif3p0)
+(NP los/da0mp0 combates/ncmp000 (/V estamos/vmip1p0)
+(NP hermanita/ncfs000 Mischa/NFS)
+(NP los/da0mp0 niños/ncmp000 quedarán/vmif3p0 huerfanos/NMP)
+(NP serie/ncfs000 de/sps00 personajes/ncmp000)
+(NP desheredados/ncmp000 tendrán/vmif3p0)
+(NP los/da0mp0 rusos/ncmp000 atacan/vmip3p0)
+(NP huida/ncfs000 irán/vmif3p0)
+(NP el/da0ms0 hambre/ncfs000 aprietan/V ..../V)
+(NP Los/da0mp0 hermanos/ncmp000 son/vsip3p0)
+(NP la/da0fs0 intención/ncfs000 de/sps00 comerse/V)
+(NP cocina/ncfs000 )/V)
+(NP segundos/ncmp000 para/sps00 recoger/vmn0000)
+(NP resultado/ncms000 quedará/vmif3s0 aplastado/NMS)
+(NP la/da0fs0 familia/ncfs000 Lecter/V es/vsip3s0)
+(NP el/da0ms0 trato/ncms000 que/pr0cn000 recibe/vmip3s0)
+(NP cartas/ncfp000 que/pr0cn000 había/vaii3s0 guardado/vmp00sm)
+(NP las/da0fp0 afueras/ncfp000 de/sps00 París/np0000l)
+(NP vez/ncfs000 en/sps00 París/np0000l)
+(NP mujer/ncfs000 de/sps00 origen/ncms000)
+(NP dama/ncfs000 le/pp3csd00 acogerá/V)
+(NP la/da0fs0 facultad/ncfs000 de/sps00 Medicina/NFS)
+(NP los/da0mp0 estudios/ncmp000 que/pr0cn000 se/p0300000 efectúan/V)
+(NP circunstancia/ncfs000 dotará/V)
+(NP conocimientos/ncmp000 anatómicos/NMP)
+(NP futuro/ncms000 se/p0300000 propone/vmip3s0)
+(NP tía/ncfs000 le/pp3csd00 va/vmip3s0 instruyendo/NMS)
+(NP ojos/ncmp000 de/sps00 Hannibal/V)
+(NP acto/ncms000 de/sps00 justicia/ncfs000)
+(NP la/da0fs0 policía/nccs000 le/pp3csd00 interrogará/V)
+(NP atenciones/ncfp000 intentan/vmip3p0 mitigar/V)
+(NP los/da0mp0 sufrimientos/ncmp000 mentales/V)
+(NP vez/ncfs000 son/vsip3p0)
+(NP los/da0mp0 sueños/ncmp000 nocturnos/NMP)
+(NP hermana/ncfs000 se/p0300000 le/pp3csd00 aparece/vmip3s0)
+(NP inyección/ncfs000 que/pr0cn000 se/p0300000 aplica/vmip3s0)
+(NP sustancia/ncfs000 tipo/ncms000 ``/V suero/NMS)
+(NP la/da0fs0 risa/ncfs000 ''/V logra/vmip3s0 recordar/vmn0000)
+(NP infancia/ncfs000 ...../V)
+(NP oportunidad/ncfs000 al/spcms espectador/ncms000)
+(NP
+  el/da0ms0
+  niño/ncms000
+  Hannibal/V
+  fue/vsis3s0
+  encontrado/vmp00sm
+  desfallecido/NMS)
+(NP la/da0fs0 línea/ncfs000 del/spcms bosque/ncms000)
+(NP sueño/ncms000 inducido/vmp00sm)
+(NP vez/ncfs000 le/pp3csd00 arrebataron/vmis3p0)
+(NP dolor/ncms000 debe/vmip3s0 ser/vsn0000)
+(NP modo/ncms000 castigado/vmp00sm ..../V)
+(NP lugar/ncms000 de/sps00 origen/ncms000 irá/vmif3s0)
+(NP personaje/ncms000 ha/vaip3s0 visto/vmp00sm)
+(NP los/da0mp0 visados/ncmp000 de/sps00 entrada/ncfs000)
+(NP sentencia/ncfs000 de/sps00 muerte/ncfs000)
+(NP las/da0fp0 gafas/ncfp000 que/pr0cn000 llevaba/vmii3s0)
+(NP la/da0fs0 bolsa/ncfs000 que/pr0cn000 contenía/vmii3s0)
+(NP punto/ncms000 de/sps00 caer/vmn0000)
+(NP las/da0fp0 escenas/ncfp000 que/pr0cn000 vienen/vmip3p0)
+(NP duda/ncfs000 impactante/V)
+(NP
+  la/da0fs0
+  información/ncfs000
+  de/sps00
+  dónde/pt000000
+  está/vmip3s0)
+(NP los/da0mp0 hombres/ncmp000 que/pr0cn000 formaban/vmii3p0)
+(NP la/da0fs0 vida/ncfs000 del/spcms sujeto/ncms000)
+(NP escenas/ncfp000 diria/NFS)
+(NP las/da0fp0 escenas/ncfp000 truculentas/NFP están/vmip3p0)
+(NP prueba/ncfs000 de/sps00 bombas/ncfp000)
+(NP la/da0fs0 película/ncfs000 tratará/vmif3s0)
+(NP hombres/ncmp000 al/spcms parecer/vmn0000)
+(NP hombre/ncms000 respetable/V)
+(NP familia/ncfs000 ..../V)
+(NP vida/ncfs000 detestable/V ..../V)
+(NP Os/ncms000 contaré/V)
+(NP pesar/ncms000 de/sps00 que/pr0cn000 Gaspar/V Ulliel/V)
+(NP papeles/ncmp000 secundarios/NMP)
+(NP punto/ncms000 de/sps00 vista/ncfs000)
+(NP la/da0fs0 figura/ncfs000 del/spcms doctor/ncms000 Lecter/V)
+(NP mente/ncfs000 torturada/NFS)
+(NP la/da0fs0 altura/ncfs000 del/spcms mito/ncms000 Hopkins/V)
+(NP la/da0fs0 evolución/ncfs000 del/spcms carácter/ncms000)
+(NP personaje/ncms000 que/pr0cn000 parece/vmip3s0 actuar/vmn0000)
+(NP deseos/ncmp000 de/sps00 venganza/ncfs000)
+(NP la/da0fs0 cinta/ncfs000 apreciamos/NMP)
+(NP necesidad/ncfs000 de/sps00 matar/vmn0000)
+(NP la/da0fs0 cinta/ncfs000 intuimos/NMP)
+(NP el/da0ms0 contraste/ncms000 entre/sps00 momentos/ncmp000)
+(NP vida/ncfs000 del/spcms doctor/ncms000)
+(NP
+  El/da0ms0
+  personaje/ncms000
+  de/sps00
+  Lady/V
+  Murasaki/V
+  arrastra/vmip3s0)
+(NP dolor/ncms000 (/V perdió/vmis3s0)
+(NP familia/ncfs000 en/sps00 Hiroshima/NFS )/V)
+(NP los/da0mp0 medios/ncmp000 separar/vmn0000)
+(NP vez/ncfs000 le/pp3csd00 resultará/vmif3s0)
+(NP pelo/ncms000 de/sps00 tonta/ncfs000)
+(NP teléfono/ncms000 indicará/V)
+(NP rasgos/ncmp000 finamente/V cincelados/NMP)
+(NP palabra/ncfs000 ...../V)
+(NP el/da0ms0 mundo/ncms000 de/sps00 refinamiento/NMS)
+(NP motivos/ncmp000 para/sps00 hacerlo/vmn0000 ..../V)
+(NP años/ncmp000 en/sps00 Europa/np0000l)
+(NP el/da0ms0 tiempo/ncms000 lleva/vmip3s0)
+(NP El/da0ms0 nivel/ncms000 de/sps00 ``/V casquería/NFS ''/V)
+(NP el/da0ms0 peso/ncms000 del/spcms terror/ncms000)
+(NP expresión/ncfs000 facial/V)
+(NP planes/ncmp000 estén/vmsp3p0)
+(NP punto/ncms000 de/sps00 irse/vmn0000)
+(NP huellas/ncfp000 ..../V Creo/vmip1s0)
+(NP doctor/ncms000 Lecter/V)
+(NP vez/ncfs000 me/pp1cs000 he/vaip1s0 extendido/vmp00sm)
+(NP opinión/ncfs000 que/pr0cn000 escribí/V)
+(NP la/da0fs0 película/ncfs000 pueda/vmsp3s0 saber/vmn0000)
+(NP continuación/ncfs000 os/pp2cp000 daré/vmif1s0)
+(NP las/da0fp0 páginas/ncfp000 webs/V)
+(NP ganador/ncms000 se/p0300000 hace/vmip3s0)
+(NP cámara/ncfs000 de/sps00 vídeo/ncms000)
+(NP la/da0fs0 playa/ncfs000 vendrá/vmif3s0 precedida/NFS)
+(NP personaje/ncms000 aterriza/NFS)
+(NP el/da0ms0 viaje/ncms000 que/pr0cn000 le/pp3csd00 acaba/vmip3s0)
+(NP la/da0fs0 estación/ncfs000 de/sps00 ferrocarriles/V Gâre/V)
+(NP obsesión/ncfs000 por/sps00 grabarse/V entrando/NMS)
+(NP
+  el/da0ms0
+  hombre/ncms000
+  que/pr0cn000
+  le/pp3csd00
+  estaba/vmii3s0
+  grabando/NMS
+  pierde/vmip3s0)
+(NP hijo/ncms000 se/p0300000 queda/vmip3s0)
+(NP poder/ncms000 salir/vmn0000)
+(NP la/da0fs0 ventana/ncfs000 se/p0300000 da/vmip3s0 cuenta/vmip3s0)
+(NP el/da0ms0 tren/ncms000 cierra/vmip3s0)
+(NP camino/ncms000 que/pr0cn000 Mr/V Bean/V)
+(NP amigo/ncms000 deben/vmip3p0 emprender/vmn0000)
+(NP el/da0ms0 sur/ncms000 a/sps00 través/V)
+(NP centro/ncms000 de/sps00 Francia/np0000l)
+(NP partido/ncms000 de/sps00 risa/ncfs000)
+(NP amigos/ncmp000 les/pp3cpd00 gustó/V)
+(NP
+  la/da0fs0
+  película/ncfs000
+  que/pr0cn000
+  son/vsip3p0
+  buenísimo/NMS)
+(NP la/da0fs0 música/ncfs000 que/pr0cn000 sale/vmip3s0)
+(NP plan/ncms000 de/sps00 destriparos/NMP)
+(NP película/ncfs000 se/p0300000 ha/vaip3s0 dicho/vmp00sm)
+(NP ejemplo/ncms000 con/sps00 007/V)
+(NP la/da0fs0 esencia/ncfs000 del/spcms personaje/ncms000)
+(NP duda/ncfs000 es/vsip3s0)
+(NP veces/ncfp000 Johnny/V English/V)
+(NP la/da0fs0 serie/ncfs000 Mr/V)
+(NP duda/ncfs000 es/vsip3s0)
+(NP película/ncfs000 que/pr0cn000 os/pp2cp000 recomiendo/NMS)
+(NP las/da0fp0 universidades/ncfp000 de/sps00 Oxford/np0000l)
+(NP carrera/ncfs000 de/sps00 comediante/V escribiendo/vmg0000)
+(NP programas/ncmp000 de/sps00 TV/V)
+(NP la/da0fs0 serie/ncfs000 Mr/V)
+(NP el/da0ms0 título/ncms000 Bean/V)
+(NP la/da0fs0 serie/ncfs000 Serie/V)
+(NP humor/ncms000 de/sps00 Reino/NMS Unido/NMS protagonizada/NFS)
+(NP episodio/ncms000 fue/vsis3s0 emitido/vmp00sm)
+(NP la/da0fs0 serie/ncfs000 siguió/vmis3s0)
+(NP
+  la/da0fs0
+  serie/ncfs000
+  fue/vsis3s0
+  captando/NMS
+  seguidores/ncmp000)
+(NP cuota/ncfs000 de/sps00 18,74/V millones/ncmp000)
+(NP
+  el/da0ms0
+  episodio/ncms000
+  The/V
+  Trouble/V
+  with/V
+  Mr/V
+  Bean/V
+  (/V)
+(NP premios/ncmp000 de/sps00 carácter/ncms000)
+(NP
+  El/da0ms0
+  programa/ncms000
+  ha/vaip3s0
+  sido/vsp00sm
+  emitido/vmp00sm)
+(NP serie/ncfs000 de/sps00 dibujos/ncmp000)
+(NP cuerpo/ncms000 de/sps00 adulto/NMS)
+(NP piso/ncms000 del/spcms norte/ncms000)
+(NP amigo/ncms000 de/sps00 peluche/V Teddy/V)
+(NP misterio/ncms000 de/sps00 Mr/V)
+(NP el/da0ms0 fin/ncms000 del/spcms mundo/ncms000 ''/V)
+(NP la/da0fs0 saga/ncfs000 de/sps00 ``/V Piratas/NFP)
+(NP parte/ncfs000 dijeron/vmis3p0)
+(NP protagonista/nccs000 Jhonny/V Deep/V)
+(NP carrera/ncfs000 se/p0300000 veia/NFS mas/NFP)
+(NP director/ncms000 Tim/V Burton/V)
+(NP Los/da0mp0 actores/ncmp000 primcipales/V son/vsip3p0 (/V)
+(NP vida/ncfs000 Johnny/V Depp/V)
+(NP la/da0fs0 hija/ncfs000 malcriada/NFS)
+(NP la/da0fs0 historia/ncfs000 se/p0300000 transforma/NFS)
+(NP mujer/ncfs000 que/pr0cn000 se/p0300000 opone/V)
+(NP culpa/ncfs000 por/sps00 haber/van0000 entregado/vmp00sm)
+(NP amor/ncms000 por/sps00 Elizabeth/V)
+(NP la/da0fs0 chica/ncfs000 que/pr0cn000 ama/ncfs000)
+(NP el/da0ms0 código/ncms000 pirata/nccs000)
+(NP el/da0ms0 comienzo/ncms000 para/sps00 perseguir/V)
+(NP pirata/nccs000 de/sps00 Singapur/np0000l)
+(NP
+  el/da0ms0
+  personaje/ncms000
+  del/spcms
+  Capitán/V
+  Barbosa/NFS
+  (/V
+  Geoffrey/V
+  Rush/V
+  )/V)
+(NP la/da0fs0 fuerza/ncfs000 a/sps00 hacer/vmn0000 cosas/ncfp000)
+(NP vez/ncfs000 que/pr0cn000 está/vmip3s0)
+(NP la/da0fs0 traición/ncfs000 hacen/vmip3p0 naufragar/vmn0000)
+(NP sufrimiento/ncms000 es/vsip3s0)
+(NP cambio/ncms000 progresivo/NMS)
+(NP recuerdos/ncmp000 fugaces/V)
+(NP ideas/ncfp000 vagas/NFP acerca/vmip3s0)
+(NP miembros/ncmp000 del/spcms a/sps00 tripulación/ncfs000)
+(NP parte/ncfs000 del/spcms barco/ncms000)
+(NP sentimientos/ncmp000 hacia/sps00 Elizabeth/V)
+(NP cabeza/ncfs000 hueca/NFS)
+(NP
+  el/da0ms0
+  jefe/ncms000
+  del/spcms
+  villano/NMS
+  Davy/V
+  Jones/np0000p)
+(NP pesar/ncms000 de/sps00 ser/vsn0000)
+(NP el/da0ms0 fondo/ncms000 son/vsip3p0 piratas/nccp000)
+(NP personas/ncfp000 por/sps00 relacionarlos/NMP)
+(NP el/da0ms0 mundo/ncms000 se/p0300000 van/vmip3p0)
+(NP la/da0fs0 vez/ncfs000 Elizabeth/V)
+(NP pirata/nccs000 de/sps00 alla/NFS)
+(NP cartas/ncfp000 de/sps00 navegacion/V)
+(NP fin/ncms000 del/spcms mundo/ncms000)
+(NP trato/ncms000 para/sps00 que/pr0cn000 les/pp3cpd00 ayuden/V)
+(NP lugar/ncms000 Jack/V sufre/vmip3s0 alucinaciones/V)
+(NP barco/ncms000 son/vsip3p0)
+(NP piedras/ncfp000 que/pr0cn000 eran/vsii3p0 cangrejos/NMP)
+(NP piratas/nccp000 que/pr0cn000 cayeron/vmis3p0)
+(NP el/da0ms0 ingenio/ncms000 de/sps00 Jack/V descifran/V)
+(NP las/da0fp0 cartas/ncfp000 de/sps00 navegacion/V)
+(NP
+  los/da0mp0
+  mares/ncmp000
+  son/vsip3p0
+  controlados/NMP
+  pos/NMP
+  davy/V
+  Jones/np0000p)
+(NP los/da0mp0 dientes/ncmp000 de/sps00 lagarto/NMS)
+(NP el/da0ms0 amor/ncms000 de/sps00 Davy/V Jones/np0000p)
+(NP disputa/ncfs000 deciden/vmip3p0 liberarla/NFS despues/V)
+(NP capitana/ncfs000 del/spcms navio/NMS)
+(NP pirata/nccs000 de/sps00 Singapur/np0000l)
+(NP gracias/ncfp000 a/sps00 Jack/V Sparrow/V)
+(NP pirata/nccs000 se/p0300000 votaba/NFS)
+(NP los/da0mp0 piratas/nccp000 decidia/NFS)
+(NP guerra/ncfs000 con/sps00 Davy/V Jones/np0000p)
+(NP padre/ncms000 de/sps00 Jack/V)
+(NP gracias/ncfp000 a/sps00 que/pr0cn000 Jack/V)
+(NP años/ncmp000 ../V)
+(NP los/da0mp0 piratas/nccp000 se/p0300000 enfrentan/vmip3p0)
+(NP el/da0ms0 barco/ncms000 a/sps00 Jack/V Sparrow/V)
+(NP la/da0fs0 juventud/ncfs000 creyendo/vmg0000)
+(NP las/da0fp0 cartas/ncfp000 de/sps00 navegacion.Pero/NMS Jack/V)
+(NP las/da0fp0 cartas/ncfp000 donde/pr000000 salia/NFS)
+(NP los/da0mp0 personajes/ncmp000 son/vsip3p0 practicamente/V)
+(NP la/da0fs0 saga/ncfs000 de/sps00 Piratas/NFP)
+(NP los/da0mp0 niños/ncmp000 tambien/V)
+(NP entrega/ncfs000 de/sps00 Indiana/NFS Jones/np0000p salte/V)
+(NP fin/ncms000 de/sps00 semana/ncfs000)
+(NP datos/ncmp000 reflejan/vmip3p0)
+(NP fines/ncmp000 de/sps00 semana/ncfs000)
+(NP
+  aventura/ncfs000
+  de/sps00
+  Indiana/NFS
+  Jones/np0000p
+  (/V
+  Harrison/V
+  Ford/np0000o
+  )/V
+  empieza/vmip3s0)
+(NP
+  el/da0ms0
+  desierto/ncms000
+  del/spcms
+  suroeste/ncms000
+  Estados/ncmp000
+  Unidos/NMP)
+(NP amigo/ncms000 Mac/V (/V Ray/V Winstone/V )/V acaban/vmip3p0)
+(NP agentes/nccp000 soviéticos/NMP)
+(NP El/da0ms0 profesor/ncms000 Jones/np0000p regresa/vmip3s0)
+(NP las/da0fp0 cosas/ncfp000 van/vmip3p0)
+(NP actuaciones/ncfp000 de/sps00 Indy/V)
+(NP el/da0ms0 gobierno/ncms000 presiona/vmip3s0)
+(NP punto/ncms000 de/sps00 irse/vmn0000)
+(NP ayuda/ncfs000 a/sps00 resolver/vmn0000)
+(NP ciudad/ncfs000 de/sps00 oro/ncms000)
+(NP los/da0mp0 agentes/nccp000 soviéticos/NMP)
+(NP las/da0fp0 manos/ncfp000 equivocadas/NFP)
+(NP amigo/ncms000 Indy/V)
+(NP motor/ncms000 de/sps00 aventurero/NMS)
+(NP horas/ncfp000 entretenidisimas/NFP)
+(NP personalidad/ncfs000 de/sps00 antaño/NMS)
+(NP
+  las/da0fp0
+  escenas/ncfp000
+  de/sps00
+  acción/ncfs000
+  siguen/vmip3p0
+  siendo/vsg0000)
+(NP hora/ncfs000 trepidante/V)
+(NP el/da0ms0 comienzo/ncms000 de/sps00 </V)
+(NP El/da0ms0 templo/ncms000 perdido/vmp00sm </V /b/V >/V)
+(NP la/da0fs0 realidad/ncfs000 hay/vaip3s0 cientificos/NMP)
+(NP horas/ncfp000 emocionantes/V)
+(NP motivo/ncms000 mas/NFP)
+(NP la/da0fs0 opinión/ncfs000 de/sps00 Wall-e/V)
+(NP la/da0fs0 pasta/ncfs000 (/V)
+(NP producción/ncfs000 de/sps00 Disney-Pixar/V)
+(NP padre/ncms000 me/pp1cs000 contó/vmis3s0)
+(NP años/ncmp000 me/pp1cs000 alquiló/V)
+(NP veces/ncfp000 por/sps00 día/ncms000 (/V supongo/vmip1s0)
+(NP
+  las/da0fp0
+  veces/ncfp000
+  que/pr0cn000
+  ``/V
+  moría/vmii3s0
+  ''/V
+  Balú/V)
+(NP película/ncfs000 (/V)
+(NP D/nc00000 Ficha/NFS técnica/ncfs000 Título/NMS)
+(NP batallón/ncms000 de/sps00 limpieza/ncfs000)
+(NP ciencia/ncfs000 ficción/ncfs000 +/V)
+(NP D/nc00000 Web/V)
+(NP Clasificación/ncfs000 por/sps00 edades/ncfp000)
+(NP el/da0ms0 año/ncms000 2100/V)
+(NP cuerpos/ncmp000 para/sps00 prensarla/NFS)
+(NP basura/ncfs000 )/V es/vsip3s0)
+(NP nave/ncfs000 Axiom/V)
+(NP imperio/ncms000 Buy/V)
+(NP tiempo/ncms000 ha/vaip3s0 desarrollado/vmp00sm)
+(NP ganas/ncfp000 de/sps00 encontrar/vmn0000)
+(NP amigo/ncms000 (/V jooooo/NMS)
+(NP chips/ncmp000 de/sps00 forma/ncfs000 instantánea/NFS)
+(NP planeta/ncms000 a/sps00 cumplir/vmn0000)
+(NP misión/ncfs000 que/pr0cn000 le/pp3csd00 llevará/vmif3s0)
+(NP vuelta/ncfs000 al/spcms espacio/ncms000)
+(NP la/da0fs0 historia/ncfs000 de/sps00 amor/ncms000 pasará/vmif3s0)
+(NP historia/ncfs000 épica/NFS)
+(NP las/da0fp0 papeletas/ncfp000 para/sps00 convertirse/vmn0000)
+(NP El/da0ms0 rey/ncms000 León/V)
+(NP película/ncfs000 Disney/V IMPRESCINDIBLE/V)
+(NP
+  el/da0ms0
+  protagonista/nccs000
+  de/sps00
+  ``/V
+  Cortocircuito/NMS
+  ''/V)
+(NP verdad/ncfs000 que/pr0cn000 guardan/vmip3p0)
+(NP cara/ncfs000 ''/V)
+(NP cambio/ncms000 Wall-e/V)
+(NP palabras/ncfp000 que/pr0cn000 pronuncia/NFS son/vsip3p0)
+(NP cine/ncms000 de/sps00 animación/ncfs000)
+(NP personalidad/ncfs000 de/sps00 Wall-e/V)
+(NP
+  objetos/ncmp000
+  que/pr0cn000
+  a/sps00
+  él/pp3ms000
+  le/pp3csd00
+  llaman/vmip3p0)
+(NP noche/ncfs000 regresa/vmip3s0)
+(NP casa/ncfs000 (/V)
+(NP morada/ncfs000 )/V)
+(NP vídeo/ncms000 de/sps00 ``/V Hello/NMS)
+(NP los/da0mp0 protagonistas/nccp000 se/p0300000 siente/vmip3s0)
+(NP
+  el/da0ms0
+  momento/ncms000
+  en/sps00
+  que/pr0cn000
+  entre/sps00
+  Eva/NFS)
+(NP necesidad/ncfs000 de/sps00 tener/vmn0000)
+(NP ocasiones/ncfp000 lleva/vmip3s0)
+(NP corazón/ncms000 de/sps00 hojalata/ncfs000)
+(NP el/da0ms0 helado/ncms000 metal/ncms000)
+(NP
+  sentimientos/ncmp000
+  que/pr0cn000
+  a/sps00
+  él/pp3ms000
+  le/pp3csd00
+  quitan/vmip3p0)
+(NP necesidad/ncfs000 de/sps00 cariño/ncms000)
+(NP hombros/ncmp000 hundidos/NMP ''/V)
+(NP
+  el/da0ms0
+  sentimiento/ncms000
+  que/pr0cn000
+  me/pp1cs000
+  hacía/vmii3s0
+  conmover/vmn0000)
+(NP
+  El/da0ms0
+  momento/ncms000
+  en/sps00
+  que/pr0cn000
+  se/p0300000
+  presenta/vmip3s0)
+(NP historia/ncfs000 de/sps00 amor/ncms000)
+(NP ejército/ncms000 de/sps00 robots/ncmp000 defectuosos/NMP)
+(NP pelea/ncfs000 por/sps00 salvar/vmn0000)
+(NP planeta/ncms000 desolado/NMS)
+(NP la/da0fs0 humanidad/ncfs000 abandona/vmip3s0)
+(NP lucha/ncfs000 por/sps00 preservar/vmn0000)
+(NP la/da0fs0 continuidad/ncfs000 del/spcms lugar/ncms000)
+(NP recursos/ncmp000 en/sps00 busca/vmip3s0)
+(NP gracias/ncfp000 a/sps00 Wall-e/V)
+(NP el/da0ms0 valor/ncms000 de/sps00 cuidar/vmn0000)
+(NP
+  el/da0ms0
+  planeta/ncms000
+  para/sps00
+  que/pr0cn000
+  nos/pp1cp000
+  dure/vmsp3s0)
+(NP el/da0ms0 cine/ncms000 que/pr0cn000 le/pp3csd00 decían/V)
+(NP el/da0ms0 planeta/ncms000 )/V)
+(NP guiño/ncms000 del/spcms amor/ncms000 adulto/NMS)
+(NP la/da0fs0 lucha/ncfs000 Veremos/vmif1p0)
+(NP amigos/ncmp000 de/sps00 Wall-e/V)
+(NP nostalgia/ncfs000 de/sps00 infancia/ncfs000)
+(NP película/ncfs000 (/V)
+(NP necesidad/ncfs000 deciros/NMP)
+(NP la/da0fs0 oportunidad/ncfs000 de/sps00 ver/vmn0000)
+(NP Os/ncms000 dejo/vmip1s0)
+(NP ganas/ncfp000 impresionantes/V)
+(NP película/ncfs000 de/sps00 Batman/V)
+(NP mente/ncfs000 coñazo/NMS )/V panorama/ncms000 superheroico/NMS)
+(NP crítica/ncfs000 de/sps00 Hancock/V)
+(NP tono/ncms000 cuasirealista/NFS)
+(NP semana/ncfs000 olvidarme/V)
+(NP odisea/ncfs000 homérica/NFS)
+(NP informaciones/ncfp000 sobre/sps00 cines/V)
+(NP películas/ncfp000 en/sps00 V.O.S/V)
+(NP la/da0fs0 calle/ncfs000 Girona/NFS)
+(NP páginas/ncfp000 )/V)
+(NP puta/ncfs000 vez/ncfs000)
+(NP La/da0fs0 tarea/ncfs000 de/sps00 Bruce/V Wayne/V)
+(NP el/da0ms0 auge/ncms000 del/spcms fiscal/nccs000)
+(NP la/da0fs0 lucha/ncfs000 anticriminal/V)
+(NP contrata/ncfs000 al/spcms Joker/V)
+(NP la/da0fs0 consecución/ncfs000 del/spcms caos/ncmn000)
+(NP La/da0fs0 acción/ncfs000 comienza/vmip3s0)
+(NP sensación/ncfs000 de/sps00 clímax/ncmn000)
+(NP el/da0ms0 malestar/ncms000 que/pr0cn000 provocaba/vmii3s0)
+(NP modo/ncms000 anulados/NMP)
+(NP película/ncfs000 superheroica/NFS)
+(NP adjetivo/ncms000 )/V actualidad/ncfs000)
+(NP personaje/ncms000 es/vsip3s0 intocable/V)
+(NP atractivo/ncms000 que/pr0cn000 puede/vmip3s0 ser/vsn0000)
+(NP la/da0fs0 puesta/ncfs000 en/sps00 escena/ncfs000)
+(NP cosa/ncfs000 )/V)
+(NP el/da0ms0 papel/ncms000 de/sps00 Nicholson/np0000p)
+(NP
+  pesar/ncms000
+  de/sps00
+  que/pr0cn000
+  sí/pp3cno00
+  se/p0300000
+  trataba/vmii3s0)
+(NP cualidades/ncfp000 de/sps00 aquél/V)
+(NP la/da0fs0 cabeza/ncfs000 al/spcms ver/vmn0000)
+(NP
+  el/da0ms0
+  papel/ncms000
+  de/sps00
+  Nicholson/np0000p
+  es/vsip3s0
+  ``/V
+  hijodeputa/NFS
+  ''/V
+  (/V
+  equivalente/ncms000
+  psíquicoautomático/NMS)
+(NP Los/da0mp0 hermanos/ncmp000 Nolan/V)
+(NP el/da0ms0 momento/ncms000 ``/V Voy/vmip1s0)
+(NP la/da0fs0 falta/ncfs000 de/sps00 principios/ncmp000)
+(NP El/da0ms0 resto/ncms000 del/spcms reparto/ncms000)
+(NP papeles/ncmp000 típicos/NMP)
+(NP la/da0fs0 atención/ncfs000 por/sps00 realizar/vmn0000)
+(NP trabajos/ncmp000 a/sps00 pesar/ncms000)
+(NP carreras/ncfp000 se/p0300000 limitan/vmip3p0)
+(NP los/da0mp0 recuerdo/ncms000 por/sps00 Heroes/V)
+(NP el/da0ms0 fiscal/nccs000 del/spcms distrito/NMS)
+(NP el/da0ms0 teniente/nccs000 Gordon/V)
+(NP la/da0fs0 oportunidad/ncfs000 de/sps00 demostrar/vmn0000)
+(NP cualidades/ncfp000 interpretativas/NFP)
+(NP cosa/ncfs000 que/pr0cn000 se/p0300000 puede/vmip3s0 (/V)
+(NP
+  Las/da0fp0
+  escenas/ncfp000
+  de/sps00
+  acción/ncfs000
+  son/vsip3p0
+  impresionantes/V)
+(NP cámara/ncfs000 de/sps00 IMAX/V (/V)
+(NP película/ncfs000 de/sps00 acción/ncfs000)
+(NP El/da0ms0 humor/ncms000 está/vmip3s0)
+(NP resto/ncms000 de/sps00 personajes/ncmp000)
+(NP el/da0ms0 experto/ncms000 en/sps00 tecnología/ncfs000)
+(NP par/ncms000 de/sps00 guiños/NMP)
+(NP el/da0ms0 personaje/ncms000 de/sps00 Dent/V)
+(NP la/da0fs0 práctica/ncfs000 omnipresencia/NFS)
+(NP
+  la/da0fs0
+  música/ncfs000
+  me/pp1cs000
+  ha/vaip3s0
+  resultado/ncms000)
+(NP giro/ncms000 me/pp1cs000 han/vaip3p0 resultado/ncms000)
+(NP personaje/ncms000 se/p0300000 siente/vmip3s0)
+(NP el/da0ms0 personaje/ncms000 del/spcms Espantapájaros/NMP)
+(NP grado/ncms000 de/sps00 relevancia/ncfs000)
+(NP aparición/ncfs000 se/p0300000 limita/vmip3s0)
+(NP escena/ncfs000 introductoria/NFS)
+(NP sensación/ncfs000 de/sps00 decepción/ncfs000)
+(NP suerte/ncfs000 forma/ncfs000 parte/ncfs000)
+(NP grupo/ncms000 de/sps00 obras/ncfp000 ambiciosas/NFP)
+(NP película/ncfs000 de/sps00 acción/ncfs000)
+(NP proporciones/ncfp000 épicas/NFP)
+(NP tarea/ncfs000 de/sps00 resultar/vmn0000)
+(NP la/da0fs0 sociedad/ncfs000 post/V 11-S/V)
+(NP forma/ncfs000 aplaudible/V)
+(NP unión/ncfs000 de/sps00 cine/ncms000)
+(NP cine/ncms000 de/sps00 calidad/ncfs000)
+(NP pérdida/ncfs000 de/sps00 tiempo/ncms000 ser/vsn0000)
+(NP la/da0fs0 recaudación/ncfs000 )/V)
+(NP puta/ncfs000 gilipollez/V es/vsip3s0)
+(NP El/da0ms0 imperio/ncms000 contraataca/NFS)
+(NP fin/ncms000 he/vaip1s0 visto/vmp00sm)
+(NP la/da0fs0 película/ncfs000 de/sps00 ``/V Sexo/NMS)
+(NP la/da0fs0 serie/ncfs000 de/sps00 machista/NFS)
+(NP la/da0fs0 serie/ncfs000 fue/vsis3s0)
+(NP mujeres/ncfp000 treintañeras/NFP hablando/vmg0000)
+(NP sexo/ncms000 sin/sps00 tapujos/NMP)
+(NP opinión/ncfs000 es/vsip3s0)
+(NP la/da0fs0 ciudad/ncfs000 de/sps00 Nueva/NFS York/V)
+(NP Os/ncms000 voy/vmip1s0)
+(NP detalles/ncmp000 para/sps00 que/pr0cn000 vayáis/V)
+(NP el/da0ms0 universo/ncms000 de/sps00 ``/V Sexo/NMS)
+(NP el/da0ms0 periódico/ncms000 New/V York/V Observer/V)
+(NP las/da0fp0 relaciones/ncfp000 entre/sps00 mujeres/ncfp000)
+(NP la/da0fs0 ciudad/ncfs000 de/sps00 Nueva/NFS York/V)
+(NP el/da0ms0 libro/ncms000 ``/V Sexo/NMS)
+(NP El/da0ms0 productor/ncms000 Darren/V Star/V compró/vmis3s0)
+(NP serie/ncfs000 que/pr0cn000 es/vsip3s0)
+(NP la/da0fs0 novela/ncfs000 le/pp3csd00 dio/vmis3s0)
+(NP Las/da0fp0 aventuras/ncfp000 de/sps00 Carrie/V)
+(NP episodios/ncmp000 de/sps00 22-25/V minutos/ncmp000)
+(NP chip/ncms000 de/sps00 Nueva/NFS York/V)
+(NP
+  los/da0mp0
+  turistas/nccp000
+  que/pr0cn000
+  visitan/vmip3p0
+  Nueva/NFS
+  York/V)
+(NP los/da0mp0 lugares/ncmp000 que/pr0cn000 frecuentaban/V)
+(NP La/da0fs0 serie/ncfs000 obtuvo/vmis3s0)
+(NP la/da0fs0 categoría/ncfs000 de/sps00 Mejor/V Elenco/NMS)
+(NP serie/ncfs000 de/sps00 comedia/NFS)
+(NP premios/ncmp000 de/sps00 actuación/ncfs000)
+(NP millones/ncmp000 de/sps00 telespectadores/ncmp000 siguieron/V)
+(NP capítulo/ncms000 rompió/vmis3s0 ránkings/V)
+(NP términos/ncmp000 de/sps00 audiencia/ncfs000)
+(NP referente/ncms000 de/sps00 estilo/ncms000)
+(NP
+  los/da0mp0
+  artículos/ncmp000
+  que/pr0cn000
+  escribe/vmip3s0
+  Carrie/V
+  semanalmente/V)
+(NP el/da0ms0 periódico/ncms000 The/V New/V York/V Star/V)
+(NP columnas/ncfp000 tratan/vmip3p0)
+(NP las/da0fp0 relaciones/ncfp000 sexuales/V)
+(NP fuente/ncfs000 de/sps00 inspiración/ncfs000)
+(NP columna/ncfs000 es/vsip3s0)
+(NP poder/ncms000 sin/sps00 complejos/ncmp000)
+(NP el/da0ms0 amor/ncms000 sin/sps00 ataduras/NFP)
+(NP fuente/ncfs000 de/sps00 inspiración/ncfs000)
+(NP las/da0fp0 chicas/ncfp000 suelen/vmip3p0 colarse/V)
+(NP la/da0fs0 ciudad/ncfs000 gracias/ncfp000)
+(NP ocasiones/ncfp000 es/vsip3s0)
+(NP galería/ncfs000 de/sps00 arte/nccs000)
+(NP mujer/ncfs000 chapada/NFS)
+(NP reacciones/ncfp000 provocan/vmip3p0)
+(NP madre/ncfs000 ''/V)
+(NP papel/ncms000 que/pr0cn000 hace/vmip3s0)
+(NP abogada/ncfs000 cínica/NFS)
+(NP lado/ncms000 del/spcms teléfono/ncms000)
+(NP veces/ncfp000 es/vsip3s0)
+(NP discusiones/ncfp000 con/sps00 Carrie/V)
+(NP frases/ncfp000 ``/V Vaya/vmsp3s0)
+(NP punto/ncms000 de/sps00 vista/ncfs000)
+(NP la/da0fs0 personalidad/ncfs000 de/sps00 Carrie/V)
+(NP personajes/ncmp000 están/vmip3p0)
+(NP la/da0fs0 película/ncfs000 sea/vssp3s0)
+(NP la/da0fs0 película/ncfs000 se/p0300000 sitúa/vmip3s0)
+(NP vida/ncfs000 de/sps00 envidia/ncfs000)
+(NP las/da0fp0 chicas/ncfp000 por/sps00 Manhattan/V)
+(NP el/da0ms0 comienzo/ncms000 es/vsip3s0)
+(NP desfile/ncms000 de/sps00 moda/ncfs000)
+(NP cambios/ncmp000 de/sps00 ropa/ncfs000)
+(NP El/da0ms0 comienzo/ncms000 me/pp1cs000 resulta/vmip3s0)
+(NP gente/ncfs000 que/pr0cn000 dice/vmip3s0)
+(NP la/da0fs0 cinta/ncfs000 es/vsip3s0)
+(NP vestidos/ncmp000 de/sps00 fiesta/ncfs000)
+(NP baño/ncms000 Es/vsip3s0)
+(NP la/da0fs0 cantidad/ncfs000 de/sps00 firmas/ncfp000)
+(NP diseñadores/ncmp000 que/pr0cn000 han/vaip3p0 participado/vmp00sm)
+(NP la/da0fs0 película/ncfs000 desde/sps00 Lanvin/V)
+(NP el/da0ms0 desfile/ncms000 de/sps00 glamour/ncms000)
+(NP la/da0fs0 serie/ncfs000 parezca/vmsp3s0)
+(NP la/da0fs0 moda/ncfs000 es/vsip3s0)
+(NP pesar/ncms000 de/sps00 ser/vsn0000)
+(NP respecto/ncms000 al/spcms paso/ncms000)
+(NP Las/da0fp0 chicas/ncfp000 han/vaip3p0)
+(NP los/da0mp0 años/ncmp000 se/p0300000 nota/ncfs000)
+(NP
+  los/da0mp0
+  modelos/ncmp000
+  que/pr0cn000
+  solíamos/NMP
+  vestir/vmn0000
+  años/ncmp000)
+(NP los/da0mp0 diseñadores/ncmp000 que/pr0cn000 he/vaip1s0)
+(NP la/da0fs0 película/ncfs000 (/V)
+(NP la/da0fs0 serie/ncfs000 )/V)
+(NP marca/ncfs000 de/sps00 ropa/ncfs000)
+(NP Los/da0mp0 críticos/ncmp000 han/vaip3p0 alabado/NMS)
+(NP
+  la/da0fs0
+  serie/ncfs000
+  se/p0300000
+  considere/vmsp3s0
+  marcadora/NFS)
+(NP momentos/ncmp000 ha/vaip3s0 sido/vsp00sm)
+(NP el/da0ms0 vestuario/ncms000 es/vsip3s0)
+(NP veces/ncfp000 Carrie/V)
+(NP la/da0fs0 serie/ncfs000 lleva/vmip3s0)
+(NP fama/ncfs000 que/pr0cn000 Coca/NFS Cola/NFS)
+(NP botellas/ncfp000 de/sps00 Coca/NFS Cola/NFS light/V)
+(NP la/da0fs0 serie/ncfs000 conoceréis/V)
+(NP la/da0fs0 pasión/ncfs000 de/sps00 Carrie/V)
+(NP la/da0fs0 película/ncfs000 adquieren/vmip3p0)
+(NP la/da0fs0 película/ncfs000 hace/vmip3s0)
+(NP homenaje/ncms000 al/spcms cuento/vmip1s0)
+(NP zapatos/ncmp000 de/sps00 cristal/ncms000)
+(NP cristales/ncmp000 de/sps00 Swarovski/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0 apta/NFS)
+(NP la/da0fs0 serie/ncfs000 es/vsip3s0)
+(NP punto/ncms000 de/sps00 partida/ncfs000)
+(NP la/da0fs0 película/ncfs000 son/vsip3p0)
+(NP diálogo/ncms000 divertidísimo/NMS)
+(NP vez/ncfs000 de/sps00 referirse/V)
+(NP sexo/ncms000 utilizan/vmip3p0)
+(NP la/da0fs0 palabra/ncfs000 dibujar/V)
+(NP el/da0ms0 papel/ncms000 de/sps00 Charlotte/V)
+(NP la/da0fs0 boda/ncfs000 de/sps00 Carrie/V)
+(NP situación/ncfs000 super/V cómica/NFS )/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP disputa/ncfs000 que/pr0cn000 se/p0300000 produce/vmip3s0)
+(NP El/da0ms0 personaje/ncms000 de/sps00 Jennifer/V Hudson/V)
+(NP la/da0fs0 decisión/ncfs000 de/sps00 Carrie/V)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP el/da0ms0 apoyo/ncms000 en/sps00 situaciones/ncfp000)
+(NP tipo/ncms000 amor/ncms000)
+(NP el/da0ms0 fondo/ncms000 es/vsip3s0)
+(NP la/da0fs0 película/ncfs000 llegas/vmip2s0)
+(NP el/da0ms0 cine/ncms000 son/vsip3p0 cuatrocientas/NFP butacas/NFP)
+(NP crisis/ncfn000 del/spcms cine/ncms000)
+(NP los/da0mp0 números/ncmp000 son/vsip3p0)
+(NP los/da0mp0 hechos/ncmp000 son/vsip3p0 innegables/V)
+(NP la/da0fs0 gente/ncfs000 va/vmip3s0)
+(NP contables/nccp000 del/spcms mundo/ncms000)
+(NP la/da0fs0 crisis/ncfn000 de/sps00 calidad/ncfs000)
+(NP el/da0ms0 cine/ncms000 es/vsip3s0)
+(NP vez/ncfs000 que/pr0cn000 he/vaip1s0 ido/vmp00sm)
+(NP cine/ncms000 me/pp1cs000 he/vaip1s0 tenido/vmp00sm)
+(NP pesar/ncms000 de/sps00 que/pr0cn000 me/pp1cs000 apasiona/NFS)
+(NP
+  La/da0fs0
+  tarjeta/ncfs000
+  del/spcms
+  videoclub/V
+  saca/ncfs000
+  humo/ncms000)
+(NP calle/ncfs000 es/vsip3s0)
+(NP película/ncfs000 tostón/V)
+(NP día/ncms000 alquilé/V ``/V Maria/NFS Antonieta/NFS ''/V)
+(NP entrada/ncfs000 de/sps00 cine/ncms000)
+(NP la/da0fs0 industria/ncfs000 del/spcms cine/ncms000 está/vmip3s0)
+(NP tele/ncfs000 de/sps00 plasma/NFS)
+(NP el/da0ms0 cine/ncms000 me/pp1cs000 dan/vmip3p0 dolor/ncms000)
+(NP reunión/ncfs000 de/sps00 amigos/ncmp000 aficionados/ncmp000)
+(NP tele/ncfs000 de/sps00 plasma/NFS)
+(NP el/da0ms0 sonido/ncms000 era/vsii3s0 pésimo/NMS)
+(NP ganas/ncfp000 de/sps00 verla/NFS)
+(NP el/da0ms0 cine/ncms000 es/vsip3s0)
+(NP el/da0ms0 dinero/ncms000 gustosamente/V)
+(NP El/da0ms0 cine/ncms000 debería/vmic3s0 hacerte/V olvidar/vmn0000)
+(NP teatro/ncms000 ''/V)
+(NP teatro/ncms000 ''/V)
+(NP La/da0fs0 película/ncfs000 cuenta/vmip3s0)
+(NP la/da0fs0 historia/ncfs000 de/sps00 Remy/V)
+(NP las/da0fp0 calles/ncfp000 de/sps00 París/np0000l junto/NMS)
+(NP la/da0fs0 basura/ncfs000 que/pr0cn000 encuentran/vmip3p0)
+(NP talento/ncms000 innato/NMS)
+(NP poder/ncms000 dedicarse/vmn0000)
+(NP las/da0fp0 artes/nccp000 culinarias/NFP)
+(NP padre/ncms000 tiene/vmip3s0)
+(NP
+  destino/ncms000
+  es/vsip3s0
+  comer/vmn0000
+  alimentos/ncmp000
+  podridos/NMP)
+(NP los/da0mp0 sueños/ncmp000 gastronómicos/NMP)
+(NP referencia/ncfs000 idólatra/NFS)
+(NP cocina/ncfs000 parisina/NFS)
+(NP el/da0ms0 restaurante/ncms000 queda/vmip3s0)
+(NP manos/ncfp000 de/sps00 Skinner/V)
+(NP las/da0fp0 alcantarillas/ncfp000 parisinas/NFP)
+(NP restaurante/ncms000 de/sps00 Gusteau/V)
+(NP condición/ncfs000 de/sps00 roedor/V)
+(NP cocina/ncfs000 es/vsip3s0)
+(NP aprecio/ncms000 sienten/V)
+(NP sueño/ncms000 de/sps00 convertirse/vmn0000)
+(NP experimentos/ncmp000 mezclando/NMS ingredientes/ncmp000)
+(NP ídolo/ncms000 es/vsip3s0 Gusteau/V)
+(NP sueño/ncms000 sería/vsic3s0 poder/ncms000 ser/vsn0000 chef/V)
+(NP condición/ncfs000 de/sps00 rata/ncfs000)
+(NP carta/ncfs000 de/sps00 presentación/ncfs000)
+(NP cocina/ncfs000 parisina/NFS)
+(NP restaurante/ncms000 es/vsip3s0)
+(NP estrellas/ncfp000 Michelin/np0000o)
+(NP crítica/ncfs000 negativa/ncfs000)
+(NP el/da0ms0 restaurante/ncms000 pierde/vmip3s0)
+(NP la/da0fs0 película/ncfs000 en/sps00 forma/ncfs000)
+(NP ayuda/ncfs000 a/sps00 seguir/vmn0000)
+(NP el/da0ms0 personaje/ncms000 de/sps00 Gusteau/V es/vsip3s0)
+(NP guiño/ncms000 (/V)
+(NP reconocimiento/ncms000 que/pr0cn000 consiguió/vmis3s0)
+(NP estrellas/ncfp000 Michelín/np0000p)
+(NP restaurante/ncms000 (/V)
+(NP distinción/ncfs000 )/V)
+(NP película/ncfs000 destinada/NFS)
+(NP chico/ncms000 jovencito/NMS)
+(NP restaurante/ncms000 Gusteau/V)
+(NP madre/ncfs000 haya/vasp3s0)
+(NP madre/ncfs000 fue/vsis3s0)
+(NP amantes/nccp000 que/pr0cn000 tuvo/vmis3s0 Gusteau/V)
+(NP carta/ncfs000 póstuma/NFS)
+(NP pruebas/ncfp000 [/V desastrosas/NFP ]/V)
+(NP la/da0fs0 ayuda/ncfs000 de/sps00 Remy/V (/V)
+(NP
+  el/da0ms0
+  desastre/ncms000
+  que/pr0cn000
+  está/vmip3s0
+  haciendo/vmg0000
+  )/V)
+(NP platos/ncmp000 pedirán/V)
+(NP los/da0mp0 clientes/nccp000 del/spcms restaurante/ncms000)
+(NP genio/ncms000 es/vsip3s0 Remy/V)
+(NP el/da0ms0 restaurante/ncms000 ha/vaip3s0 quedado/vmp00sm)
+(NP personaje/ncms000 avaricioso/NMS)
+(NP la/da0fs0 fama/ncfs000 del/spcms restaurante/ncms000)
+(NP El/da0ms0 restaurante/ncms000 está/vmip3s0)
+(NP punto/ncms000 de/sps00 ser/vsn0000)
+(NP la/da0fs0 llegada/ncfs000 de/sps00 Linguini/V supone/vmip3s0)
+(NP punto/ncms000 de/sps00 inflexión/V)
+(NP rata/ncfs000 (/V Remy/V )/V)
+(NP las/da0fp0 mujeres/ncfp000 a/sps00 poder/ncms000 hacerse/vmn0000)
+(NP mundo/ncms000 machista/NFS)
+(NP la/da0fs0 cocina/ncfs000 es/vsip3s0)
+(NP tiempo/ncms000 luchando/vmg0000)
+(NP principio/ncms000 pueda/vmsp3s0 parecer/vmn0000)
+(NP medida/ncfs000 que/pr0cn000 avanza/vmip3s0)
+(NP la/da0fs0 película/ncfs000 sintoniza/NFS)
+(NP los/da0mp0 estudios/ncmp000 Pixar/V)
+(NP la/da0fs0 película/ncfs000 que/pr0cn000 supuso/vmis3s0)
+(NP salida/ncfs000 al/spcms género/NMS)
+(NP la/da0fs0 animación/ncfs000 por/sps00 ordenador/ncms000)
+(NP recursos/ncmp000 han/vaip3p0 evolucionado/vmp00sm)
+(NP película/ncfs000 podría/vmic3s0)
+(NP embargo/ncms000 a/sps00 mí/pp1cso00 me/pp1cs000 dio/vmis3s0)
+(NP
+  la/da0fs0
+  sensación/ncfs000
+  de/sps00
+  estar/vmn0000
+  viendo/vmg0000)
+(NP día/ncms000 ``/V)
+(NP trabajo/ncms000 estupendo/NMS junto/NMS)
+(NP el/da0ms0 resto/ncms000 del/spcms equipo/ncms000)
+(NP mundo/ncms000 para/sps00 demostrar/vmn0000)
+(NP horas/ncfp000 de/sps00 película/ncfs000)
+(NP momentos/ncmp000 de/sps00 relleno/ncms000)
+(NP momentos/ncmp000 de/sps00 bajón/V)
+(NP la/da0fs0 historia/ncfs000 pierde/vmip3s0 fuelle/ncms000)
+(NP sucesión/ncfs000 de/sps00 escenas/ncfp000)
+(NP los/da0mp0 personajes/ncmp000 viven/vmip3p0)
+(NP las/da0fp0 películas/ncfp000 para/sps00 niños/ncmp000 (/V)
+(NP El/da0ms0 personaje/ncms000 que/pr0cn000 sirve/vmip3s0)
+(NP nexo/ncms000 de/sps00 unión/ncfs000)
+(NP momento/ncms000 es/vsip3s0)
+(NP personaje/ncms000 que/pr0cn000 cae/vmip3s0 simpático/NMS)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP opinión/ncfs000 es/vsip3s0)
+(NP las/da0fp0 escenas/ncfp000 tienen/vmip3p0)
+(NP los/da0mp0 personajes/ncmp000 están/vmip3p0)
+(NP actor/ncms000 de/sps00 carne/ncfs000)
+(NP humanidad/ncfs000 ''/V)
+(NP
+  los/da0mp0
+  personajes/ncmp000
+  de/sps00
+  ``/V
+  Final/V
+  Fantasy/V
+  ''/V)
+(NP Los/da0mp0 personajes/ncmp000 siguen/vmip3p0)
+(NP patrón/ncms000 de/sps00 dibujo/NMS animado/NMS)
+(NP los/da0mp0 personajes/ncmp000 siguen/vmip3p0)
+(NP línea/ncfs000 'pop/V art/V)
+(NP la/da0fs0 nariz/ncfs000 afilada/NFS)
+(NP formas/ncfp000 redondeadas/NFP)
+(NP rasgos/ncmp000 esperpénticos/NMP)
+(NP las/da0fp0 ratas/ncfp000 que/pr0cn000 salen/vmip3p0)
+(NP obra/ncfs000 de/sps00 arte/nccs000)
+(NP la/da0fs0 cocina/ncfs000 son/vsip3p0)
+(NP perfección/ncfs000 que/pr0cn000 impresiona/NFS)
+(NP Los/da0mp0 movimientos/ncmp000 de/sps00 cámara/ncfs000)
+(NP los/da0mp0 platos/ncmp000 son/vsip3p0)
+(NP
+  La/da0fs0
+  forma/ncfs000
+  en/sps00
+  que/pr0cn000
+  se/p0300000
+  mezclan/vmip3p0)
+(NP los/da0mp0 platos/ncmp000 es/vsip3s0)
+(NP matrícula/ncfs000 de/sps00 honor/ncms000)
+(NP película/ncfs000 que/pr0cn000 recomiendo/NMS ver/vmn0000)
+(NP escena/ncfs000 hay/vaip3s0)
+(NP cosas/ncfp000 por/sps00 admirar/vmn0000)
+(NP cuidado/ncms000 que/pr0cn000 dan/vmip3p0 ganas/ncfp000)
+(NP poder/ncms000 admirar/vmn0000)
+(NP
+  La/da0fs0
+  dirección/ncfs000
+  de/sps00
+  fotografía/ncfs000
+  es/vsip3s0)
+(NP vez/ncfs000 que/pr0cn000 muestran/vmip3p0)
+(NP animación/ncfs000 por/sps00 ordenador/ncms000)
+(NP la/da0fs0 acción/ncfs000 junto/NMS)
+(NP
+  la/da0fs0
+  película/ncfs000
+  me/pp1cs000
+  haya/vasp3s0
+  gustado/vmp00sm)
+(NP punto/ncms000 de/sps00 vista/ncfs000)
+(NP el/da0ms0 fondo/ncms000 sea/vssp3s0)
+(NP películas/ncfp000 del/spcms género/NMS)
+(NP el/da0ms0 estilo/ncms000 Ratatouille/V)
+(NP sueño/ncms000 oposición/ncfs000)
+(NP
+  película/ncfs000
+  le/pp3csd00
+  han/vaip3p0
+  conseguido/vmp00sm
+  dar/vmn0000)
+(NP la/da0fs0 vuelta/ncfs000 para/sps00 mostrarlo/NMS)
+(NP pesar/ncms000 estar/vmn0000 destinada/NFS)
+(NP películas/ncfp000 de/sps00 animación/ncfs000)
+(NP los/da0mp0 niños/ncmp000 van/vmip3p0)
+(NP excusa/ncfs000 renacuaja/NFS ''/V)
+(NP la/da0fs0 atención/ncfs000 desde/sps00 que/pr0cn000 vi/vmis1s0)
+(NP La/da0fs0 duración/ncfs000 es/vsip3s0)
+(NP películas/ncfp000 que/pr0cn000 son/vsip3p0)
+(NP horas/ncfp000 se/p0300000 pasarán/V volando/vmg0000)
+(NP la/da0fs0 película/ncfs000 (/V)
+(NP
+  el/da0ms0
+  cine/ncms000
+  al/spcms
+  que/pr0cn000
+  yo/pp1csn00
+  fui/vsis1s0
+  )/V)
+(NP animación/ncfs000 )/V)
+(NP las/da0fp0 películas/ncfp000 para/sps00 niños/ncmp000 (/V)
+(NP película/ncfs000 deliciosa/NFS (/V)
+(NP El/da0ms0 dinero/ncms000 que/pr0cn000 cuesta/vmip3s0)
+(NP la/da0fs0 entrada/ncfs000 se/p0300000 ve/vmip3s0)
+(NP película/ncfs000 disfrutaréis/V)
+(NP la/da0fs0 pena/ncfs000 pagar/vmn0000)
+(NP el/da0ms0 dinero/ncms000 que/pr0cn000 vale/vmip3s0)
+(NP pantalla/ncfs000 de/sps00 cine/ncms000)
+(NP poder/ncms000 apreciar/vmn0000)
+(NP ganas/ncfp000 de/sps00 tener/vmn0000)
+(NP el/da0ms0 desayuno/ncms000 a/sps00 Linguini/V es/vsip3s0)
+(NP estrellas/ncfp000 Michelin/np0000o)
+(NP película/ncfs000 que/pr0cn000 vi/vmis1s0)
+(NP películas/ncfp000 de/sps00 Shrek/V)
+(NP ogro/ncms000 que/pr0cn000 vive/vmip3s0)
+(NP los/da0mp0 personajes/ncmp000 fantásticos/NMP)
+(NP humor/ncms000 que/pr0cn000 se/p0300000 gasta/vmip3s0 Shrek/V)
+(NP burro/ncms000 charlatán/V)
+(NP torre/ncfs000 del/spcms castillo/ncms000)
+(NP El/da0ms0 plan/ncms000 del/spcms Lord/V es/vsip3s0 casarse/V)
+(NP el/da0ms0 castillo/ncms000 se/p0300000 tienen/vmip3p0)
+(NP El/da0ms0 camino/ncms000 de/sps00 vuelta/ncfs000)
+(NP hogar/ncms000 del/spcms Lord/V)
+(NP el/da0ms0 secreto/ncms000 de/sps00 Fiona/NFS)
+(NP el/da0ms0 día/ncms000 es/vsip3s0)
+(NP el/da0ms0 sol/ncms000 se/p0300000 convierte/vmip3s0)
+(NP beso/ncms000 se/p0300000 convertirá/vmif3s0)
+(NP castillo/ncms000 a/sps00 impedir/vmn0000)
+(NP la/da0fs0 ayuda/ncfs000 de/sps00 Dragona/NFS)
+(NP luna/ncfs000 de/sps00 miel/V)
+(NP padres/ncmp000 para/sps00 que/pr0cn000 vayan/vmsp3p0)
+(NP los/da0mp0 padres/ncmp000 de/sps00 Fiona/NFS son/vsip3p0)
+(NP los/da0mp0 reyes/ncmp000 )/V)
+(NP el/da0ms0 hijo/ncms000 del/spcms Hada/NFS Madrina/NFS)
+(NP
+  el/da0ms0
+  castillo/ncms000
+  donde/pr000000
+  Fiona/NFS
+  estaba/vmii3s0
+  recluida/NFS)
+(NP hijo/ncms000 pueda/vmsp3s0 ser/vsn0000 rey/ncms000)
+(NP base/nccs000 de/sps00 pociones/V)
+(NP hijo/ncms000 fuese/vssi3s0)
+(NP padre/ncms000 de/sps00 Fiona/NFS)
+(NP hijos/ncmp000 con/sps00 Dragona/NFS)
+(NP resumen/ncms000 (/V)
+(NP El/da0ms0 padre/ncms000 de/sps00 Fiona/NFS)
+(NP muchacho/ncms000 que/pr0cn000 está/vmip3s0)
+(NP noticia/ncfs000 que/pr0cn000 trastocará/V)
+(NP la/da0fs0 vida/ncfs000 que/pr0cn000 lleva/vmip3s0)
+(NP actor/ncms000 de/sps00 teatro/ncms000)
+(NP cine/ncms000 (/V)
+(NP
+  el/da0ms0
+  estilo/ncms000
+  que/pr0cn000
+  suelen/vmip3p0
+  tener/vmn0000)
+(NP La/da0fs0 animación/ncfs000 está/vmip3s0)
+(NP Los/da0mp0 movimientos/ncmp000 son/vsip3p0)
+(NP cosa/ncfs000 que/pr0cn000 me/pp1cs000 encanta/NFS)
+(NP la/da0fs0 banda/ncfs000 sonora/NFS)
+(NP entrega/ncfs000 era/vsii3s0)
+(NP punto/ncms000 a/sps00 favor/ncms000)
+(NP La/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP fragmento/ncms000 en/sps00 versión/ncfs000)
+(NP cosas/ncfp000 positivas/NFP)
+(NP Los/da0mp0 personajes/ncmp000 son/vsip3p0 geniales/V)
+(NP la/da0fs0 mar/nccs000 de/sps00 simpáticos/NMP)
+(NP parte/ncfs000 tienen/vmip3p0 razón/ncfs000)
+(NP falta/ncfs000 deciros/NMP)
+(NP la/da0fs0 película/ncfs000 sea/vssp3s0)
+(NP muñecos/ncmp000 ``/V)
+(NP el/da0ms0 ingenio/ncms000 era/vsii3s0)
+(NP la/da0fs0 película/ncfs000 ``/V Transformers/V)
+(NP la/da0fs0 película/ncfs000 de/sps00 2007/V)
+(NP La/da0fs0 isla/ncfs000 ,2005/V)
+(NP el/da0ms0 poder/ncms000 de/sps00 otorgar/vmn0000 vida/ncfs000)
+(NP elementos/ncmp000 inertes/V)
+(NP poder/ncms000 para/sps00 dominar/vmn0000)
+(NP la/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP película/ncfs000 para/sps00 pasar/vmn0000)
+(NP los/da0mp0 robots/ncmp000 están/vmip3p0 logradísimos/NMP)
+(NP las/da0fp0 transformaciones/ncfp000 son/vsip3p0)
+(NP ánimo/ncms000 de/sps00 divertirse/V)
+(NP película/ncfs000 de/sps00 aventuras/ncfp000)
+(NP sargento/ncms000 Epps/V )/V)
+(NP capitán/ncms000 Lennox/V )/V)
+(NP agente/nccs000 Simmons/V )/V)
+(NP suerte/ncfs000 tuve/V)
+(NP el/da0ms0 caso/ncms000 es/vsip3s0)
+(NP alegría/ncfs000 haberla/van0000 descubierto/vmp00sm)
+(NP la/da0fs0 película/ncfs000 se/p0300000 llama/vmip3s0 Juno/NMS)
+(NP años/ncmp000 que/pr0cn000 tiene/vmip3s0)
+(NP pensamiento/ncms000 ..../V abortar/V)
+(NP pensamiento/ncms000 es/vsip3s0 darlo/vmn0000)
+(NP adopción/ncfs000 ..../V)
+(NP la/da0fs0 familia/ncfs000 adoptiva/NFS)
+(NP mundo/ncms000 marcan/V)
+(NP el/da0ms0 hilo/ncms000 argumental/V)
+(NP forma/ncfs000 de/sps00 definirla/NFS)
+(NP forma/ncfs000 de/sps00 ver/vmn0000)
+(NP lado/ncms000 Ellen/V Page/V puede/vmip3s0 ser/vsn0000)
+(NP papel/ncms000 en/sps00 XMen3/V)
+(NP la/da0fs0 película/ncfs000 ..../V ejem/V ..../V)
+(NP fotógrafo/ncms000 conoce/vmip3s0 niña/ncfs000)
+(NP niña/ncfs000 cae/vmip3s0)
+(NP papel/ncms000 estupendo/NMS)
+(NP tiempo/ncms000 podremos/vmif1p0 saber/vmn0000)
+(NP amigo/ncms000 de/sps00 Juno/NMS)
+(NP amistad/ncfs000 ..../V)
+(NP lado/ncms000 Michael/V Cera/NFS)
+(NP padre/ncms000 adoptivo/NMS)
+(NP gloria/ncfs000 rockera/NFS ..../V)
+(NP madre/ncfs000 adoptiva/NFS)
+(NP la/da0fs0 mujer/ncfs000 de/sps00 Mark/V)
+(NP tiempo/ncms000 intentándolo/NMS)
+(NP recuerdo/ncms000 que/pr0cn000 hacía/vmii3s0)
+(NP la/da0fs0 chica/ncfs000 de/sps00 Alias/NFP (/V serie/ncfs000)
+(NP amiga/ncfs000 de/sps00 Juno/NMS)
+(NP director/ncms000 ..../V He/vaip1s0 buscado/vmp00sm)
+(NP actor/ncms000 en/sps00 películas/ncfp000)
+(NP las/da0fp0 cosas/ncfp000 de/sps00 Juno/NMS)
+(NP dudas/ncfp000 ..../V)
+(NP sentido/ncms000 identificada/NFS)
+(NP la/da0fs0 prueba/ncfs000 de/sps00 embarazo/NMS siendo/vsg0000)
+(NP niña/ncfs000 ..../V)
+(NP la/da0fs0 clínica/ncfs000 ..../V)
+(NP deseo/ncms000 de/sps00 ser/vsn0000 mami/V)
+(NP felicidad/ncfs000 que/pr0cn000 espero/vmip1s0 tener/vmn0000)
+(NP día/ncms000 ..../V uf/V ..../V)
+(NP persona/ncfs000 que/pr0cn000 arrastra/vmip3s0)
+(NP marido/ncms000 (/V)
+(NP veces/ncfp000 ..../V ``/V Estoy/vmip1s0 haciendo/vmg0000)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP película/ncfs000 con/sps00 sueño/ncms000)
+(NP Los/da0mp0 diálogos/ncmp000 son/vsip3p0 estupendos/NMP ..../V)
+(NP la/da0fs0 técnica/ncfs000 en/sps00 ecografía/NFS)
+(NP el/da0ms0 hijo/ncms000 de/sps00 Mark/V)
+(NP punto/ncms000 de/sps00 vista/ncfs000)
+(NP La/da0fs0 historia/ncfs000 es/vsip3s0)
+(NP punto/ncms000 de/sps00 comedia/NFS)
+(NP situaciones/ncfp000 cotidianas/NFP)
+(NP veces/ncfp000 ..../V)
+(NP hijo/ncms000 en/sps00 adopcion/V)
+(NP familia/ncfs000 que/pr0cn000 se/p0300000 anuncia/vmip3s0)
+(NP punto/ncms000 de/sps00 crítica/ncfs000)
+(NP la/da0fs0 chica/ncfs000 que/pr0cn000 hace/vmip3s0 piquete/V)
+(NP la/da0fs0 clínica/ncfs000 de/sps00 abortos/NMP)
+(NP uñas/ncfp000 ''/V (/V)
+(NP la/da0fs0 clínica/ncfs000 dándole/vmg0000 vueltas/ncfp000)
+(NP uñas/ncfp000 ..../V ¿¿cómo/NMS vas/vmip2s0)
+(NP premios/ncmp000 oscars/V)
+(NP vez/ncfs000 Juno/NMS)
+(NP vuelo/ncms000 supersónico/NMS)
+(NP pesar/ncms000 de/sps00 que/pr0cn000 él/pp3ms000 usa/vmip3s0)
+(NP poderes/ncmp000 para/sps00 detener/vmn0000)
+(NP
+  actividad/ncfs000
+  inadvertidamente/V
+  causa/ncfs000
+  millones/ncmp000)
+(NP la/da0fs0 propiedad/ncfs000 debido/vmp00sm)
+(NP los/da0mp0 daños/ncmp000 materiales/ncmp000)
+(NP El/da0ms0 portavoz/nccs000 convence/V)
+(NP fin/ncms000 de/sps00 que/pr0cn000 puedan/vmsp3p0 mostrar/vmn0000)
+(NP
+  la/da0fs0
+  tasa/ncfs000
+  de/sps00
+  delincuencia/ncfs000
+  aumenta/vmip3s0)
+(NP días/ncmp000 ciaonautas/NFP)
+(NP película/ncfs000 que/pr0cn000 ví/V)
+(NP la/da0fs0 opinión/ncfs000 ..../V)
+(NP las/da0fp0 películas/ncfp000 románticas/NFP)
+(NP papel/ncms000 en/sps00 Anatomia/NFS)
+(NP hermana/ncfs000 Tess/V)
+(NP día/ncms000 asiste/V)
+(NP boda/ncfs000 junto/NMS)
+(NP
+  la/da0fs0
+  novia/ncfs000
+  se/p0300000
+  está/vmip3s0
+  arreglando/NMS
+  sufre/vmip3s0)
+(NP vestido/ncms000 (/V)
+(NP la/da0fs0 espalda/ncfs000 pierde/vmip3s0)
+(NP nombre/ncms000 ...../V jejeje/V )/V)
+(NP arreglo/ncms000 estupendo/NMS)
+(NP vida/ncfs000 girará/V entorno/ncms000)
+(NP el/da0ms0 papel/ncms000 de/sps00 dama/ncfs000)
+(NP la/da0fs0 boda/ncfs000 se/p0300000 irá/vmif3s0 turnado/NMS)
+(NP la/da0fs0 escena/ncfs000 es/vsip3s0)
+(NP la/da0fs0 noche/ncfs000 a/sps00 donde/pr000000 diga/vmsp3s0)
+(NP la/da0fs0 jornada/ncfs000 le/pp3csd00 pagará/V)
+(NP condición/ncfs000 que/pr0cn000 tiene/vmip3s0)
+(NP el/da0ms0 taxista/nccs000 acepta/vmip3s0)
+(NP
+  el/da0ms0
+  camino/ncms000
+  para/sps00
+  poder/ncms000
+  cumplir/vmn0000)
+(NP noche/ncfs000 (/V)
+(NP papeles/ncmp000 en/sps00 X-Men/V)
+(NP periodista/nccs000 que/pr0cn000 escribe/vmip3s0)
+(NP la/da0fs0 columna/ncfs000 de/sps00 sociedad/ncfs000)
+(NP la/da0fs0 noche/ncfs000 atónito/NMS)
+(NP la/da0fs0 marcha/ncfs000 que/pr0cn000 lleva/vmip3s0)
+(NP suelo/ncms000 desmayada/NFS)
+(NP encuentro/ncms000 es/vsip3s0)
+(NP dama/ncfs000 de/sps00 honor/ncms000)
+(NP principio/ncms000 piensa/vmip3s0)
+(NP
+  la/da0fs0
+  columna/ncfs000
+  de/sps00
+  sociedad/ncfs000
+  (/V
+  cosa/ncfs000)
+(NP tiempo/ncms000 queriendo/vmg0000 dejar/vmn0000 )/V)
+(NP poder/ncms000 empezar/vmn0000)
+(NP jefa/ncfs000 de/sps00 redacción/ncfs000)
+(NP la/da0fs0 jefa/ncfs000 al/spcms principio/ncms000)
+(NP oportunidad/ncfs000 a/sps00 Kevi/V n/nccn000)
+(NP parte/ncfs000 de/sps00 organizar/vmn0000)
+(NP dama/ncfs000 de/sps00 honor/ncms000)
+(NP las/da0fp0 atenciones/ncfp000 que/pr0cn000 tiene/vmip3s0 Jane/V)
+(NP silencio/ncms000 pensando/vmg0000)
+(NP día/ncms000 de/sps00 dará/vmif3s0 cuenta/vmip3s0)
+(NP el/da0ms0 día/ncms000 Jane/V recibe/vmip3s0)
+(NP ramo/ncms000 de/sps00 flores/V)
+(NP compañera/ncfs000 de/sps00 trabajo/ncms000)
+(NP amiga/ncfs000 le/pp3csd00 empieza/vmip3s0)
+(NP jefe/ncms000 le/pp3csd00 hace/vmip3s0 pensar/vmn0000)
+(NP noche/ncfs000 tienen/vmip3p0)
+(NP fiesta/ncfs000 del/spcms trabajo/ncms000)
+(NP las/da0fp0 gracias/ncfp000 a/sps00 George/V)
+(NP la/da0fs0 fiesta/ncfs000 del/spcms trabajo/ncms000)
+(NP momento/ncms000 se/p0300000 queda/vmip3s0)
+(NP baño/ncms000 (/V)
+(NP boda/ncfs000 ....../V)
+(NP los/da0mp0 demonios/ncmp000 de/sps00 ver/vmn0000)
+(NP casa/ncfs000 descubre/vmip3s0)
+(NP silencio/ncms000 (/V)
+(NP la/da0fs0 cara/ncfs000 es/vsip3s0)
+(NP poema/ncms000 )/V)
+(NP cosas/ncfp000 sobre/sps00 George/V)
+(NP los/da0mp0 tipos/ncmp000 de/sps00 comida/ncfs000)
+(NP derribo/ncms000 contra/sps00 George/V)
+(NP matrimonio/ncms000 a/sps00 Tess/V)
+(NP la/da0fs0 agenda/ncfs000 a/sps00 Jane/V)
+(NP la/da0fs0 agenda/ncfs000 de/sps00 Jane/V)
+(NP número/ncms000 de/sps00 teléfono/ncms000 ...../V jajaja/NFS)
+(NP mensaje/ncms000 subliminal/V)
+(NP el/da0ms0 reportaje/ncms000 de/sps00 boda/ncfs000)
+(NP el/da0ms0 turno/ncms000 a/sps00 Jane/V)
+(NP vestidos/ncmp000 de/sps00 dama/ncfs000)
+(NP honor/ncms000 que/pr0cn000 ha/vaip3s0)
+(NP pase/ncms000 de/sps00 modelos/ncmp000)
+(NP novia/ncfs000 celebraba/NFS)
+(NP cosa/ncfs000 que/pr0cn000 vuelve/vmip3s0)
+(NP La/da0fs0 encargada/ncfs000 de/sps00 organizar/vmn0000)
+(NP la/da0fs0 boda/ncfs000 de/sps00 Tess/V)
+(NP la/da0fs0 lista/ncfs000 de/sps00 bodas/ncfp000 vuelve/vmip3s0)
+(NP
+  la/da0fs0
+  actitud/ncfs000
+  que/pr0cn000
+  está/vmip3s0
+  teniendo/vmg0000
+  Jane/V)
+(NP cosa/ncfs000 que/pr0cn000 vuelve/vmip3s0)
+(NP la/da0fs0 elección/ncfs000 del/spcms menú/V)
+(NP las/da0fp0 lista/ncfs000 de/sps00 bodas/ncfp000)
+(NP la/da0fs0 velocidad/ncfs000 cosa/ncfs000)
+(NP bar/ncms000 echándose/V cosas/ncfp000)
+(NP el/da0ms0 periódico/ncms000 de/sps00 Kevin/V)
+(NP dama/ncfs000 de/sps00 honor/ncms000)
+(NP finales/ncmp000 es/vsip3s0)
+(NP el/da0ms0 vestido/ncms000 de/sps00 novia/ncfs000)
+(NP cena/ncfs000 que/pr0cn000 tienen/vmip3p0 saca/ncfs000)
+(NP el/da0ms0 vestido/ncms000 de/sps00 novia/ncfs000)
+(NP la/da0fs0 cara/ncfs000 de/sps00 Jane/V es/vsip3s0)
+(NP poder/ncms000 casarse/V)
+(NP el/da0ms0 vestido/ncms000 de/sps00 boda/ncfs000)
+(NP hermana/ncfs000 a/sps00 dado/vmp00sm orden/ncms000)
+(NP cosa/ncfs000 que/pr0cn000 hace/vmip3s0)
+(NP momento/ncms000 es/vsip3s0)
+(NP cena/ncfs000 que/pr0cn000 se/p0300000 ha/vaip3s0)
+(NP restaurante/ncms000 para/sps00 disgusto/NMS)
+(NP reportaje/ncms000 George/V decide/V supender/V)
+(NP estado/ncms000 observando/vmg0000)
+(NP restaurante/ncms000 comentan/vmip3p0)
+(NP los/da0mp0 comentarios/ncmp000 de/sps00 Kevin/V)
+(NP pareja/ncfs000 le/pp3csd00 pide/vmip3s0)
+(NP
+  reportaje/ncms000
+  que/pr0cn000
+  se/p0300000
+  está/vmip3s0
+  celebrando/NMS)
+(NP los/da0mp0 invitados/ncmp000 le/pp3csd00 declara/vmip3s0)
+(NP la/da0fs0 relación/ncfs000 termina/vmip3s0)
+(NP conclusión/ncfs000 es/vsip3s0)
+(NP rato/ncms000 entretenido/vmp00sm)
+(NP Os/ncms000 quiero/vmip1s0 dejar/vmn0000)
+(NP los/da0mp0 atentados/ncmp000 del/spcms 11-S/V)
+(NP supervivientes/nccp000 que/pr0cn000 se/p0300000 rescataron/V)
+(NP hechos/ncmp000 macabros/NMP)
+(NP la/da0fs0 película/ncfs000 es/vsip3s0)
+(NP pizca/ncfs000 de/sps00 morbosidad/V)
+(NP la/da0fs0 película/ncfs000 son/vsip3p0 escenas/ncfp000)
+(NP los/da0mp0 escombros/ncmp000 relatando/NMS)
+(NP ejemplo/ncms000 de/sps00 amistad/ncfs000)
+(NP la/da0fs0 verdad/ncfs000 consigue/vmip3s0 impresionarte/V)
+(NP ejemplo/ncms000 de/sps00 valentía/ncfs000)
+(NP la/da0fs0 cinta/ncfs000 es/vsip3s0)
+(NP personaje/ncms000 del/spcms marine/V)
+(NP la/da0fs0 zona/ncfs000 del/spcms derrumbamiento/NMS)
+(NP carga/ncfs000 emocional/V)
+(NP película/ncfs000 de/sps00 acción/ncfs000)
+(NP nivel/ncms000 es/vsip3s0)
+(NP
+  las/da0fp0
+  personas/ncfp000
+  que/pr0cn000
+  se/p0300000
+  tiró/vmis3s0)
+(NP las/da0fp0 ventanas/ncfp000 del/spcms World/V Trade/V Center/V)
+(NP historia/ncfs000 de/sps00 supervivencia/ncfs000)
+(NP personas/ncfp000 que/pr0cn000 pensaban/vmii3p0)
+(NP el/da0ms0 rato/ncms000 hablando/vmg0000)
+(NP diálogo/ncms000 se/p0300000 les/pp3cpd00 oía/NFS)
+(NP la/da0fs0 verdad/ncfs000 es/vsip3s0)
+(NP gusto/ncms000 se/p0300000 volvia/NFS)
+(NP historia/ncfs000 que/pr0cn000 está/vmip3s0)
+(NP detalles/ncmp000 mas/NFP)
+(NP los/da0mp0 productores/ncmp000 de/sps00 'Las/NFP Crónicas/NFP)
+(NP la/da0fs0 novela/ncfs000 de/sps00 Katherine/V Paterson/V)
+(NP Los/da0mp0 protagonistas/nccp000 son/vsip3p0)
+(NP chica/ncfs000 adolescentes/nccp000)
+(NP paquete/ncms000 de/sps00 palomitas/NFP)
+(NP horas/ncfp000 (/V 25-04-2007/V )/V)
+(NP el/da0ms0 servicio/ncms000 del/spcms protección/ncfs000)
+(NP mujer/ncfs000 le/pp3csd00 regala/NFS)
+(NP las/da0fp0 cosas/ncfp000 que/pr0cn000 le/pp3csd00 pasan/vmip3p0)
+(NP fechas/ncfp000 de/sps00 nacimiento/ncms000)
+(NP matrículas/ncfp000 de/sps00 coche/ncms000)
+(NP horas/ncfp000 del/spcms día/ncms000)
+(NP las/da0fp0 cifras/ncfp000 que/pr0cn000 ve/vmip3s0)
+(NP libro/ncms000 'el/V número/ncms000)
+(NP la/da0fs0 habitación/ncfs000 número/ncms000)
+(NP la/da0fs0 chica/ncfs000 tenía/vmii3s0)
+(NP profesor/ncms000 tonteando/NMS)
+(NP
+  las/da0fp0
+  escaleras/ncfp000
+  se/p0300000
+  llamaban/vmii3p0
+  'Steps/V
+  to/NMS
+  Heaven/V)
+(NP la/da0fs0 chica/ncfs000 enterrada/NFS)
+(NP los/da0mp0 huesos/ncmp000 son/vsip3p0 enterrados/NMP)
+(NP gracias/ncfp000 al/spcms perro/ncms000)
+(NP El/da0ms0 profesor/ncms000 queda/vmip3s0)
+(NP La/da0fs0 película/ncfs000 te/pp2cs000 mantiene/vmip3s0)
+(NP padre/ncms000 tenía/vmii3s0)
+(NP principio/ncms000 de/sps00 ver/vmn0000)
+(NP la/da0fs0 película/ncfs000 cuesta/vmip3s0)
+(NP las/da0fp0 películas/ncfp000 de/sps00 Jim/V Carrey/V)
+(NP películas/ncfp000 de/sps00 tipo/ncms000 'paranoicas/NFP)
+(NP persona/ncfs000 a/sps00 ver/vmn0000)
+(NP tipo/ncms000 de/sps00 películas/ncfp000)
+(NP dificultad/ncfs000 a/sps00 entenderlas/NFP)
+(NP cine/ncms000 de/sps00 comedia/NFS)
+(NP gente/ncfs000 tiende/vmip3s0)

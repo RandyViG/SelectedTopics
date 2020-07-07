@@ -1,0 +1,380 @@
+(CHUNK
+  (NP razones/ncfp000 para/sps00 advertiros/NMP)
+  (DE a/sps00)
+  (NP los/da0mp0 amantes/nccp000 del/spcms cine/ncms000))
+(CHUNK
+  (NP
+    los/da0mp0
+    programas/ncmp000
+    de/sps00
+    reportajes/V
+    grabados/ncmp000)
+  (DE en/sps00)
+  (NP plan/ncms000 dogma/NFS))
+(CHUNK
+  (NP la/da0fs0 madre/ncfs000 coraje-quejica-rebelde/V)
+  (DE con/sps00)
+  (NP cría/ncfs000 en/sps00 brazos/ncmp000))
+(CHUNK
+  (NP parte/ncfs000 del/spcms tiempo/ncms000)
+  (DE a/sps00)
+  (NP grito/ncms000 limpio/NMS))
+(CHUNK
+  (NP hora/ncfs000 viendo/vmg0000)
+  (DE a/sps00)
+  (NP gente/ncfs000 gritando/vmg0000))
+(CHUNK
+  (NP acción/ncfs000 )/V)
+  (DE en/sps00)
+  (NP ocasiones/ncfp000 resulta/vmip3s0))
+(CHUNK
+  (NP la/da0fs0 mente/ncfs000 del/spcms espectador/ncms000)
+  (DE con/sps00)
+  (NP programas/ncmp000 de/sps00 corazón/ncms000))
+(CHUNK
+  (NP sufrimiento/ncms000 yuque/V)
+  (DE a/sps00)
+  (NP la/da0fs0 vez/ncfs000 piensa/vmip3s0))
+(CHUNK
+  (NP medida/ncfs000 a/sps00 enfrentarse/vmn0000)
+  (DE a/sps00)
+  (NP
+    los/da0mp0
+    acontecimientos/ncmp000
+    que/pr0cn000
+    se/p0300000
+    le/pp3csd00
+    presentan/vmip3p0))
+(CHUNK
+  (NP niños/ncmp000 juegan/vmip3p0)
+  (DE en/sps00)
+  (NP el/da0ms0 bosque/ncms000 ''/V))
+(CHUNK
+  (NP
+    aventura/ncfs000
+    de/sps00
+    Indiana/NFS
+    Jones/np0000p
+    (/V
+    Harrison/V
+    Ford/np0000o
+    )/V
+    empieza/vmip3s0)
+  (DE en/sps00)
+  (NP el/da0ms0 desierto/ncms000 del/spcms suroeste/ncms000))
+(CHUNK
+  (NP El/da0ms0 resto/ncms000 del/spcms plantel/V)
+  (DE de/sps00)
+  (NP actores/ncmp000 me/pp1cs000 ha/vaip3s0))
+(CHUNK
+  (NP El/da0ms0 señor/ncms000 director/ncms000 va/vmip3s0)
+  (DE de/sps00)
+  (NP fracaso/ncms000 en/sps00 fracaso/ncms000))
+(CHUNK
+  (NP serie/ncfs000 ``/V)
+  (DE para/sps00)
+  (NP adultos/ncmp000 ''/V))
+(CHUNK
+  (NP marido/ncms000 vuelva/vmsp3s0)
+  (DE de/sps00)
+  (NP viaje/ncms000 hablando/vmg0000))
+(CHUNK
+  (NP la/da0fs0 escena/ncfs000 mas/NFP cara/ncfs000)
+  (DE de/sps00)
+  (NP la/da0fs0 historia/ncfs000 ..../V))
+(CHUNK
+  (NP la/da0fs0 diferencia/ncfs000 de/sps00 visión/ncfs000)
+  (DE de/sps00)
+  (NP
+    los/da0mp0
+    personajes/ncmp000
+    para/sps00
+    haber/van0000
+    tenido/vmp00sm))
+(CHUNK
+  (NP la/da0fs0 película/ncfs000 se/p0300000 condensa/NFS)
+  (DE en/sps00)
+  (NP el/da0ms0 rostro/ncms000 del/spcms actor/ncms000))
+(CHUNK
+  (NP la/da0fs0 administración/ncfs000 Bush/np0000p)
+  (DE en/sps00)
+  (NP vez/ncfs000 de/sps00 calmar/vmn0000))
+(CHUNK
+  (NP catástrofes/ncfp000 en/sps00 forma/ncfs000)
+  (DE de/sps00)
+  (NP drama/ncms000 coral/ncfs000))
+(CHUNK
+  (NP grupo/ncms000 de/sps00 polis/V)
+  (DE de/sps00)
+  (NP la/da0fs0 unidad/ncfs000 portuaria/NFS))
+(CHUNK
+  (NP el/da0ms0 efecto/ncms000 explosivo/NMS)
+  (DE sobre/sps00)
+  (NP
+    el/da0ms0
+    espectador/ncms000
+    que/pr0cn000
+    se/p0300000
+    levantó/vmis3s0))
+(CHUNK
+  (NP truco/ncms000 de/sps00 salir/vmn0000)
+  (DE de/sps00)
+  (NP las/da0fp0 sombras/ncfp000 es/vsip3s0))
+(CHUNK
+  (NP página/ncfs000 donde/pr000000 se/p0300000 informe/ncms000)
+  (DE sobre/sps00)
+  (NP la/da0fs0 película/ncfs000 pensaréis/V))
+(CHUNK
+  (NP
+    La/da0fs0
+    familia/ncfs000
+    Simpson/np0000p
+    logra/vmip3s0
+    escapar/vmn0000)
+  (DE de/sps00)
+  (NP
+    la/da0fs0
+    cúpula/ncfs000
+    que/pr0cn000
+    le/pp3csd00
+    han/vaip3p0
+    puesto/ncms000))
+(CHUNK
+  (NP la/da0fs0 película/ncfs000 muestra/vmip3s0 escenas/ncfp000)
+  (DE de/sps00)
+  (NP la/da0fs0 serie/ncfs000 favorita/ncfs000))
+(CHUNK
+  (NP personaje/ncms000 podría/vmic3s0 continuar/vmn0000)
+  (DE en/sps00)
+  (NP la/da0fs0 vida/ncfs000 de/sps00 Lisa/NFS))
+(CHUNK
+  (NP residencia/ncfs000 para/sps00 atender/vmn0000)
+  (DE a/sps00)
+  (NP niños/ncmp000 discapacitados/ncmp000))
+(CHUNK
+  (NP recurso/ncms000 -tan/V manido/NMS)
+  (DE en/sps00)
+  (NP el/da0ms0 cine/ncms000 de/sps00 terror-/V))
+(CHUNK
+  (NP Estados/ncmp000 Unidos/NMP)
+  (DE con/sps00)
+  (NP el/da0ms0 título/ncms000 de/sps00 ``/V Quarantine/V ''/V))
+(CHUNK
+  (NP la/da0fs0 acción/ncfs000 a/sps00 través/V)
+  (DE de/sps00)
+  (NP la/da0fs0 cámara/ncfs000 que/pr0cn000 llevan/vmip3p0))
+(CHUNK
+  (NP la/da0fs0 película/ncfs000 a/sps00 través/V)
+  (DE de/sps00)
+  (NP la/da0fs0 cámara/ncfs000 que/pr0cn000 lleva/vmip3s0))
+(CHUNK
+  (NP aficionados/ncmp000 al/spcms género/NMS)
+  (DE para/sps00)
+  (NP aficionados/ncmp000 al/spcms género/NMS))
+(CHUNK
+  (NP escenarios/ncmp000 geniales/V)
+  (DE para/sps00)
+  (NP el/da0ms0 tipo/ncms000 de/sps00 película/ncfs000))
+(CHUNK
+  (NP el/da0ms0 juego/ncms000 traerá/V)
+  (DE de/sps00)
+  (NP cabeza/ncfs000 al/spcms departamento/ncms000))
+(CHUNK
+  (NP las/da0fp0 escenas/ncfp000 de/sps00 lucha/ncfs000)
+  (DE con/sps00)
+  (NP el/da0ms0 hombre/ncms000 arena/ncfs000))
+(CHUNK
+  (NP El/da0ms0 chico/ncms000 se/p0300000 aloja/NFS)
+  (DE en/sps00)
+  (NP casa/ncfs000 de/sps00 Mrs/V))
+(CHUNK
+  (NP el/da0ms0 patrón/ncms000 del/spcms rotor/V)
+  (DE de/sps00)
+  (NP la/da0fs0 máquina/ncfs000 Enigma/NFS (/V))
+(CHUNK
+  (NP el/da0ms0 sentido/ncms000 secreto/ncms000)
+  (DE de/sps00)
+  (NP la/da0fs0 realidad/ncfs000 ''/V))
+(CHUNK
+  (NP enfrentamiento/ncms000 dialéctico/NMS)
+  (DE entre/sps00)
+  (NP las/da0fp0 tesis/ncfn000 de/sps00 profesor/ncms000))
+(CHUNK
+  (NP la/da0fs0 película/ncfs000 se/p0300000 desarrolla/vmip3s0)
+  (DE en/sps00)
+  (NP el/da0ms0 rostro/ncms000 del/spcms actor/ncms000))
+(CHUNK
+  (NP
+    las/da0fp0
+    opiniones/ncfp000
+    que/pr0cn000
+    he/vaip1s0
+    leído/vmp00sm)
+  (DE sobre/sps00)
+  (NP la/da0fs0 película/ncfs000 confiesan/V))
+(CHUNK
+  (NP El/da0ms0 hombre/ncms000 que/pr0cn000 susurraba/NFS)
+  (DE a/sps00)
+  (NP los/da0mp0 caballos/ncmp000 junto/NMS))
+(CHUNK
+  (NP el/da0ms0 dinero/ncms000 a/sps00 través/V)
+  (DE de/sps00)
+  (NP controles/ncmp000 del/spcms aeropuerto/ncms000))
+(CHUNK
+  (NP orden/ncms000 cronológico/NMS)
+  (DE en/sps00)
+  (NP la/da0fs0 vida/ncfs000 del/spcms doctor/ncms000 Lecter/V))
+(CHUNK
+  (NP La/da0fs0 película/ncfs000 es/vsip3s0 adaptación/ncfs000)
+  (DE de/sps00)
+  (NP la/da0fs0 novela/ncfs000 homónima/NFS))
+(CHUNK
+  (NP especie/ncfs000 de/sps00 casita/ncfs000)
+  (DE de/sps00)
+  (NP campo/ncms000 que/pr0cn000 ellos/pp3mp000 llaman/vmip3p0))
+(CHUNK
+  (NP planes/ncmp000 estén/vmsp3p0)
+  (DE a/sps00)
+  (NP punto/ncms000 de/sps00 irse/vmn0000))
+(CHUNK
+  (NP amigo/ncms000 deben/vmip3p0 emprender/vmn0000)
+  (DE hacia/sps00)
+  (NP el/da0ms0 sur/ncms000 a/sps00 través/V))
+(CHUNK
+  (NP la/da0fs0 serie/ncfs000 Serie/V)
+  (DE de/sps00)
+  (NP humor/ncms000 de/sps00 Reino/NMS Unido/NMS protagonizada/NFS))
+(CHUNK
+  (NP
+    aventura/ncfs000
+    de/sps00
+    Indiana/NFS
+    Jones/np0000p
+    (/V
+    Harrison/V
+    Ford/np0000o
+    )/V
+    empieza/vmip3s0)
+  (DE en/sps00)
+  (NP
+    el/da0ms0
+    desierto/ncms000
+    del/spcms
+    suroeste/ncms000
+    Estados/ncmp000
+    Unidos/NMP))
+(CHUNK
+  (NP misión/ncfs000 que/pr0cn000 le/pp3csd00 llevará/vmif3s0)
+  (DE de/sps00)
+  (NP vuelta/ncfs000 al/spcms espacio/ncms000))
+(CHUNK
+  (NP la/da0fs0 práctica/ncfs000 omnipresencia/NFS)
+  (DE de/sps00)
+  (NP
+    la/da0fs0
+    música/ncfs000
+    me/pp1cs000
+    ha/vaip3s0
+    resultado/ncms000))
+(CHUNK
+  (NP la/da0fs0 sociedad/ncfs000 post/V 11-S/V)
+  (DE de/sps00)
+  (NP forma/ncfs000 aplaudible/V))
+(CHUNK
+  (NP mujeres/ncfp000 treintañeras/NFP hablando/vmg0000)
+  (DE de/sps00)
+  (NP sexo/ncms000 sin/sps00 tapujos/NMP))
+(CHUNK
+  (NP
+    los/da0mp0
+    artículos/ncmp000
+    que/pr0cn000
+    escribe/vmip3s0
+    Carrie/V
+    semanalmente/V)
+  (DE en/sps00)
+  (NP el/da0ms0 periódico/ncms000 The/V New/V York/V Star/V))
+(CHUNK
+  (NP columnas/ncfp000 tratan/vmip3p0)
+  (DE sobre/sps00)
+  (NP las/da0fp0 relaciones/ncfp000 sexuales/V))
+(CHUNK
+  (NP
+    diseñadores/ncmp000
+    que/pr0cn000
+    han/vaip3p0
+    participado/vmp00sm)
+  (DE en/sps00)
+  (NP la/da0fs0 película/ncfs000 desde/sps00 Lanvin/V))
+(CHUNK
+  (NP veces/ncfp000 Carrie/V)
+  (DE en/sps00)
+  (NP la/da0fs0 serie/ncfs000 lleva/vmip3s0))
+(CHUNK
+  (NP el/da0ms0 restaurante/ncms000 queda/vmip3s0)
+  (DE en/sps00)
+  (NP manos/ncfp000 de/sps00 Skinner/V))
+(CHUNK
+  (NP El/da0ms0 restaurante/ncms000 está/vmip3s0)
+  (DE a/sps00)
+  (NP punto/ncms000 de/sps00 ser/vsn0000))
+(CHUNK
+  (NP salida/ncfs000 al/spcms género/NMS)
+  (DE de/sps00)
+  (NP la/da0fs0 animación/ncfs000 por/sps00 ordenador/ncms000))
+(CHUNK
+  (NP trabajo/ncms000 estupendo/NMS junto/NMS)
+  (DE con/sps00)
+  (NP el/da0ms0 resto/ncms000 del/spcms equipo/ncms000))
+(CHUNK
+  (NP humanidad/ncfs000 ''/V)
+  (DE de/sps00)
+  (NP
+    los/da0mp0
+    personajes/ncmp000
+    de/sps00
+    ``/V
+    Final/V
+    Fantasy/V
+    ''/V))
+(CHUNK
+  (NP los/da0mp0 platos/ncmp000 es/vsip3s0)
+  (DE de/sps00)
+  (NP matrícula/ncfs000 de/sps00 honor/ncms000))
+(CHUNK
+  (NP pantalla/ncfs000 de/sps00 cine/ncms000)
+  (DE para/sps00)
+  (NP poder/ncms000 apreciar/vmn0000))
+(CHUNK
+  (NP el/da0ms0 poder/ncms000 de/sps00 otorgar/vmn0000 vida/ncfs000)
+  (DE a/sps00)
+  (NP elementos/ncmp000 inertes/V))
+(CHUNK
+  (NP pensamiento/ncms000 es/vsip3s0 darlo/vmn0000)
+  (DE en/sps00)
+  (NP adopción/ncfs000 ..../V))
+(CHUNK
+  (NP periodista/nccs000 que/pr0cn000 escribe/vmip3s0)
+  (DE en/sps00)
+  (NP la/da0fs0 columna/ncfs000 de/sps00 sociedad/ncfs000))
+(CHUNK
+  (NP la/da0fs0 noche/ncfs000 atónito/NMS)
+  (DE con/sps00)
+  (NP la/da0fs0 marcha/ncfs000 que/pr0cn000 lleva/vmip3s0))
+(CHUNK
+  (NP vestidos/ncmp000 de/sps00 dama/ncfs000)
+  (DE de/sps00)
+  (NP honor/ncms000 que/pr0cn000 ha/vaip3s0))
+(CHUNK
+  (NP poder/ncms000 casarse/V)
+  (DE con/sps00)
+  (NP el/da0ms0 vestido/ncms000 de/sps00 boda/ncfs000))
+(CHUNK
+  (NP
+    las/da0fp0
+    personas/ncfp000
+    que/pr0cn000
+    se/p0300000
+    tiró/vmis3s0)
+  (DE por/sps00)
+  (NP las/da0fp0 ventanas/ncfp000 del/spcms World/V Trade/V Center/V))
